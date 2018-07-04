@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Apogeo: Media Partner PGDay.IT 2018"
+date:   2018-03-06 00:45:00
+isStaticPost: false
+permalink: /en/blog/apogeo
+image: media_partner_apogeo.jpg
+lang: en
+ref: apogeo
+---
+
+<h6>Welcome back Apogeo. Media Partner of PGDay.IT 2018.</h6>
+
+Apogeo is a publishing house founded in 1989. Since the beginning It is characterized by a production of technical-informatics manuals, always identifying trends in the ICT sector and bringing them to the public through books, ebooks and the website [Apogeonline](http://www.apogeonline.com/). A particular interest has always been dedicated to the world of open-source software. Apogeo is part of Gruppo Feltrinelli S.p.A since 2001.
+
+[APOGEONLINE](http://www.apogeonline.com/)
+it's their official website, but do not expect a traditional showcase of books. [Apogeonline](http://www.apogeonline.com/) is a publisher inside a publisher. A free daily webzine on digital technology and culture: a space for in-depth analysis, dialogue and comparison since 1998.
+
+All information on their publications are available in the area dedicated to [catalog](http://www.apogeonline.com/libri/catalogo). The [ebook section](http://www.apogeonline.com/libri/Collana/Apogeoebook) is dedicated to electronic book lovers.

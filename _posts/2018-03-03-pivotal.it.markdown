@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Pivotal: Partner PGDay.IT 2018"
+date:   2018-03-07 00:50:00
+isStaticPost: false
+permalink: /it/blog/pivotal
+image: partner_pivotal.jpg
+lang: it
+ref: pivotal
+redirect-from:
+ - /blog/pivotal
+---
+
+<h6>Primo! Primo! Primo! Pivotal Partner del PGDay.IT 2018</h6>
+
+Siamo molto orgogliosi di annunciare [Pivotal](https://pivotal.io/) come Diamond Partner del PGDay.IT 2018.
+
+Pivotal è il Primo Partner del PGDay.IT, ha optato per una Partnership Diamond (Primo livello) ed è la Prima volta che Pivotal collabora con noi di [ITPUG](http://www.itpug.org/index.it.html). Tre volte Primo! Fantastico!
+
+Ci auguriamo che questo sia solo l'inizio di una lunga collaborazione.
+
+Abbiamo chiesto a [Cesar Rojas](https://www.linkedin.com/in/cesarr77/), Head of Marketing, il motivo per cui [Pivotal](https://pivotal.io/) ha deciso di accompagnarci in questa nuova avventura diventando Partner Diamond del PGDay.IT 2018.
+
+Ecco la risposta:
+
+>PostgreSQL è il miglior database operativo (OLTP) open source al mondo, ma molti utenti di PostgreSQL sono costretti a lavorare con database analitici proprietari (ad esempio Oracle o Teradata) per i loro data warehouse e per lavorare con tecniche big data.
+
+>Stiamo informando la comunità dell'esistenza di un'alternativa analitica migliore. Il database Greenplum è open source, al 100% basato su PostgreSQL e una piattaforma analitica che offre un collaudato percorso di migrazione da alternative costose e proprietarie all'ecosistema di Postgres.
+
+**Chi è Pivotal**
+
+[Pivotal](https://pivotal.io/) è il creatore di [Pivotal Greenplum](https://pivotal.io/pivotal-greenplum), la prima piattaforma al mondo di analisi dei dati con funzionalità complete e multi-cloud (MPP) basata sull'open source [Greenplum Database](https://greenplum.org/) e [PostgreSQL](https://www.postgresql.org/).
+
+[Pivotal Greenplum](https://pivotal.io/pivotal-greenplum) fornisce analisi complete e integrate su dati multi-strutturati. Grazie all'ottimizzatore di query  basato su costi più avanzato, [Pivotal Greenplum](https://pivotal.io/pivotal-greenplum) offre prestazioni analitiche senza confronti su enormi volumi di dati.

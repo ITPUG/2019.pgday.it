@@ -1,0 +1,162 @@
+-
+  group: "Diamond Partners"
+  elements:
+    -
+      name:
+        it: "Pivotal"
+        en: "Pivotal"
+      description:
+        it: "Pivotal è il creatore di Pivotal Greenplum, la prima piattaforma al mondo di analisi dei dati con funzionalità complete e multi-cloud (MPP) basata sull’open source Greenplum Database e PostgreSQL. Pivotal Greenplum fornisce analisi complete e integrate su dati multi-strutturati. Grazie all’ottimizzatore di query basato su costi più avanzato, Pivotal Greenplum offre prestazioni analitiche senza confronti su enormi volumi di dati."
+        en: "Pivotal is the maker of Pivotal Greenplum, the world’s first fully-featured, multi-cloud, massively parallel processing (MPP) data analytics platform based on the open source Greenplum Database and PostgreSQL. Pivotal Greenplum provides comprehensive and integrated analytics on multi-structured data. Powered by the world’s most advanced cost-based query optimizer, Pivotal Greenplum delivers unmatched analytical query performance on massive volumes of data."
+      link: "https://pivotal.io/"
+      imageUrl: "Pivotal.png"
+    -
+      name:
+        it: "EDB - Emerasoft"
+        en: "EDB - Emerasoft"
+      description:
+        it: "Fondata nel 2005 Emerasoft è composta da un team che  ha maturato competenze specialistiche in diversi settori del business informatico. Le diverse esperienze si riflettono nella capacità di affrontare problemi eterogenei e complessi in modo professionale e qualificato. La capacità di produrre e selezionare tecnologie allo stato dell’arte e stringere accordi di collaborazione continua nell’esplorazione di aree di frontiera nello sviluppo applicativo, stimolo e sfida a continuare un percorso di eccellenza e qualità. Il nostro impegno è nella costante ricerca della migliore soluzione per il cliente, garantendo eccellenza nella qualità di servizi e prodotti proposti. La nostra promessa è di svolgere il nostro lavoro con costanza e passione. Mission: Siamo impegnati a ricercare ed utilizzare metodologie e strumenti agili in grado di favorire la crescita di nuovi e più efficaci modelli di Business e di Sviluppo a costi e investimenti ridotti"
+        en: "Founded in 2005 Emerasoft is formed by a team with specialized skills in various sectors of the IT business. Our different experiences reflect in our ability to face heterogeneous and complex problems in a professional and efficient way. The ability to produce and select state-of-the-art technologies and establish continuous collaboration agreements in the exploration of frontier areas of application development, stimulate and challenge us to continue a path of excellence and quality. Our commitment is in the constant search of the best solution for the customer, guaranteeing excellence in the quality of services and offered products. We promise to carry out our work with constancy and passion. Mission: We are committed to the research and use of agile methodologies and tools able to foster the growth of new and more effective Business and Development models at reduced costs and investments."
+      link: "https://www.1asol.com/emerasoft/"
+      imageUrl: "EDB Emerasoft partner.png"
+    -
+      name:
+        it: "2ndQuadrant"
+        en: "2ndQuadrant"
+      description:
+        it: "2ndQuadrant è stata fondato nel 2001 da Simon Riggs, major developer e committer del progetto PostgreSQL. Il team di esperti è in continua crescita ed è composto da alcuni dei più noti e attivi sviluppatori di PostgreSQL al mondo, con lo scopo di creare il più grande team di esperti PostgreSQL a livello globale. I membri di 2ndQuadrant contribuiscono attivamente allo sviluppo di PostgreSQL."
+        en: "2ndQuadrant is a team of diligent PostgreSQL experts. Their support engineers have over 100 years of combined code contributions to the PostgreSQL project, making them the only company to contribute enterprise features to all of the last 13 releases. This is paired with 17+ years of hands-on experience through client engagements to allow them to integrate customized solutions with their customers - making 2ndQuadrant the Gold Standard for PostgreSQL products & services."
+      link: "https://www.2ndquadrant.com/"
+      imageUrl: "2ndQuadrant.png"
+-
+  group: "Platinum Partners"
+  elements:
+    -
+      name:
+        it: ""
+        en: ""
+      description:
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
+-
+  group: "Gold Partners"
+  elements:
+    -
+      name:
+        it: "Arcoda"
+        en: "Arcoda"
+      description:
+        it: "Arcoda è una società del mondo ICT che si occupa di piattaforme tecnologiche innovative nel settore del work force management. Il proprio know how fuori dal comune e la capacità di realizzare soluzioni anche molto personalizzate hanno destato l’interesse di aziende di spicco del panorama nazionale e internazionale."
+        en: "Arcoda is an ICT company that focuses on innovative platforms on work force management field. Its outstanding know-how and highly customized solutions represent an attractive for Italian and international big players."
+      link: "https://www.arcoda.it/"
+      imageUrl: "Arcoda.jpg"
+    -
+      name:
+        it: "Subito"
+        en: "Subito"
+      description:
+        it: "Subito è l’azienda n. 1 in Italia per comprare e vendere. Siamo nati a Milano nel 2007 e oggi, nel nostro Paese, ci posizioniamo stabilmente tra i primi 10 brand online più visitati e come primo servizio di annunci su web (fonte: Media Audiweb Total Digital Audience 2016).
+        Ogni giorno Subito può contare su un milione e ottocento mila visitatori unici, 45 milioni di pagine viste e 150 mila nuovi annunci pubblicati.
+        Da sempre il nostro obiettivo è offrire il servizio online di compravendita più semplice, veloce e sicuro d’Italia. Con Subito, persone alla prima esperienza e utenti professionali riescono a fare ottimi affari.
+        Dobbiamo i grandi risultati ottenuti ad una piattaforma intuitiva ed efficace e a un’offerta ampia e di qualità, con contenuti controllati per una maggiore sicurezza. E poi, certo, a una squadra instancabile fatta di persone che lavorano, con passione, per le persone.
+        Subito è parte di Schibsted Media Group, multinazionale norvegese che opera con successo in 29 Paesi nei mercati editoriale (quotidiani e free press), online (siti di annunci di compravendita e servizi digitali) e mobile. Il Gruppo è stato fondato nel 1839 e oggi conta 6.900 dipendenti."
+        en: "Founded in 2007 in Milan, Subito.it is the company owning Subito's digital platform. Subito aims to offer the easiest, fastest and safest buying and selling online service to make good deals through service’s efficiency and quality and variety of the offer.
+        With over 5 million ads in 37 different product categories diversified per geographical locations, more than 8 million unique users monthly and over 45 million page views daily, Subito is the first classified service and is among the top six most visited websites in Italy (source: Audiweb Total Digital Audience 2016 average).
+        Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
+      link: "https://www.subito.it/"
+      imageUrl: "logo_SUBITO.jpg"
+-
+  group: "Silver Partners"
+  elements:
+    -
+      name:
+        it: ""
+        en: ""
+      description:
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
+-
+  group: "Bronze Partners"
+  elements:
+    -
+      name:
+        it: "R3 GIS Srl - GmbH"
+        en: "R3 GIS Srl - GmbH"
+      description:
+        it: "Dal 2003 R3 GIS realizza soluzioni web per la gestione dei dati territoriali. L’esperienza maturata negli anni grazie al contatto diretto con gli utilizzatori finali degli applicativi, la continua formazione del personale e la partecipazione ad eventi internazionali del settore GIS ci hanno permesso di ideare prodotti flessibili, semplici ed estremamente efficaci. R3 GIS si è così affermata come fornitore affidabile e competente. L’impostazione multilingue delle soluzioni permette ad R3 GIS di essere presente anche sul mercato estero."
+        en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
+      link: "http://www.r3-gis.com/"
+      imageUrl: "logo_r3gis_high.png"
+-
+  group: "Media Partners"
+  elements:
+    -
+      name:
+        it: "Apogeo"
+        en: "Apogeo"
+      description:
+        it: "Idee sulla tecnologia che cambia la nostra vita."
+        en: "Ideas about technology that changes our lives."
+      link: "http://www.apogeonline.com/"
+      imageUrl: "apogeo.png"
+    -
+      name:
+        it: "GRUSP"
+        en: "GRUSP"
+      description:
+        it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web."
+        en: "Founded in 2003 as a dedicated PHP-only association, GrUSP has become the landmark for good practices in the web development world in Italy."
+      link: "http://www.grusp.org/it/"
+      imageUrl: "grusp.jpg"
+    -
+      name:
+        it: "Python Italia APS"
+        en: "Python Italia APS"
+      description:
+        it: "Python Italia APS è una associazione a livello nazionale che si propone di aiutare e supportare la diffusione e l'utilizzo del linguaggio di programmazione Python sul territorio italiano. L'attività della associazione si dirama in iniziative più o meno locali di varia dimensione e natura. Evento di punta: PyCon Italia, la conferenza ufficiale italia, ormai appuntamento fisso di centinaia e centinaia di sviluppatori python da tutto il mondo."
+        en: "Python Italia APS is a local association which aims to help and support the diffusion and use of the Python programming language. It runs many local initiatives of varying size and nature. Key event: PyCon Italia, the official Italian conference, now unmissable date for hundreds of python developers from all over the world."
+      link: "https://www.pycon.it/it/"
+      imageUrl: "Python_Italia.jpg"
+    -
+      name:
+        it: "LPI, Linux Professional Institute"
+        en: "LPI, Linux Professional Institute"
+      description:
+        it: "LPI, Linux Professional Institute (LPI) promuove e certifica le competenze necessarie all’uso di Linux e delle tecnologie Open Source in ambito professionale, con un programma di esami indipendente, globale e di alta qualità. LPI è lo standard globale di certificazione e di supporto alla carriera per i professionisti Open Source. Con più di 500.000 esami somministrati LPI è il soggetto di certificazione indipendente in ambito Linux e Open Source più grande al mondo. Ha certificato professionisti in 181 Paesi, somministrato esami in 9 lingue; ha oltre 400 partner nella formazione. Fondato a Toronto, Canada nel 1999 come organizzazione internazionale no-profit, il LPI, Linux Professional Institute è leader nelle certificazioni professionali Linux grazie alla qualità dei suoi programmi, ai propri partner per la formazione, alle sponsorizzazioni, al supporto dell’industria IT ed al sostegno della comunità OpenSource. LPI è anche un membro fondatore del Desktop Linux Consortium e membro della Linux Foundation."
+        en: "LPI, Linux Professional Institute (LPI) promotes and certifies the skills necessary for the use of Linux and Open Source technologies in the professional field, with independent, global and high-quality exams program. LPI is the global certification and career support standard for Open Source professionals. With more than 500,000 tests administered LPI is the largest independent certification in the Linux and Open Source world. Certified professionals in 181 countries, conducted exams in 9 languages; has over 400 partners in training. Founded in Toronto, Canada in 1999 as an international non-profit organization, the LPI, Linux Professional Institute is a leader in Linux professional certifications, thanks to the quality of its programs, partners, sponsorships, IT industry support and support for the Open Source community. LPI is also a founding member of the Linux Desktop Consortium and a member of the Linux Foundation."
+      link: ""
+      imageUrl: "LPI_Logo-ColourLarge.png"
+    -
+      name:
+        it: "GoLab"
+        en: "GoLab"
+      description:
+        it: "GoLab is the first Italian conference on Go. GoLab was created and yearly organized by Develer, the company who launched events like PyCon, EuroPython, LinuxLab, Better Software, Better Embedded, QtDay."
+        en: "GoLab is the first Italian conference on Go. GoLab was created and yearly organized by Develer, the company who launched events like PyCon, EuroPython, LinuxLab, Better Software, Better Embedded, QtDay."
+      link: "https://www.golab.io/"
+      imageUrl: "golab.png"
+-
+  group: "Patrocinato da"
+  elements:
+    -
+      name:
+        it: "Regione del Veneto"
+        en: "Regione del Veneto"
+      description:
+        it: ""
+        en: ""
+      link: "https://www.regione.veneto.it/web/guest/home"
+      imageUrl: "logo_regione_veneto.jpeg"
+    -
+      name:
+        it: "Provincia di Verona"
+        en: "Provincia di Verona"
+      description:
+        it: ""
+        en: ""
+      link: "http://portale.provincia.vr.it/"
+      imageUrl: "provincia-di-verona.JPG"

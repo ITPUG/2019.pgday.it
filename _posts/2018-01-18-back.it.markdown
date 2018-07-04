@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "We are back!"
+date:   2018-01-18 04:00:00
+isStaticPost: false
+permalink: /it/blog/back
+lang: it
+ref: back
+image: back.jpg
+redirect-from:
+ - /blog/back
+---
+
+<h6>PGDay.IT 2018 apre le porte.</h6>
+
+Siamo carichi di entusiasmo dato che [l'ultima edizione](https://2017.pgday.it/it/) è stata fantastica!
+Quasi 200 partecipanti entusiasti, talk interessanti, speaker di livello, partner fantastici e una bellissima location. Abbiamo anche ricevuto ottimi feedback dai partecipanti.
+
+Non avremmo potuto chiedere un risultato migliore.
+Grazie a tutti: partecipanti, speaker, staff, partner e tutti noi speriamo di ritrovarvi tutti durante questa nuova edizione del [PGDay.IT](https://2018.pgday.it/it/).
+
+[PGDay.IT 2018](https://2018.pgday.it/it/) si terrà a [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno.
+
+Sede scelta: [Hotel Parchi del Garda](https://2018.pgday.it/it/logistics/). L'hotel si trova tra Peschiera del Garda e [Lazise](https://2018.pgday.it/it/logistics/), a soli 900 metri dalla riva del Lago di Garda.
+
+Il nostro consiglio per voi: prendetevi del tempo, proseguendo il vostro weekend alla scoperta del Lago di Garda.
+
+Per coloro che si dovessero preoccupare su come raggiungere la location: "[PG_shuttle](https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform)" risolve la questione!
+
+Abbiamo organizzato un pick up free presso: l'aereoporto di Verona, la stazione di Verona e l'aereoporto di Bergamo. Compilate il form per prenotare il vostro  "[PG_shuttle](https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform)".
+
+Come è strutturata la conferenza?
+
+Un keynote, otto talk in italiano, otto talk in inglese e a fine giornata i lightning talk.
+
+**C'è una novità:** Workshop - 28 giugno!
+Quattro ore dedicate a topic specifici scelti tra le proposte che ci perverranno. La Call for Workshops è aperta!
+
+Focus point:
+* Partecipanti: ne aspettiamo tanti ... davvero tanti!
+* Topic: più di 16 ore dedicate interamente a PostgreSQL, molti talk con un alto contenuto tecnico e momenti social da non perdere.
+* Quando: PGDay.IT 29 giugno 2018 - Workshop 28 giugno 2018.
+* Speaker: La [Call for Paper è aperta](https://2018.pgday.it/it/blog/cfp), e ci aspettiamo molte proposte interessanti. Una di queste potrebbe essere la vostra! Stiamo lavorando per assicurarci alcune “Rockstar” dell'ecosistema di PostgreSQL e sostenitori del mondo Open Source.
+* Workshop: La [Call for Workshop è aperta](https://2018.pgday.it/it/blog/cfw). Quattro ore pratiche dedicate a topic specifici.
+* Location: Hotel Parchi del Garda è un'ottimale location grazie al fatto che si trova al centro si una zona carica di opportunità! A pochi passi dalle splendide rive del Lago di Garda, nel mezzo di rinomati parchi tematici e nel cuore di un territorio ricco di storia, tradizioni e buon cibo.
+
+<h6>Come si può non esserci?</h6>
+
+Maggiori dettagli circa gli speaker selezionati ed il programma saranno pubblicati e comunicati attraverso il blog dedicato al PGDay.IT 2018 e condivisi attraverso i nostri canali ufficiali.
+Seguiteci su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) in modo da non perdere nessun aggiornamento sul [PGDay.IT 2018](https://2018.pgday.it/it/).

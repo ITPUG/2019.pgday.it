@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Pivotal: Partner PGDay.IT 2018"
+date:   2018-03-07 00:50:00
+isStaticPost: false
+permalink: /en/blog/pivotal
+image: partner_pivotal.jpg
+lang: en
+ref: pivotal
+---
+
+<h6>First! First! First! Pivotal Diamond Partner PGDay.IT 2018</h6>
+
+We are very proud to announce [Pivotal](https://pivotal.io/) as a Diamond Partner of PGDay.IT 2018.
+
+[Pivotal](https://pivotal.io/) is the first company to become a Partner of PGDay.IT, has opted for a Diamond Partnership (First level) and this is also the first time that [Pivotal](https://pivotal.io/) is collaborating with us at [ITPUG](http://www.itpug.org/index.it.html). Three times First! Fantastic!
+
+We hope this is just the beginning of a long collaboration.
+
+We asked [Cesar Rojas](https://www.linkedin.com/in/cesarr77/), Head of Marketing, the reason why [Pivotal](https://pivotal.io/) decided to accompany us in this new adventure becoming a Diamond Partner of PGDay.IT 2018.
+
+Here it is the answer:
+
+>PostgreSQL is the best open source operational (OLTP) database on the planet but many PostgreSQL users are forced to work with proprietary analytical databases (e.g. Oracle or Teradata) for their data warehousing and big data workloads.
+
+>We are reaching out to the community with a better analytics alternative. The Greenplum Database is an open source, 100% based on PostgreSQL, an analytical platform that offers a proven path of migration from expensive and proprietary alternatives to the Postgres ecosystem.
+
+**Who Pivotal**
+
+[Pivotal](https://pivotal.io/) is the maker of [Pivotal Greenplum](https://pivotal.io/pivotal-greenplum), the world’s first fully-featured, multi-cloud, massively parallel processing (MPP) data analytics platform based on the open source [Greenplum Database](https://greenplum.org/) and [PostgreSQL](https://www.postgresql.org/).
+
+Pivotal Greenplum provides comprehensive and integrated analytics on multi-structured data. Powered by the world’s most advanced cost-based query optimizer, Pivotal Greenplum delivers unmatched analytical query performance on massive volumes of data.

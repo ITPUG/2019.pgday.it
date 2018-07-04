@@ -1,0 +1,525 @@
+-
+  id: 000
+  title:
+    en: "Attendees registration"
+    it: "Registrazione partecipanti"
+  place: "Hall"
+  service: true
+  description:
+    en: ""
+    it: ""
+-
+  id: 307
+  title:
+    en: "Coffee break"
+    it: "Coffee break"
+  place: "Hall"
+  service: true
+  description:
+    en: "'"
+    it: "'"
+-
+  id: 503
+  title:
+    en: "Lunch"
+    it: "Pranzo"
+  place: "Hall"
+  service: true
+  description:
+    en: "'"
+    it: "'"
+-
+  id: 094
+  title:
+    en: "Lightning talk"
+    it: "Lightning talk"
+  service: true
+  description:
+    en: "You will find a board at ITPUG desk where you could write the Title and your Name to book your Lightning Talk.
+Do not hesitate!"
+    it: "Al desk ITPUG troverai una lavagna dove poter scrivere il tuo Nome ed il Titolo del tuo Lightning Talk.
+Non esitare!"
+  subtype: Lightning talk
+  language: en - it
+  #presentation: ""
+  #video: ""
+-
+  id: 095
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
+  subtype: Lightning talk
+  language: it
+  presentation: ""
+  video: ""
+-
+  id: 096
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
+  subtype: Lightning talk
+  language: it
+  presentation: ""
+  video: ""
+-
+  id: 097
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
+  subtype: Lightning talk
+  language: it
+  presentation: ""
+  video: ""
+-
+  id: 098
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
+  subtype: Lightning talk
+  language: it
+  presentation: ""
+  video: ""
+-
+  id: 099
+  title:
+    en: ""
+    it: ""
+  description:
+    en: ""
+    it: ""
+  subtype: Lightning talk
+  language: it
+  presentation: ""
+  video: ""
+-
+  id: 999
+  title:
+    en: "Recruiting session"
+    it: "Recruiting session"
+  service: true
+  description:
+    en: ""
+    it: ""
+  subtype: Recruiting session
+  language: en - it
+  video: ""
+-
+  id: 001
+  title:
+    en: "Keynote"
+    it: "Keynote"
+  description:
+    en: ""
+    it: ""
+  subtype: Keynote
+  speakers: [0]
+  language: en
+  complexity: "keynote"
+#  presentation: ""
+#  video: ""
+-
+  id: 002
+  title:
+    it: "Why Logical Replication?"
+    en: "Why Logical Replication?"
+  description:
+    it: "In this talk we discuss the state of the art of Logical Replication for PostgreSQL. While we begin by comparing it with Physical Replication, the core part of this presentation is to examine a few specific use cases, including selective replication and no-downtime software upgrades. Throughout the talk we will also comment on pitfalls and limitations, as they arise in the use cases."
+    en: "In this talk we discuss the state of the art of Logical Replication for PostgreSQL. While we begin by comparing it with Physical Replication, the core part of this presentation is to examine a few specific use cases, including selective replication and no-downtime software upgrades. Throughout the talk we will also comment on pitfalls and limitations, as they arise in the use cases."
+  subtype: Talk
+  speakers: [1]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 003
+  title:
+    it: "Partizionamento dichiarativo dei dati con PostgreSQL"
+    en: "Declarative data partitioning with PostgreSQL"
+  description:
+    it: "Il partizionamento orizzontale è una delle tecniche di modellazione di un database di maggior successo per la scalabilità verticale di un database PostgreSQL. Dopo un excursus storico sul workaround disponibile già da PostgreSQL 8.1 e basato sull'ereditarietà, andiamo nel dettaglio del partizionamento dichiarativo introdotto in PostgreSQL 10, con un'occhiata sui lavori previsti per PostgreSQL 11."
+    en: "Horizontal partitioning is one of the most successful database modeling techniques for the scalability of a PostgreSQL database. After a historical excursus on the workaround already available from PostgreSQL 8.1 and based on inheritance, we will go through declarative partitioning introduced in PostgreSQL 10, with a peep of what's waiting for us in PostgreSQL 11."
+  subtype: Talk
+  speakers: [3]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 004
+  title:
+    it: "PostgreSQL Tips & Tricks"
+    en: "PostgreSQL Tips & Tricks"
+  description:
+    it: "PostgreSQL, oltre ad essere un database completo ed affidabile, riserva molte sorprese e funzionalità 'nascoste' che andremo ad scoprire in questo talk. In particolare esploreremo:
+•        alcuni tipi di dato 'non convenzionali'
+•        query stravaganti
+•        psql per elefanti coraggiosi
+•        indici preziosi
+•        a caccia di estensioni uniche
+Incuriosito? Non mancare a questo talk, rimarrai sorpreso di ciò che il nostro Elefante può fare!"
+    en: "PostgreSQL, oltre ad essere un database completo ed affidabile, riserva molte sorprese e funzionalità 'nascoste' che andremo ad scoprire in questo talk. In particolare esploreremo:
+•        alcuni tipi di dato 'non convenzionali'
+•        query stravaganti
+•        psql per elefanti coraggiosi
+•        indici preziosi
+•        a caccia di estensioni uniche
+Incuriosito? Non mancare a questo talk, rimarrai sorpreso di ciò che il nostro Elefante può fare!"
+  subtype: Talk
+  speakers: [4]
+  language: IT
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 005
+  title:
+    it: "Replication becomes logical - How MultiMaster Replication developments work towards full integration to core PostgreSQL"
+    en: "Replication becomes logical - How MultiMaster Replication developments work towards full integration to core PostgreSQL"
+  description:
+    it: "Simon will use the example of Bi-Directional-Replication, Multi-master replication of geographically distributed databases in PostgreSQL, to explain how the development of PostgreSQL features for paying customers can be leveraged to improve the overall project.
+
+Postgres-BDR can be installed on bare metal, virtualized environments, or deployed in the cloud - it works as an extension to open source PostgreSQL versions 9.6+. The future features of BDR will reduce read and write latency for databases hosted far apart from each other, while remaining highly available with autofailover. Multi-master functionality from BDR 3.0 will be submitted as core patches to PG12 in 2019, furthering the progression towards getting it full function multi-master into core for Production use.
+
+Explanations of multiple enhancements of PostgreSQL, which were accomplished as one of the results of the development of Postgres-BDR, will be included."
+    en: "Simon will use the example of Bi-Directional-Replication, Multi-master replication of geographically distributed databases in PostgreSQL, to explain how the development of PostgreSQL features for paying customers can be leveraged to improve the overall project.
+
+Postgres-BDR can be installed on bare metal, virtualized environments, or deployed in the cloud - it works as an extension to open source PostgreSQL versions 9.6+. The future features of BDR will reduce read and write latency for databases hosted far apart from each other, while remaining highly available with autofailover. Multi-master functionality from BDR 3.0 will be submitted as core patches to PG12 in 2019, furthering the progression towards getting it full function multi-master into core for Production use.
+
+Explanations of multiple enhancements of PostgreSQL, which were accomplished as one of the results of the development of Postgres-BDR, will be included."
+  subtype: Talk
+  speakers: [5]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 006
+  title:
+    it: "Utilizzare Postgresql per analizzare stream di Kafka"
+    en: "Utilizzare Postgresql per analizzare stream di Kafka"
+  description:
+    it: "Apache Kafka è una piattaforma di raccolta e l'elaborazione di messaggi in real time. Viene utilizzato in un numero sempre maggiore di contesti per gestire  flussi di eventi quali supervisioni, transazioni e altre attività  in real time.
+
+Questo intervento si concentra sulla connessione tra Kafka e PostgreSQL per aggiornare automaticamente un database relazionale con eventi provenienti da Kafka, consentendo di utilizzare le funzionalità di reporting e aggregazione di dati di PostgreSQL sul flusso di dati in real time."
+    en: "Apache Kafka è una piattaforma di raccolta e l'elaborazione di messaggi in real time. Viene utilizzato in un numero sempre maggiore di contesti per gestire  flussi di eventi quali supervisioni, transazioni e altre attività  in real time.
+
+Questo intervento si concentra sulla connessione tra Kafka e PostgreSQL per aggiornare automaticamente un database relazionale con eventi provenienti da Kafka, consentendo di utilizzare le funzionalità di reporting e aggregazione di dati di PostgreSQL sul flusso di dati in real time."
+  subtype: Talk
+  speakers: [6]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 007
+  title:
+    it: "Replica logica in PostgreSQL: il futuro è adesso"
+    en: "Replica logica in PostgreSQL: il futuro è adesso"
+  description:
+    it: "A partire dalla versione 10, la replica logica entra nel core di PostgreSQL, permettendo di replicare dati in maniera efficiente fra nodi diversi. In questo talk vedremo come funziona questo metodo alternativo alla replica fisica, quanto sia efficiente rispetto ad altri metodi di replica e come, con qualche accorgimento, sia possibile avere lo stream delle modifiche accessibile da Python. Naturalmente daremo anche uno squardo al futuro, parlando dei miglioramenti che saranno inclusi in PostgreSQL 11."
+    en: "A partire dalla versione 10, la replica logica entra nel core di PostgreSQL, permettendo di replicare dati in maniera efficiente fra nodi diversi. In questo talk vedremo come funziona questo metodo alternativo alla replica fisica, quanto sia efficiente rispetto ad altri metodi di replica e come, con qualche accorgimento, sia possibile avere lo stream delle modifiche accessibile da Python. Naturalmente daremo anche uno squardo al futuro, parlando dei miglioramenti che saranno inclusi in PostgreSQL 11."
+  subtype: Talk
+  speakers: [7]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 008
+  title:
+    it: "PostgreSQL High Availability using repmgr and pgbouncer"
+    en: "PostgreSQL High Availability using repmgr and pgbouncer"
+  description:
+    it: "In the company I work for we have implemented PostgreSQL High Availability using repmgr and pgbouncer. We have additionally prepared some custom scripts to avoid split brain situations.
+We are using puppet (foreman) for installing and configuring PostgreSQL, the same is used for configuring High Availability (with few manual steps).
+I would like to give a presentation about the setup we're doing for this High Availability solution."
+    en: "In the company I work for we have implemented PostgreSQL High Availability using repmgr and pgbouncer. We have additionally prepared some custom scripts to avoid split brain situations.
+We are using puppet (foreman) for installing and configuring PostgreSQL, the same is used for configuring High Availability (with few manual steps).
+I would like to give a presentation about the setup we're doing for this High Availability solution."
+  subtype: Talk
+  speakers: [8]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 009
+  title:
+    it: "Fun (and profit) with ZFS and Postgres"
+    en: "Fun (and profit) with ZFS and Postgres"
+  description:
+    it: "ZFS is a filesystem, originally developed for Solaris, that finally brings advanced filesystem features (compression, snapshots, and checksums, among others) to Linux.
+
+I selected the ZFS-on-Linux port as the key component of an internal tool created with the purpose of better supporting the team in all those scenarios where a replica of the production Postgres database might be required: testing query optimizations, database migrations, etc.
+
+While it was a lot of fun for me to work on it, the tool proved, most importantly, to be extremely useful to the whole team.
+
+The presentation dives into the technical details of the tool, introduces ZFS key features, why one would want to use it, and then explores some other interesting ZFS use cases"
+    en: "ZFS is a filesystem, originally developed for Solaris, that finally brings advanced filesystem features (compression, snapshots, and checksums, among others) to Linux.
+
+I selected the ZFS-on-Linux port as the key component of an internal tool created with the purpose of better supporting the team in all those scenarios where a replica of the production Postgres database might be required: testing query optimizations, database migrations, etc.
+
+While it was a lot of fun for me to work on it, the tool proved, most importantly, to be extremely useful to the whole team.
+
+The presentation dives into the technical details of the tool, introduces ZFS key features, why one would want to use it, and then explores some other interesting ZFS use cases"
+  subtype: Talk
+  speakers: [9]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 010
+  title:
+    it: "Greenplum storage management"
+    en: "Greenplum storage management"
+  description:
+    it: "Greenplum differs from Posgres in many ways, one of this is storage management, which includes data redundancy needs introduced by shared-nothing paradigm, external tables and polymorfic storage. This session explain how these features are implemented and how to use them"
+    en: "Greenplum differs from Posgres in many ways, one of this is storage management, which includes data redundancy needs introduced by shared-nothing paradigm, external tables and polymorfic storage. This session explain how these features are implemented and how to use them"
+  subtype: Talk
+  speakers: [10]
+  language: IT - EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 011
+  title:
+    it: "Greenplum Database: Evolving advances analytics on postgres"
+    en: "Greenplum Database: Evolving advances analytics on postgres"
+  description:
+    it: "Greenplum brings massively parallel processing to the world of postgresql to enable analysis of Petabyte scale data using a standard PostgreSQL interface.
+This talk will explain how Greenplum enables massively parallel proecssing and how the future roadmap and integration with Kubernees will enable
+Greenplum to scale to new heights."
+    en: "Greenplum brings massively parallel processing to the world of postgresql to enable analysis of Petabyte scale data using a standard PostgreSQL interface.
+This talk will explain how Greenplum enables massively parallel proecssing and how the future roadmap and integration with Kubernees will enable
+Greenplum to scale to new heights."
+  subtype: Talk
+  speakers: [11]
+  language: EN
+  complexity: "Expert"
+#  presentation: ""
+#  video: ""
+-
+  id: 012
+  title:
+    it: "How postgis changed the insurance market in Brazil"
+    en: "How postgis changed the insurance market in Brazil"
+  description:
+    it: "We can offer a one-size-fits-all product, or we can truly understand our users and offer something valuable and customized to their needs. Geolocation is the key to learn what is going on around them to make better, user-centric decisions."
+    en: "We can offer a one-size-fits-all product, or we can truly understand our users and offer something valuable and customized to their needs. Geolocation is the key to learn what is going on around them to make better, user-centric decisions."
+  subtype: Talk
+  speakers: [12]
+  language: EN
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 013
+  title:
+    it: "A New Way to avoid trigger based logging in PostgreSQL"
+    en: "A New Way to avoid trigger based logging in PostgreSQL"
+  description:
+    it: "Logging events in databases has been around for ages and we have been more than used to the traditional way of doing so using triggers.
+In this talk, I'd be glad to show how database logging trascends beyond using triggers and turn to the not so new Logical decoding in PostgreSQL. Thanks to Logical Decoding, log tables can now me moved to a different database servers where cheap hardware could be deployed for not so critical log tables.
+Beyond just logging , Logical Decoding also allows for all other exciting usage like Data warhousing ETL processes , data pipelines, queuing and the rest."
+    en: "Logging events in databases has been around for ages and we have been more than used to the traditional way of doing so using triggers.
+In this talk, I'd be glad to show how database logging trascends beyond using triggers and turn to the not so new Logical decoding in PostgreSQL. Thanks to Logical Decoding, log tables can now me moved to a different database servers where cheap hardware could be deployed for not so critical log tables.
+Beyond just logging , Logical Decoding also allows for all other exciting usage like Data warhousing ETL processes , data pipelines, queuing and the rest."
+  subtype: Talk
+  speakers: [13]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 014
+  title:
+    it: "Living in a connected world: data exchange features belonging to Greenplum"
+    en: "Living in a connected world: data exchange features belonging to Greenplum"
+  description:
+    it: "Pivotal Greenplum includes many features to exchange data between external data sources and the GPDB database: database links, PXF, external tables, Pivotal Gemfire connector, Spark connector .... many ways to connect Greenplum with the external world in a easy and effective way."
+    en: "Pivotal Greenplum includes many features to exchange data between external data sources and the GPDB database: database links, PXF, external tables, Pivotal Gemfire connector, Spark connector .... many ways to connect Greenplum with the external world in a easy and effective way."
+  subtype: Talk
+  speakers: [14]
+  language: EN
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 015
+  title:
+    it: "Pump up your elephants with Patroni"
+    en: "Pump up your elephants with Patroni"
+  description:
+    it: "Patroni is a high availability solution to manage hundreds of databases in the cloud, as well as in traditional data centers. It implements automatic failover and works together with Etcd, Zookeeper, Consul or Kubernetes API to store and retrieve PostgreSQL cluster information in a consistent way ensuring that there is only one leader at a time. Unlike the majority of existing solutions for automatic failover, it  requires a minimal effort to configure the HA cluster and supports autodiscovery of new nodes.
+In this talk, I will describe how Patroni works, present a live-demo of creating a new high-availability cluster and share experiences of running a few hundreds PostgreSQL HA clusters in Zalando’s Database-as-a-Service infrastructure on EC2 instances and on Kubernetes.
+
+Patroni is developed by Zalando in cooperation with other contributors on GitHub: https://github.com/zalando/patroni"
+    en: "Patroni is a high availability solution to manage hundreds of databases in the cloud, as well as in traditional data centers. It implements automatic failover and works together with Etcd, Zookeeper, Consul or Kubernetes API to store and retrieve PostgreSQL cluster information in a consistent way ensuring that there is only one leader at a time. Unlike the majority of existing solutions for automatic failover, it  requires a minimal effort to configure the HA cluster and supports autodiscovery of new nodes.
+In this talk, I will describe how Patroni works, present a live-demo of creating a new high-availability cluster and share experiences of running a few hundreds PostgreSQL HA clusters in Zalando’s Database-as-a-Service infrastructure on EC2 instances and on Kubernetes.
+
+Patroni is developed by Zalando in cooperation with other contributors on GitHub: https://github.com/zalando/patroni"
+  subtype: Talk
+  speakers: [15]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 016
+  title:
+    it: "Subito Vs GDPR"
+    en: "Subito Vs GDPR"
+  description:
+    it: "Quando pensi che la luce infondo al tunnel sia l'uscita...
+Un'opportunità per migliorare il nostro prodotto."
+    en: "Quando pensi che la luce infondo al tunnel sia l'uscita...
+Un'opportunità per migliorare il nostro prodotto."
+  subtype: Talk
+  speakers: [16]
+  language: IT
+  complexity: "Beginner"
+#  presentation: ""
+#  video: ""
+-
+  id: 017
+  title:
+    it: "Visualizza i tuoi dati con Superset"
+    en: "Visualizza i tuoi dati con Superset"
+  description:
+    it: "Per avere i nostri dati al sicuro li abbiamo scritti in un database PostgreSQL. Ma per analizzarli? Superset!
+Superset è una piattaforma open source che permette di creare visualizzazioni dinamiche di dati senza scrivere una riga di codice. Vedremo quali sono le caratteristiche e le funzionalità di Superset e come possiamo usarlo per esplorare e visualizzare i dati di un database."
+    en: "Per avere i nostri dati al sicuro li abbiamo scritti in un database PostgreSQL. Ma per analizzarli? Superset!
+Superset è una piattaforma open source che permette di creare visualizzazioni dinamiche di dati senza scrivere una riga di codice. Vedremo quali sono le caratteristiche e le funzionalità di Superset e come possiamo usarlo per esplorare e visualizzare i dati di un database."
+  subtype: Talk
+  speakers: [17]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 018
+  title:
+    it: "Machine Learning with PostGreSQL"
+    en: "Machine Learning with PostGreSQL"
+  description:
+    it: "Amazon, Google, Facebook, IBM e molti altri propongono sistemi e librerie per il Machine Learning.
+E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni esempi di utilizzo della libreria MADLib e strumenti per l'analisi del linguaggio naturale."
+    en: "Amazon, Google, Facebook, IBM e molti altri propongono sistemi e librerie per il Machine Learning.
+E PostgreSQL cosa può fare? Nel talk si evidenzieranno e studieranno alcuni esempi di utilizzo della libreria MADLib e strumenti per l'analisi del linguaggio naturale."
+  subtype: Talk
+  speakers: [4]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 019
+  title:
+    it: "PostgreSQL Database-as-a-Service with Kubernetes"
+    en: "PostgreSQL Database-as-a-Service with Kubernetes"
+  description:
+    it: "Kubernetes is emerging as a standard open-source platform to quickly roll out containerised applications, automatically manage resources and provide universal abstractions for the hardware/cloud layer, but can we take advantage of it for deploying and running PostgreSQL databases? The answer is yes, and we at Zalando have developed open-source tools to help you with that task. In this talk I will explain how we embraced Kubernetes at Zalando to run our staging and production databases, avoiding commercial solutions lock-in and saving costs. I will describe the benefits and pitfalls of running production databases on Kubernetes and, finally, show open-source tools we have built for application developers to deploy and manage PostgreSQL clusters by writing short manifests describing a few essential properties of the result."
+    en: "Kubernetes is emerging as a standard open-source platform to quickly roll out containerised applications, automatically manage resources and provide universal abstractions for the hardware/cloud layer, but can we take advantage of it for deploying and running PostgreSQL databases? The answer is yes, and we at Zalando have developed open-source tools to help you with that task. In this talk I will explain how we embraced Kubernetes at Zalando to run our staging and production databases, avoiding commercial solutions lock-in and saving costs. I will describe the benefits and pitfalls of running production databases on Kubernetes and, finally, show open-source tools we have built for application developers to deploy and manage PostgreSQL clusters by writing short manifests describing a few essential properties of the result."
+  subtype: Talk
+  speakers: [18]
+  language: EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 020
+  title:
+    it: ""
+    en: ""
+  description:
+    it: ""
+    en: ""
+  subtype: Talk
+  speakers: [100, 101]
+  language:
+  complexity: ""
+#  presentation: ""
+#  video: ""
+-
+  id: 021
+  title:
+    it: "Query hacking: Making queries behave like you want to"
+    en: "Query hacking: Making queries behave like you want to"
+  description:
+    it: "Did you ever had a query that runs fine on the development servers, but runs very slow on production. And by slow I mean 4 hours slower than the expected hundreds of milliseconds. After digging a bit you find out it is using a suboptimal plan, which is the cause of the slow execution. How to fix that?
+This talk will cover several ways of influencing the planner decisions with different options, query rewriting with CTEs, OFFSET 0 and clever tricks that leverage the query planer heuristics. Every method has its drawbacks so we will point out the problematic parts when applicable."
+    en: "Did you ever had a query that runs fine on the development servers, but runs very slow on production. And by slow I mean 4 hours slower than the expected hundreds of milliseconds. After digging a bit you find out it is using a suboptimal plan, which is the cause of the slow execution. How to fix that?
+This talk will cover several ways of influencing the planner decisions with different options, query rewriting with CTEs, OFFSET 0 and clever tricks that leverage the query planer heuristics. Every method has its drawbacks so we will point out the problematic parts when applicable."
+  subtype: Talk
+  speakers: [99]
+  language: IT - EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 022
+  title:
+    it: "Autovacuum: Friend or enemy?"
+    en: "Autovacuum: Friend or enemy?"
+  description:
+    it: "Many PostgreSQL instances have autovacuum turned off because of performance issues. The results of this choice can vastly vary between ok and catastrophic. However, is autovacuum your friend or enemy? To answer that you have to know how PostgreSQL works, what is table/index bloat and what is the problem with transaction visibility information (XID) wraparound.
+In this talk we will show what can happen if you turn it off, and how can we tweak the autovacuum parameters to get the most from it. We will also cover existing tools and present an internal tool that we plan to open source."
+    en: "Many PostgreSQL instances have autovacuum turned off because of performance issues. The results of this choice can vastly vary between ok and catastrophic. However, is autovacuum your friend or enemy? To answer that you have to know how PostgreSQL works, what is table/index bloat and what is the problem with transaction visibility information (XID) wraparound.
+In this talk we will show what can happen if you turn it off, and how can we tweak the autovacuum parameters to get the most from it. We will also cover existing tools and present an internal tool that we plan to open source."
+  subtype: Talk
+  speakers: [99]
+  language: IT - EN
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 023
+  title:
+    it: "Data migrations"
+    en: "Data migrations"
+  description:
+    it: "La versione di PostgreSQL è solitamente supportata per 5 anni dalla Community. Ciò significa che, se hai un progetto serio su PostgreSQL, probabilmente dovrai migrare i tuoi dati a una versione più recente per ottenere le normali correzioni di sicurezza e correzioni di errori. Le versioni più recenti solitamente offrono ulteriori vantaggi: prestazioni migliori sullo stesso hardware, nuove funzionalità ed estensioni. Ma come migrare i tuoi dati? pg_dump / pg_restore è la prima cosa che le persone usano se possono, e funzionano alla grande. Sfortunatamente, l'applicazione nel fra tempo deve essere offline. Se il database ha una dimensione di rilievo, sarà offline un periodo di tempo inaccettabile. Alla ricerca di soluzioni a questo problema, possiamo trovare diversi strumenti che possono aiutarci:
+• pg_upgrade
+• Slony-I
+• pglogical (con pgrepup)
+In questa presentazione, mostreremo i risultati del test di alcune di queste soluzioni sul nostro database di produzione (900 + GB). Inoltre, abbiamo testato la migrazione dei nostri dati con il comando COPY."
+    en: "PostgreSQL version are usually supported for 5 years. This means that, if you have a serious project on top of PostgreSQL, you will probably have to migrate your data to a newer version to get the regular security fixes and bugfixes. Newer versions usually come with additional benefits: better performance on same hardware, new features and extensions. But how to migrate your data? pg_dump/pg_restore are the first thing people use if they can, and they work great. Unfortunately, your application has to be offline during this period. If your database is very big, it will be offline an unacceptable period of time. Searching for solutions to this problem, we can find several tools that can help you:
+•        pg_upgrade
+•        slony-I
+•        pglogical (with pgrepup)
+In this presentation, we will show the results of testing some of these solutions on our production database (900+GB). Additionally, we have tested migrating our data with the COPY command."
+  subtype: Talk
+  speakers: [2]
+  language: IT
+  complexity: "Intermediate"
+#  presentation: ""
+#  video: ""
+-
+  id: 090
+  title:
+    en: "Welcome"
+    it: "Benvenuti"
+  description:
+    en: ""
+    it: ""
+  subtype: Talk
+  speakers: [30]
+  language: en
+  complexity: ""
+  #presentation: ""
+  #video: ""

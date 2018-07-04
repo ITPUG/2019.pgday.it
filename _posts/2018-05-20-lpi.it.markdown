@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Linux Professional Institute: Media Partner PGDay.IT 2018"
+date:   2018-05-24 01:05:00
+isStaticPost: false
+permalink: /it/blog/lpi_it
+image: media_partner_lpi.jpg
+lang: it
+ref: lpi_it
+redirect-from:
+ - /blog/lpi_it
+---
+
+<h6>Un caldo benvenuto a Linux Professional Institute (LPI) Italia!</h6>
+
+<h6>Media Partner dell'edizione 2018 del PGDay.IT.</h6>
+
+[LPI, Linux Professional Institute (LPI)](http://www.lpi.org/) promuove e certifica le competenze necessarie all’uso di [Linux](https://www.linux.it/) e delle tecnologie Open Source in ambito professionale, con un programma di esami indipendente, globale e di alta qualità.
+
+_LPI è lo standard globale di certificazione e di supporto alla carriera per i professionisti Open Source. Con più di 500.000 esami somministrati LPI è il soggetto di certificazione indipendente in ambito Linux e Open Source più grande al mondo. Ha certificato professionisti in 181 Paesi, somministrato esami in 9 lingue; ha oltre 400 partner nella formazione._
+
+Fondato a Toronto, Canada nel 1999 come organizzazione internazionale no-profit, il [LPI, Linux Professional Institute](http://www.lpi.org/) è leader nelle certificazioni professionali Linux grazie alla qualità dei suoi programmi, ai propri partner per la formazione, alle sponsorizzazioni, al supporto dell’industria IT ed al sostegno della comunità OpenSource.
+
+LPI è anche un membro fondatore del Desktop Linux Consortium e membro della [Linux Foundation](https://www.linuxfoundation.org/).
+
+Dal gennaio del 2008 un gruppo di lavoro si dedica alla crescita di [LPI in Italia](https://www.lpi-italia.org/). Il gruppo, attraverso il sito web, il numero verde 800-910354 e la partecipazione ad eventi, porta avanti un’attività di promozione e supporto a coloro che intendono avvalersi delle proprie competenze [Linux](https://www.linux.it/) professionalmente, rivolgendosi in particolare a grandi aziende e pubbliche amministrazioni.
+
+Il ritardo italiano nell’applicazione delle tecnologie Open Source nella Pubblica Amministrazione e nelle aziende rende la diffusione della [certificazione Linux](https://www.lpi-italia.org/certificazioni-linux/) più lenta rispetto ad altri paesi: per questo, e perché credono fermamente che la certificazione Linux Professional Institute debba essere prima di tutto strumento a disposizione di chi lavora con le tecnologie Open Source, saranno lieti di ricevere suggerimenti e proposte di collaborazione da tutti coloro che intendono supportare questo progetto.

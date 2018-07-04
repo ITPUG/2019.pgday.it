@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Linux Professional Institute:: Media Partner PGDay.IT 2018"
+date:   2018-05-24 01:05:00
+isStaticPost: false
+permalink: /en/blog/lpi_it
+image: media_partner_lpi.jpg
+lang: en
+ref: lpi_it
+---
+
+<h6>A warm welcome to Linux Professional Institute (LPI) Italia!</h6>
+
+<h6>Media Partner of PGDay.IT 2018.</h6>
+
+[LPI, Linux Professional Institute (LPI)](http://www.lpi.org/) promotes and certifies the skills necessary for the use of [Linux](https://www.linux.it/) and Open Source technologies in the professional field, with independent, global and high-quality exams program.
+
+_LPI is the global certification and career support standard for Open Source professionals. With more than 500,000 tests administered LPI is the largest independent certification in the Linux and Open Source world. Certified professionals in 181 countries, conducted exams in 9 languages; has over 400 partners in training._
+
+Founded in Toronto, Canada in 1999 as an international non-profit organization, the LPI, Linux Professional Institute is a leader in Linux professional certifications, thanks to the quality of its programs, partners, sponsorships, IT industry support and support for the Open Source community.
+
+LPI is also a founding member of the Linux Desktop Consortium and a member of the [Linux Foundation](https://www.linuxfoundation.org/).
+
+From January 2008 a team is dedicated to the growth of [LPI in Italy](https://www.lpi-italia.org/). This group, through the website, the toll-free number 800-910354 and participation in events, carries out the promotion and support for those who intend to use their [Linux](https://www.linux.it /) skills professionally, focusing in particular to large companies and public administrations.
+
+Italy's delay in the adoption of Open Source technologies in the Public Administration and companies makes the spread of the [Linux certification](https://www.lpi-italia.org/certificazioni-linux/) slower than in other countries. This, and because they firmly believe that the Linux Professional Institute certification, must be first and foremost a tool available to those working with Open Source technologies, they will be pleased to receive suggestions and proposals for collaboration from all those who intend to support this project.

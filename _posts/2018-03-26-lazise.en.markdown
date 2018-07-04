@@ -1,0 +1,63 @@
+---
+layout: post
+title:  "Lazise, why?"
+date:   2018-05-17 00:57:00
+isStaticPost: false
+permalink: /en/blog/lazise
+image: lazise.jpg
+lang: en
+ref: lazise
+---
+<h6>Why we choose Lazise?</h6>
+
+Our first thought was to allow the attendees of PGDay.IT to join the conference with their families.
+
+In [Lazise](https://en.wikipedia.org/wiki/Lazise) the participants will be able to follow the PGDay.IT and be close to their loved ones. In fact, they can enjoy the wonders that Lazise offers and have a chance to visit the [Gardaland](https://www.gardaland.it/en/) theme park, reachable with a short walk from the venue of the PGDay.IT.
+
+To make easier for all the participants to reach Lazise, “pg_shuttle” will be available from the Verona station and airport, as well as from the Milan/Bergamo Orio al Serio airport, after regular reservation. A little reminder: [“pg_shuttle” is free for all the attendees of PGDay.IT](https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform).
+
+If you are interested in finding out what Lazise can offer, we have reported some interesting information below.
+
+Enjoy the reading!
+
+**Lazise** is justifiably proud of its past since it was one of the first towns in Italy to be granted independence by Emperor Otto II more than a thousand years ago in 983. Testifying to its splendid medieval past, there are magnificent castle and fortified walls encircling the old town center crammed with shops, restaurants, and bars.
+
+In its small port, you can find the Customs House from which Venice controlled lake Garda’s trade for centuries. It was near here that Venice’s fleet was anchored: to prevent the fleet from falling into enemy hands, the commander ordered the ships to be sunk and they are still resting at the bottom of the lake.
+
+However, today it exists solely as a picturesque town for tourists. There is the 12th Century Church of San Nicolo which can be seen in the gallery pictures of the harbor area. For a while, it was used as a cinema, but now it’s back to its original purpose. The Scaliger Castle dates back to the 12th and 13th Centuries and is only visitable from the outside as it is still in private ownership and somebody actually still lives there!
+
+You can rent a boat at the harbor or take a ferry to another town around the Lake, but there is plenty to see and explore at Lazise. It is also just a short drive or bus ride to the Theme Parks.
+
+
+At **Pacengo**, a tranquil lakeside town in the Lazise area, there are also the submerged remains of a large, prehistoric village of pile-dwellings. And this area, since ancient time, was a crossroads for travelers and merchants alike: the famous “amber-road” passed through here. Lazise put at the tourist’s disposal of forty comfortable hotels, ten well-equipped camping-sites, as well as sporting facilities of all kinds, concerts and excellent cuisine.
+
+**Beaches**
+
+Garda is a lake and does not have proper sandy beaches, but it does have hand-made pebble beaches all around the lake, but there is only a very small sandy area in Lazise. The nearest large beaches being near Bardolino and Garda Town (North) and Pacengo (South).
+
+**Excursions**
+
+The Lake Garda paddle steamers regularly visit Lazise from which you can visit virtually any town on the lake. There is also a faster catamaran service. The nearest cities are Salo and Gardone both on the West shore of the lake, both of which are very nice. But don’t miss Sirmione as a place to visit. Closer to hand are Bardolino and Garda both of which are incredibly picturesque in their own right and provide even better shopping than Lazise.
+
+**Theme Parks**
+
+Love them or hate them, there are two large theme parks nearby accessed by complimentary buses, and both are very good. It is a theme park based on rides and Movieland is a combination of rides and shows. Gardaland has its own themed hotel which is very nice and near to the Gardaland theme park (but not in the same immediate area) and Movieland (also known as Canevaworld and Movie Studios Park) has its own Aqua Paradise Park, Rock, and Roll cafe and Medieval Banquet.
+
+**Culinary specialties**
+
+Fresh fish from the lake, extra-virgin olive-oil and wines (the Bardolino wine is produced here, as well the Bianco di Custoza and Lugana not far from here) are the basis of the riviera’s typical cuisine. Lazise boasts many restaurants - its tench risotto and grilled fish dishes are famous.
+
+**Shopping**
+
+Shopping in the many boutiques, wine and art craft shops lining the medieval streets is fun. Wine and olive oil can be bought and even tasted directly from the producer’s presses and cellars.
+Further afield for shopping is Riva (North) and Desenzano (South West), both of which are surprisingly large towns. Away from the Lake, Verona is unmissable and can be easily visited by car or bus. About two hours East is Venice and two hours West is Milan, both easily accessible by inexpensive trains from Peschiera (10 minutes South).
+
+**Cultural events**
+
+The Venetian customs house and the Scaligeri castle host prestigious concerts, such as the renowned “Lazise notte classica” (classical and opera music). Lazise hosts the international Bee-keeper’s Exhibition every two years.
+
+**Art**
+
+The small Romanesque church of San Niccolò behind the Custom House and next to the port contain 14th-century frescos: its façade features a niche, containing a fresco of Our Lady (13th century) and there are many beautiful country-houses at Lazise, Colà, and Pacengo.
+
+**Questions?** Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
