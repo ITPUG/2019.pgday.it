@@ -15,13 +15,13 @@ exclude:
   - 'CNAME'
 
 # Site Settings
-title: "PGDay.IT 2018"
+title: "PGDay.IT 2019"
 email: "pgday@itpug.org"
 description:
   it: "Il PostgreSQL Day italiano è la giornata nazionale dedicata interamente a PostgreSQL, il più avanzato database Open Source al mondo"
   en: "The Italian PostgreSQL is the national day completely dedicated at PostgreSQL, the most advance open source database in the world"
 baseurl: ""
-url: "http://2018.pgday.it"
+url: "http://2019.pgday.it"
 permalink: "/it/blog/:title"
 googleAnalyticsTrackingId: "UA-99990720-2"
 googleAnalyticsSiteUrl: "auto"
@@ -57,30 +57,30 @@ c4sponsorsUrl: "/assets/PartnerIT_2018.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
- - {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speaker"}
+# - {permalink: "/schedule/", text: "Schedule"}
+# - {permalink: "/speakers/", text: "Speaker"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
- - {permalink: "/workshop/", text: "Workshop", lang: "it"}
- - {permalink: "/workshop/", text: "Workshops", lang: "en"}
+# - {permalink: "/workshop/", text: "Workshop", lang: "it"}
+# - {permalink: "/workshop/", text: "Workshops", lang: "en"}
 # - {permalink: "/lpi/", text: "LPI", lang: "it"}
 # - {permalink: "/lpi/", text: "LPI", lang: "en"}
- - {permalink: "/logistics/", text: "Logistica", lang: "it"}
- - {permalink: "/logistics/", text: "Logistics", lang: "en"}
+# - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+# - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
- - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
- - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
- - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
- - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+# - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
- - {permalink: "/blog/", text: "Blog"}
+# - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
@@ -95,17 +95,17 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "hero.jpg"
 heroTitle:
-  it: "PGDay.IT 2018 - <typeout> "
-  en: "PGDay.IT 2018 - <typeout> "
+  it: "PGDay.IT 2019 - <typeout> "
+  en: "PGDay.IT 2019 - <typeout> "
 eventDate:
-  it: "Lazise 2018: Workshop 28 giugno e PGDay.IT 29 giugno"
-  en: "Lazise 2018: Workshop June 28th and PGDay.IT June 29th"
+  it: "Bologna 2019: Workshop 13 giugno e PGDay.IT 14 giugno"
+  en: "Bologna 2019: Workshop June 13th and PGDay.IT June 14th"
 typeoutTextValues:
-  it: '"", "PGDay.IT 29 giugno", "Workshop 28 giugno", "PG_beer 28 giugno", "Lazise, Italy", ""'
-  en: '"", "PGDay.IT June 29th", "Workshop June 28th", "PG_beer June 28th", "Lazise, Italy", ""'
+  it: '"", "PGDay.IT 14 giugno", "Workshop 13 giugno", "PG_beer 13 giugno", "Bologna, Italy", ""'
+  en: '"", "PGDay.IT June 14th", "Workshop June 13th", "PG_beer June 13th", "Bologna, Italy", ""'
 typeoutFallback:
-  it: "Lazise, 28 e 29 giugno 2018"
-  en: "Lazise, June 28th and 29th, 2018"
+  it: "Bologna, 13 e 14 giugno 2019"
+  en: "Bologna, June 13th and 14th, 2019"
 heroButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
@@ -113,25 +113,25 @@ heroButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
- - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
- - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
- - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
- - {link: "https://2018pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
+# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+# - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://2018pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle:
   it: "Informazioni sul PGDay.IT"
   en: "About PGDay.IT"
 aboutBlock:
- - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è la dodicesima edizione." }
- - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the twelfth edition." }
+ - {lang: "it", title: "Conferenza", image: "conference.jpg", text: "PGDay.IT è la conferenza italiana dedicata a PostgreSQL, uno dei progetti open-source di maggior successo. Il primo PGDay.IT si è svolto il 7 luglio 2007 e da allora la manifestazione ha avuto una cadenza annuale. Questa è la tredicesima edizione." }
+ - {lang: "en", title: "Conference", image: "conference.jpg", text: "PGDay.IT is the Italian event dedicated to PostgreSQL, one of the most successful open-source projects. The first PGDay.IT took place on July 7, 2007 and since then the event has had an annual cadence. This is the thirteenth edition." }
  - {lang: "it", title: "Be social", image: "workshop.jpg", text: "Come nostro costume: l'immancabile pg_beer! Sei disposto a rinunciarci? Guarda la pagina dedica alla pg_dinner ed iscriviti anche tu. Andiamo, non puoi mancare!" }
  - {lang: "en", title: "Be social", image: "workshop.jpg", text: "Like our costume: the inevitable pg_beer! Are you willing to give up? Give a look at pg_dinner page and subscribe. Come on, you can't miss!" }
 
 # Statistic Block
 statisticBlockTitle:
-    it: "I numeri di undici edizioni del PGDay.It"
-    en: "Numbers of eleven editions of PGDay.It"
+    it: "I numeri di dodici edizioni del PGDay.It"
+    en: "Numbers of twelve editions of PGDay.It"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {lang: "it", count: "1451", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
@@ -144,50 +144,50 @@ statisticBlock:
  - {lang: "en", count: "24", specialCharacter: "", info: "track", detail: "and social events"}
 
 # Latest News Block
-latestNewsTitle:
-  it: "Notizie dell'ultima ora"
-  en: "Latest News"
+#latestNewsTitle:
+#  it: "Notizie dell'ultima ora"
+#  en: "Latest News"
 
 # Rockstar Speakers Block
-rockstarSpeakersImage: "rockstar-speakers.jpg"
-rockstarSpeakersCount: 4
-rockstarSpeakersTitle:
-    it: "Speaker"
-    en: "Speakers"
-rockstarSpeakersButtonText:
-  it: "Guarda tutti gli speaker"
-  en: "All Speakers here"
+#rockstarSpeakersImage: "rockstar-speakers.jpg"
+#rockstarSpeakersCount: 4
+#rockstarSpeakersTitle:
+#    it: "Speaker"
+#    en: "Speakers"
+#rockstarSpeakersButtonText:
+#  it: "Guarda tutti gli speaker"
+#  en: "All Speakers here"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Hotel Parchi del Garda"
-eventLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
-eventStreetAddress: "Via Brusà 16/17"
-eventAddressLocality: "Pacengo di Lazise"
-eventAddressLocalityRegion: "(VR)"
-eventPostalCode: "37017"
-eventAddressCountry: "Italy"
-eventStartTime: "2018-06-29T9:00"
-eventDoorTime: "08:15"
-eventEndTime: "2018-06-29T18:00"
-eventPlaceCoordinates: "45.4627319, 10.7171789"
-mapCenterCoordinates: "45.4627319, 10.7171789"
-mapMobileCenterCoordinates: "45.4627319, 10.7171789"
+#locationBlockTitle: "Location"
+#eventLocationName: "Hotel Parchi del Garda"
+#eventLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
+#eventStreetAddress: "Via Brusà 16/17"
+#eventAddressLocality: "Pacengo di Lazise"
+#eventAddressLocalityRegion: "(VR)"
+#eventPostalCode: "37017"
+#eventAddressCountry: "Italy"
+#eventStartTime: "2018-06-29T9:00"
+#eventDoorTime: "08:15"
+#eventEndTime: "2018-06-29T18:00"
+#eventPlaceCoordinates: "45.4627319, 10.7171789"
+#mapCenterCoordinates: "45.4627319, 10.7171789"
+#mapMobileCenterCoordinates: "45.4627319, 10.7171789"
 
 # Venue Block
-venueBlockTitle:
-  it: "Location"
-  en: "Location"
-venueBigImage: "venue_0.jpg"
-venueSmallImage1: "venue_1.jpg"
-venueSmallImage2: "venue_2.jpg"
-venueSmallImage3: "venue_3.jpg"
-venueTitle:
-  it: "Hotel Parchi del Garda"
-  en: "Hotel Parchi del Garda"
-venueFeatures:
-  it: ["Hotel Parchi del Garda si presenta come un tipico borgo gardesano con cinque edifici disposti a corte intorno a un ampio giardino interno. Si trova tra i Comuni di Peschiera del Garda e Lazise, a soli 900 metri dalle rive del Lago. Grazie alla sua posizione strategica risulta facilmente raggiungibile."]
-  en: ["Hotel Parchi del Garda is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's edge. It is easy to get to using any means of transport, thanks to its strategic and well-connected position."]
+#venueBlockTitle:
+#  it: "Location"
+#  en: "Location"
+#venueBigImage: "venue_0.jpg"
+#venueSmallImage1: "venue_1.jpg"
+#venueSmallImage2: "venue_2.jpg"
+#venueSmallImage3: "venue_3.jpg"
+#venueTitle:
+#  it: "Hotel Parchi del Garda"
+#  en: "Hotel Parchi del Garda"
+#venueFeatures:
+#  it: ["Hotel Parchi del Garda si presenta come un tipico borgo gardesano con cinque edifici disposti a corte intorno a un ampio giardino interno. Si trova tra i Comuni di Peschiera del Garda e Lazise, a soli 900 metri dalle rive del Lago. Grazie alla sua posizione strategica risulta facilmente raggiungibile."]
+#  en: ["Hotel Parchi del Garda is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's edge. It is easy to get to using any means of transport, thanks to its strategic and well-connected position."]
 
 # TODO: sistemare url
 # Tweets Feed Block
@@ -212,91 +212,91 @@ partnersC4sponsorsButton:
 
 # TODO: sistemare URL
 # Subscribe Block
-subscribeImage: "subscribe.jpg"
-subscribeTitle:
-    it: "Resta aggiornato"
-    en: "Stay in touch"
-subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
-subscribeInfo:
-    it: "Sarà possibile acquistare i biglietti a partire da metà dicembre. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
-    en: "Tickets will be available from December 15th. The number of available tickets is limited. Stay tuned!"
+#subscribeImage: "subscribe.jpg"
+#subscribeTitle:
+#    it: "Resta aggiornato"
+#    en: "Stay in touch"
+#subscribeAction: "https://gdg.us5.list-manage1.com/subscribe/post?u=9fc8aa205b0521b5f05fc8e1e&amp;id=ae0fb459fc"
+#subscribeInfo:
+#    it: "Sarà possibile acquistare i biglietti a partire da metà dicembre. Il numero dei biglietti disponibili è limitato. Rimanete sintonizzati!"
+#    en: "Tickets will be available from December 15th. The number of available tickets is limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle:
-    it: "Prezzo biglietti"
-    en: "Ticket prices"
-ticketsInfo:
-    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 29 giugno 2018. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
-    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of June 29th, 2018. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
-ticketsOffers:
- -
-  name:
-    it: "Early ticket"
-    en: "Early ticket"
-  price: "47,00"
-  priceCurrency: "€"
-  buyButtonLink: "https://2018pgdayit.eventbee.com"
-  buyButtonText:
-    it: "Acquistalo adesso"
-    en: "Get it now"
-  ticketContentList:
-    it: ["Early ticket - PGDay.IT 2018", "29 giugno", "_______"]
-    en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-01-22T10:00"
-  validThrough: "2018-04-06T23:59"
-  disabled: true
- -
-  name:
-    it: "Ordinario"
-    en: "Ordinary"
-  price: "59,00"
-  priceCurrency: "€"
-  buyButtonLink: "https://2018pgdayit.eventbee.com"
-  buyButtonText:
-    it: "Acquistalo adesso"
-    en: "Get it now"
-  ticketContentList:
-    it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
-    en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-04-07T10:00"
-  validThrough: "2018-06-16T23:59"
-  disabled: false
- -
-  name:
-    it: "Last chance"
-    en: "Last chance"
-  price: "97,00"
-  priceCurrency: "€"
-  featured: true
-  buyButtonLink: "https://2018pgdayit.eventbee.com"
-  buyButtonText:
-    it: "Acquistalo adesso"
-    en: "Get it now"
-  ticketContentList:
-    it: ["Last chance - PGDay.IT 2018", "29 giugno", "_______"]
-    en: ["Last chance - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-06-17T00:00"
-  validThrough: "2018-06-27T23:59"
-  disabled: true
- -
-  name:
-    it: "Studente"
-    en: "Student"
-  price: "15,00"
-  priceCurrency: "€"
-  buyButtonLink: "https://2018pgdayit.eventbee.com"
-  buyButtonText:
-    it: "Acquistalo adesso"
-    en: "Get it now"
-  additionalInfo:
-    it: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
-    en: "A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund."
-  ticketContentList:
-    it: ["Studente - PGDay.IT 2018", "29 giugno", "_______"]
-    en: ["Student - PGDay.IT 2018", "June 29th", "_______"]
-  validFrom: "2018-01-22T10:00"
-  validThrough: "2018-06-27T23:59"
-  disabled: false
+#ticketsTitle:
+#    it: "Prezzo biglietti"
+#    en: "Ticket prices"
+#ticketsInfo:
+#    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 29 giugno 2018. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
+#    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of June 29th, 2018. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
+#ticketsOffers:
+# -
+#  name:
+#    it: "Early ticket"
+#    en: "Early ticket"
+#  price: "47,00"
+#  priceCurrency: "€"
+#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonText:
+#    it: "Acquistalo adesso"
+#    en: "Get it now"
+#  ticketContentList:
+#    it: ["Early ticket - PGDay.IT 2018", "29 giugno", "_______"]
+#    en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
+#  validFrom: "2018-01-22T10:00"
+#  validThrough: "2018-04-06T23:59"
+#  disabled: true
+# -
+#  name:
+#    it: "Ordinario"
+#    en: "Ordinary"
+#  price: "59,00"
+#  priceCurrency: "€"
+#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonText:
+#    it: "Acquistalo adesso"
+#    en: "Get it now"
+#  ticketContentList:
+#    it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
+#    en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
+#  validFrom: "2018-04-07T10:00"
+#  validThrough: "2018-06-16T23:59"
+#  disabled: false
+# -
+#  name:
+#    it: "Last chance"
+#    en: "Last chance"
+#  price: "97,00"
+#  priceCurrency: "€"
+#  featured: true
+#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonText:
+#    it: "Acquistalo adesso"
+#    en: "Get it now"
+#  ticketContentList:
+#    it: ["Last chance - PGDay.IT 2018", "29 giugno", "_______"]
+#    en: ["Last chance - PGDay.IT 2018", "June 29th", "_______"]
+#  validFrom: "2018-06-17T00:00"
+#  validThrough: "2018-06-27T23:59"
+#  disabled: true
+# -
+#  name:
+#    it: "Studente"
+#    en: "Student"
+#  price: "15,00"
+#  priceCurrency: "€"
+#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonText:
+#    it: "Acquistalo adesso"
+#    en: "Get it now"
+#  additionalInfo:
+#    it: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
+#    en: "A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund."
+#  ticketContentList:
+#    it: ["Studente - PGDay.IT 2018", "29 giugno", "_______"]
+#    en: ["Student - PGDay.IT 2018", "June 29th", "_______"]
+#  validFrom: "2018-01-22T10:00"
+#  validThrough: "2018-06-27T23:59"
+#  disabled: false
 
 # TODO: sistemare permalink o cancellarlo
 # Footer
@@ -330,18 +330,18 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of conduct", lang: "en"}
 
 # Blog
-blogTitle:
-  it: "Notizie dell'ultima ora"
-  en: "Latest News"
-blogReadMore:
-  it: "continua a leggere"
-  en: "read more"
-blogCommentsEnabled: true
-discusShortName: "PGDay.IT_2018"
+#blogTitle:
+#  it: "Notizie dell'ultima ora"
+#  en: "Latest News"
+#blogReadMore:
+#  it: "continua a leggere"
+#  en: "read more"
+#blogCommentsEnabled: true
+#discusShortName: "PGDay.IT_2019"
 
 # Speakers List Block
-speakersImage: "speaker.jpg"
-showSessions: true
+#speakersImage: "speaker.jpg"
+#showSessions: true
 
  # Staff Block
 staffBlockTitle:
@@ -366,9 +366,9 @@ aboutUs:
     en: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy. In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects. The association was born in Prato (PO) on November 17, 2007, shortly after the first edition of PGDay.IT. For more information about the ITPUG association, please write to info@itpug.org."
 
 ## Logistics Find Way Block
-findWayTitle:
-  it: "Trova la tua strada qui"
-  en: "Find your way here"
+#findWayTitle:
+#  it: "Trova la tua strada qui"
+#  en: "Find your way here"
 findWayDestination:
   it: "al PGDay.IT"
   en: "to PGDay.IT"
