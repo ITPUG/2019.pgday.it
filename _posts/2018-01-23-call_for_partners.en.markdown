@@ -20,7 +20,7 @@ able to welcome so many attendees interested in PostgreSQL.
 
 [Sponsoring a PGDay.IT]((https://2017.pgday.it/en/blog/call_for_partners)) is a great way to support and give back to the Italian PostgreSQL community: by sponsoring the event, you’ll have the opportunity to expose your company to around 200 PostgreSQL users, enthusiasts, and professionals, and you will be part of the success of a wonderful PGDay.IT.
 
-[PGDay.IT 2018](https://2018.pgday.it/it/) will take place over two days:
+[PGDay.IT 2019](https://2018.pgday.it/it/) will take place over two days:
 
 * June 28th, 2018: a Workshop Day, with practical sessions of 4 hours or 2,5 hours for
 specific topics selected by the Technical Commission among the various proposals

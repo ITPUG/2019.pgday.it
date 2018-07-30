@@ -20,7 +20,7 @@ Ma il duro lavoro e l’impegno dei volontari non può essere sufficiente a rend
 
 [Sponsorizzare un PGDay.IT](https://2017.pgday.it/it/blog/call_for_partners) è un ottimo modo per supportare e sostenere la community di italiana PostgreSQL: presenziare a questo evento avrai l’opportunità di entrare in contatto con più di 200 persone, appassionati e professionisti che utilizzano PostgreSQL, e sarai parte del successo di questo fantastico evento.
 
-Il [PGDay.IT 2018](https://2018.pgday.it/it/) si svolgerà nell’arco di due giorni:
+Il [PGDay.IT 2019](https://2018.pgday.it/it/) si svolgerà nell’arco di due giorni:
 * 28 giugno 2018: un Workshop Day,  sessioni pratiche di 4 ore o di 2 ore e mezzo destinate a specifici topic selezionati dalla Commissione Tecnica tra le varie proposte pervenute;
 
 * 29 giugno 2018: un giorno di interventi con presentazioni di appassionati e professionisti del mondo di PostgreSQL. I talk saranno selezionati dalla Commissione Tecnica tra le varie proposte pervenute. Sono previsti 8 talk in italiano e 8 talk in inglese, oltre al keynote di apertura. A chiusura della giornata i lightning talk: sessione aperta a tutti con talk di 5 minuti.

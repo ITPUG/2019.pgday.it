@@ -11,9 +11,9 @@ ref: cfp
 
 ###### [New deadline](http://2018.pgday.it/en/blog/cfp_postponed): Marzo 18, 2018
 
-[PGDay.IT 2018](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th. If you want to be part of this event as a speaker … please, knock and the door will be opened!
+[PGDay.IT 2019](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th. If you want to be part of this event as a speaker … please, knock and the door will be opened!
 
-###### Who should apply as speaker for PGDay.IT 2018?
+###### Who should apply as speaker for PGDay.IT 2019?
 
 * PostgreSQL users
 * Companies that rely PostgreSQL

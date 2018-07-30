@@ -1,62 +1,72 @@
 -
   id: 0
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  team: true
+  name: "Barbara"
+  surname: "Milani"
+  title: "Segretario Associazione ITPUG"
+  thumbnailUrl: bam965.jpg
+  exTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-#    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
-#    - {name: "twitter", link: "https://twitter.com/mnencia"}
-#    - {name: "github", link: "https://github.com/mnencia"}
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
 -
   id: 1
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  team: true
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Tesoriere Associazione ITPUG"
+  thumbnailUrl: patri.jpg
+  exTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/107891917634409052504"}
-#    - {name: "twitter", link: "https://twitter.com/mbeccati"}
-#    - {name: "github", link: "https://github.com/mbeccati"}
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/beccati"}
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
 -
   id: 2
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  team: true
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "Presidente Associazione ITPUG"
+  thumbnailUrl: marco.jpg
+  exTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
-#    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
 -
   id: 3
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  team: true
+  name: "Andrej"
+  surname: "Sossi"
+  title: "Socio ITPUG"
+  thumbnailUrl: andrej.jpg
+  exTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
-#    - {name: "twitter", link: "https://twitter.com/bam965"}
-#    - {name: "github", link: "https://github.com/bam965"}
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
 -
   id: 4
-  name: ""
-  surname: ""
-  title: ""
-  thumbnailUrl:
-  team: true
+  name: "Denis"
+  surname: "Gasparin"
+  title: "Socio ITPUG"
+  thumbnailUrl: denis.jpg
+  exTeam: true
   social:
-#    - {name: "twitter", link: "https://twitter.com/giubro"}
-#    - {name: "github", link: "https://github.com/gbroccolo"}
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+-
+  id: 0
+  name: "Emanuele"
+  surname: "Zamprogno"
+  title: "Socio ITPUG"
+  thumbnailUrl: emanuele_zamprogno.jpg
+  exTeam: true
+  social:
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
 -
   id: 0
   name: "Gabriele"
@@ -98,6 +108,65 @@
   social:
     - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
+-
+  id: 0
+  name: "Marco"
+  surname: "Nenciarini"
+  title: "Presidente Associazione ITPUG"
+  thumbnailUrl: marco.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+-
+  id: 1
+  name: "Matteo"
+  surname: "Beccati"
+  title: "Vice-Presidente Associazione ITPUG"
+  thumbnailUrl: matteo.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/107891917634409052504"}
+    - {name: "twitter", link: "https://twitter.com/mbeccati"}
+    - {name: "github", link: "https://github.com/mbeccati"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/beccati"}
+-
+  id: 2
+  name: "Patrizia"
+  surname: "Dabizzi"
+  title: "Tesoriere Associazione ITPUG"
+  thumbnailUrl: patri.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106081143924147812423"}
+    - {name: "twitter", link: "https://twitter.com/DabizziPatrizia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/patrizia-dabizzi-a1946865"}
+-
+  id: 3
+  name: "Barbara"
+  surname: "Milani"
+  title: "Segretario Associazione ITPUG"
+  thumbnailUrl: bam965.jpg
+  team: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/109223912225983995311"}
+    - {name: "twitter", link: "https://twitter.com/bam965"}
+    - {name: "github", link: "https://github.com/bam965"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
+-
+  id: 4
+  name: "Giuseppe"
+  surname: "Broccolo"
+  title: "Consigliere Associazione ITPUG"
+  thumbnailUrl: giuseppe.jpg
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/giubro"}
+    - {name: "github", link: "https://github.com/gbroccolo"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
 #-
 #  id: 0
 #  name: "Marco"

@@ -11,7 +11,7 @@ redirect-from:
  - /blog/back
 ---
 
-<h6>PGDay.IT 2018 apre le porte.</h6>
+<h6>PGDay.IT 2019 apre le porte.</h6>
 
 Siamo carichi di entusiasmo dato che [l'ultima edizione](https://2017.pgday.it/it/) è stata fantastica!
 Quasi 200 partecipanti entusiasti, talk interessanti, speaker di livello, partner fantastici e una bellissima location. Abbiamo anche ricevuto ottimi feedback dai partecipanti.
@@ -19,7 +19,7 @@ Quasi 200 partecipanti entusiasti, talk interessanti, speaker di livello, partne
 Non avremmo potuto chiedere un risultato migliore.
 Grazie a tutti: partecipanti, speaker, staff, partner e tutti noi speriamo di ritrovarvi tutti durante questa nuova edizione del [PGDay.IT](https://2018.pgday.it/it/).
 
-[PGDay.IT 2018](https://2018.pgday.it/it/) si terrà a [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno.
+[PGDay.IT 2019](https://2018.pgday.it/it/) si terrà a [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno.
 
 Sede scelta: [Hotel Parchi del Garda](https://2018.pgday.it/it/logistics/). L'hotel si trova tra Peschiera del Garda e [Lazise](https://2018.pgday.it/it/logistics/), a soli 900 metri dalla riva del Lago di Garda.
 
@@ -46,5 +46,5 @@ Focus point:
 
 <h6>Come si può non esserci?</h6>
 
-Maggiori dettagli circa gli speaker selezionati ed il programma saranno pubblicati e comunicati attraverso il blog dedicato al PGDay.IT 2018 e condivisi attraverso i nostri canali ufficiali.
-Seguiteci su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) in modo da non perdere nessun aggiornamento sul [PGDay.IT 2018](https://2018.pgday.it/it/).
+Maggiori dettagli circa gli speaker selezionati ed il programma saranno pubblicati e comunicati attraverso il blog dedicato al PGDay.IT 2019 e condivisi attraverso i nostri canali ufficiali.
+Seguiteci su [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) in modo da non perdere nessun aggiornamento sul [PGDay.IT 2019](https://2018.pgday.it/it/).

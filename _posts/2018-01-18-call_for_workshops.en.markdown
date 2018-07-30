@@ -13,7 +13,7 @@ ref: cfw
 
 We encourage and invite interested parties to submit a proposal for organising a Workshop.
 
-The Workshops will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 28th, the day before of [PGDay.IT 2018](https://2018.pgday.it/en/)
+The Workshops will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 28th, the day before of [PGDay.IT 2019](https://2018.pgday.it/en/)
 
 ###### Who should apply as Workshop organisers?
 

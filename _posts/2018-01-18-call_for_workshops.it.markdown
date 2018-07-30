@@ -15,7 +15,7 @@ redirect-from:
 
 Incoraggiamo e invitiamo chiunque fosse interessato a presentare una proposta per l'organizzazione di un workshop.
 
-I workshop si terranno a [Lazise](https://2018.pgday.it/en/logistics/) sul Lago di Garda il 28 giugno, il giorno prima del [PGDay.IT 2018](https://2018.pgday.it/it/)
+I workshop si terranno a [Lazise](https://2018.pgday.it/en/logistics/) sul Lago di Garda il 28 giugno, il giorno prima del [PGDay.IT 2019](https://2018.pgday.it/it/)
 
 ###### Chi dovrebbe candidarsi come organizzatore di workshop?
 

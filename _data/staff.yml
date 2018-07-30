@@ -2,7 +2,7 @@
   id: 0
   name: "Patrizia"
   surname: "Dabizzi"
-  title: "Desk registrazione partecipanti"
+  title: "Desk registrazione partecipanti "
   thumbnailUrl: patri.jpg
   staff: true
   social:
@@ -48,7 +48,7 @@
   name: "Gianni"
   surname: "Ciolli"
   title: "Desk registrazione partecipanti"
-  thumbnailUrl: gianni_ciolli.jpg 
+  thumbnailUrl: gianni_ciolli.jpg
   staff: true
   social:
     - {name: "google-plus", link: ""}
@@ -86,7 +86,7 @@
   social:
     - {name: "google-plus", link: ""}
     - {name: "twitter", link: ""}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295"}     
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295"}
 -
   id: 0
   name: "Stefano"

@@ -13,9 +13,9 @@ redirect-from:
 
 ###### [Nuova deadline](http://2018.pgday.it/it/blog/cfp_postponed): 18 marzo 2018.
 
-[PGDay.IT 2018](https://2018.pgday.it/it/) si terrà a  [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno 2018. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
+[PGDay.IT 2019](https://2018.pgday.it/it/) si terrà a  [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno 2018. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
 
-###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2018?
+###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2019?
 
 * Utilizzatori di PostgreSQL
 * Aziende che affidano a PostgreSQL i loro dati

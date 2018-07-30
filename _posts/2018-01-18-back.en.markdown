@@ -9,7 +9,7 @@ lang: en
 ref: back
 ---
 
-<h6>PGDay.IT 2018 opens the doors.</h6>
+<h6>PGDay.IT 2019 opens the doors.</h6>
 
 We are full of enthusiasm because the [last edition](https://2017.pgday.it/en/) has been fantastic!
 Almost 200 enthusiastic attendees, interesting talks, great speakers, fantastic partners and a beautiful location. Attendees' feedbacks have been incredible!
@@ -17,7 +17,7 @@ Almost 200 enthusiastic attendees, interesting talks, great speakers, fantastic 
 We couldn't have asked for a better outcome.
 Thanks to everybody: attendees, speakers, staff, partners and we hope to meet you again during this new edition of [PGDay.IT](https://2018.pgday.it/en/).
 
-[PGDay.IT 2018](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th.
+[PGDay.IT 2019](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th.
 
 The location chosen is [Hotel Parchi del Garda](https://2018.pgday.it/en/logistics/). It is located between the towns of Peschiera del Garda and [Lazise](https://2018.pgday.it/en/logistics/), just 900 metres away from the lake's shore.
 
@@ -44,5 +44,5 @@ Focus points:
 
 <h6>How can you miss it?</h6>
 
-More details about the selected speakers and the schedule will be published on the PGDay.IT 2018 blog and shared through our social channels.
-Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) so you will not miss any updates on [PGDay.IT 2018](https://2018.pgday.it/en/).
+More details about the selected speakers and the schedule will be published on the PGDay.IT 2019 blog and shared through our social channels.
+Follow us on [Twitter](https://twitter.com/PGDayIT), [Facebook](https://www.facebook.com/ITPUG/), [Google+](https://plus.google.com/114060631874544975126), [Linkedin](https://www.linkedin.com/company/itpug) so you will not miss any updates on [PGDay.IT 2019](https://2018.pgday.it/en/).

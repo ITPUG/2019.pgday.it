@@ -366,7 +366,7 @@ aboutUs:
     en: "ITPUG - Italian PostgreSQL Users Group is a no-profit association for the promotion, spreading and protection of Free Software (FLOSS) in Italy. In particular, the ITPUG association promotes the adoption of PostgreSQL (http://www.postgresql.org), one of the most successful open source projects. The association was born in Prato (PO) on November 17, 2007, shortly after the first edition of PGDay.IT. For more information about the ITPUG association, please write to info@itpug.org."
 
 ## Logistics Find Way Block
-#findWayTitle:
+findWayTitle:
   it: "Verifica qui il tuo percorso"
   en: "Find your way here"
 findWayDestination:
