@@ -59,20 +59,20 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
 # - {permalink: "/schedule/", text: "Schedule"}
 # - {permalink: "/speakers/", text: "Speaker"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
 # - {permalink: "/workshop/", text: "Workshop", lang: "it"}
 # - {permalink: "/workshop/", text: "Workshops", lang: "en"}
 # - {permalink: "/lpi/", text: "LPI", lang: "it"}
 # - {permalink: "/lpi/", text: "LPI", lang: "en"}
-# - {permalink: "/logistics/", text: "Logistica", lang: "it"}
-# - {permalink: "/logistics/", text: "Logistics", lang: "en"}
+ - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
+ - {permalink: "/logistics/", text: "Logistica", lang: "it"}
+ - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
 # - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
 # - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
@@ -80,7 +80,7 @@ navigationLinks:
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
-# - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/blog/", text: "Blog"}
 bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
@@ -98,23 +98,23 @@ heroTitle:
   it: "PGDay.IT 2019 - <typeout> "
   en: "PGDay.IT 2019 - <typeout> "
 eventDate:
-  it: "Bologna 2019: Workshop 13 giugno e PGDay.IT 14 giugno"
-  en: "Bologna 2019: Workshop June 13th and PGDay.IT June 14th"
+  it: "Bologna 2019: Workshop 23 maggio e PGDay.IT 24 maggio"
+  en: "Bologna 2019: Workshop May 23th and PGDay.IT May 24th"
 typeoutTextValues:
-  it: '"", "PGDay.IT 14 giugno", "Workshop 13 giugno", "PG_beer 13 giugno", "Bologna, Italy", ""'
-  en: '"", "PGDay.IT June 14th", "Workshop June 13th", "PG_beer June 13th", "Bologna, Italy", ""'
+  it: '"", "PGDay.IT 24 maggio", "Workshop 23 maggio", "PG_beer 23 maggio", "Bologna, Italy", ""'
+  en: '"", "PGDay.IT May 24th", "Workshop May 23th", "PG_beer May 23th", "Bologna, Italy", ""'
 typeoutFallback:
-  it: "Bologna, 13 e 14 giugno 2019"
-  en: "Bologna, June 13th and 14th, 2019"
+  it: "Bologna, 23 e 24 maggio 2019"
+  en: "Bologna, May 23th and 24th, 2019"
 heroButtons:
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Diventa Speaker", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform", text: "Become Speaker", lang: "en"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organizza un workshop", lang: "it"}
-# - {link: "https://docs.google.com/forms/d/e/1FAIpQLScTgqVF6aMUk1b42fqmgY4F5iZVmTK5XyRruyCP-0wpGVvCVA/viewform", text: "Organise a workshop", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+ - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+ - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
 # - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
 # - {link: "https://2018pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
 
@@ -134,14 +134,14 @@ statisticBlockTitle:
     en: "Numbers of twelve editions of PGDay.It"
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {lang: "it", count: "1451", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
- - {lang: "en", count: "1451", specialCharacter: "+", info: "attendees", detail: "from all Europe"}
- - {lang: "it", count: "184", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
- - {lang: "en", count: "184", specialCharacter: "+", info: "hours", detail: "of pure PostgreSQL"}
- - {lang: "it", count: "176", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
- - {lang: "en", count: "176", specialCharacter: "+", info: "speaker", detail: "from all around the world"}
- - {lang: "it", count: "24", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
- - {lang: "en", count: "24", specialCharacter: "", info: "track", detail: "and social events"}
+ - {lang: "it", count: "1605", specialCharacter: "+", info: "partecipanti", detail: "da tutta Europa"}
+ - {lang: "en", count: "1605", specialCharacter: "+", info: "attendees", detail: "from all Europe"}
+ - {lang: "it", count: "201", specialCharacter: "+", info: "ore", detail: "di puro PostgreSQL"}
+ - {lang: "en", count: "201", specialCharacter: "+", info: "hours", detail: "of pure PostgreSQL"}
+ - {lang: "it", count: "191", specialCharacter: "+", info: "speaker", detail: "da tutto il mondo"}
+ - {lang: "en", count: "191", specialCharacter: "+", info: "speaker", detail: "from all around the world"}
+ - {lang: "it", count: "26", specialCharacter: "", info: "track", detail: "oltre agli eventi sociali"}
+ - {lang: "en", count: "26", specialCharacter: "", info: "track", detail: "and social events"}
 
 # Latest News Block
 #latestNewsTitle:
@@ -159,35 +159,35 @@ statisticBlock:
 #  en: "All Speakers here"
 
 # Location Block
-#locationBlockTitle: "Location"
-#eventLocationName: "Hotel Parchi del Garda"
-#eventLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
-#eventStreetAddress: "Via Brusà 16/17"
-#eventAddressLocality: "Pacengo di Lazise"
-#eventAddressLocalityRegion: "(VR)"
-#eventPostalCode: "37017"
-#eventAddressCountry: "Italy"
-#eventStartTime: "2018-06-29T9:00"
-#eventDoorTime: "08:15"
-#eventEndTime: "2018-06-29T18:00"
-#eventPlaceCoordinates: "45.4627319, 10.7171789"
-#mapCenterCoordinates: "45.4627319, 10.7171789"
-#mapMobileCenterCoordinates: "45.4627319, 10.7171789"
+locationBlockTitle: "Location"
+eventLocationName: "Admiral Park Hotel"
+eventLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+eventStreetAddress: "Via Fontanella, 3"
+eventAddressLocality: "Zola Predosa - Bologna"
+eventAddressLocalityRegion: "(BO)"
+eventPostalCode: "40069"
+eventAddressCountry: "Italy"
+eventStartTime: "2019-05-24T9:00"
+eventDoorTime: "08:15"
+eventEndTime: "2019-05-24T18:00"
+eventPlaceCoordinates: "44.4627324, 11.1992285"
+mapCenterCoordinates: "44.4627324, 11.1992285"
+mapMobileCenterCoordinates: "44.4627324, 11.1992285"
 
 # Venue Block
-#venueBlockTitle:
-#  it: "Location"
-#  en: "Location"
-#venueBigImage: "venue_0.jpg"
-#venueSmallImage1: "venue_1.jpg"
-#venueSmallImage2: "venue_2.jpg"
-#venueSmallImage3: "venue_3.jpg"
-#venueTitle:
-#  it: "Hotel Parchi del Garda"
-#  en: "Hotel Parchi del Garda"
-#venueFeatures:
-#  it: ["Hotel Parchi del Garda si presenta come un tipico borgo gardesano con cinque edifici disposti a corte intorno a un ampio giardino interno. Si trova tra i Comuni di Peschiera del Garda e Lazise, a soli 900 metri dalle rive del Lago. Grazie alla sua posizione strategica risulta facilmente raggiungibile."]
-#  en: ["Hotel Parchi del Garda is located between the towns of Peschiera del Garda and Lazise, just 900 metres away from the lake's edge. It is easy to get to using any means of transport, thanks to its strategic and well-connected position."]
+venueBlockTitle:
+  it: "Location"
+  en: "Location"
+venueBigImage: "venue_0.jpg"
+venueSmallImage1: "venue_1.jpg"
+venueSmallImage2: "venue_2.jpg"
+venueSmallImage3: "venue_3.jpg"
+venueTitle:
+  it: "Admiral Park Hotel"
+  en: "Admiral Park Hotel"
+venueFeatures:
+  it: ["Admiral Park Hotel è situato in una bellissima e strategica posizione, immerso in un vasto parco. Rimane a pochi minuti dall’aeroporto Guglielmo Marconi(BLQ), dalla stazione ferroviaria di Bologna centro e dalla zona fieristica di Bologna."]
+  en: ["Admiral Park Hotel is ______________ "]
 
 # TODO: sistemare url
 # Tweets Feed Block
@@ -240,8 +240,8 @@ partnersC4sponsorsButton:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
-#    it: ["Early ticket - PGDay.IT 2018", "29 giugno", "_______"]
-#    en: ["Early ticket - PGDay.IT 2018", "June 29th", "_______"]
+#    it: ["Early ticket - PGDay.IT 2019", "29 giugno", "_______"]
+#    en: ["Early ticket - PGDay.IT 2019", "June 29th", "_______"]
 #  validFrom: "2018-01-22T10:00"
 #  validThrough: "2018-04-06T23:59"
 #  disabled: true
@@ -256,8 +256,8 @@ partnersC4sponsorsButton:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
-#    it: ["Ordinario - PGDay.IT 2018", "29 giugno", "_______"]
-#    en: ["Ordinary - PGDay.IT 2018", "June 29th", "_______"]
+#    it: ["Ordinario - PGDay.IT 2019", "29 giugno", "_______"]
+#    en: ["Ordinary - PGDay.IT 2019", "June 29th", "_______"]
 #  validFrom: "2018-04-07T10:00"
 #  validThrough: "2018-06-16T23:59"
 #  disabled: false
@@ -273,8 +273,8 @@ partnersC4sponsorsButton:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
-#    it: ["Last chance - PGDay.IT 2018", "29 giugno", "_______"]
-#    en: ["Last chance - PGDay.IT 2018", "June 29th", "_______"]
+#    it: ["Last chance - PGDay.IT 2019", "29 giugno", "_______"]
+#    en: ["Last chance - PGDay.IT 2019", "June 29th", "_______"]
 #  validFrom: "2018-06-17T00:00"
 #  validThrough: "2018-06-27T23:59"
 #  disabled: true
@@ -292,8 +292,8 @@ partnersC4sponsorsButton:
 #    it: "Sarà richiesto una dimostrazione di stato STUDENTE al desk della manifestazione. In assenza di dimostrazione, il biglietto sarà cancellato senza possibilità di rimborso."
 #    en: "A valid student document will be requested at the front desk. In case a valid document demostrating a student status is not presented, the ticket will be canceled without refund."
 #  ticketContentList:
-#    it: ["Studente - PGDay.IT 2018", "29 giugno", "_______"]
-#    en: ["Student - PGDay.IT 2018", "June 29th", "_______"]
+#    it: ["Studente - PGDay.IT 2019", "29 giugno", "_______"]
+#    en: ["Student - PGDay.IT 2019", "June 29th", "_______"]
 #  validFrom: "2018-01-22T10:00"
 #  validThrough: "2018-06-27T23:59"
 #  disabled: false
@@ -330,14 +330,14 @@ footerBlocks:
    - {permalink: "/cod/", text: "Code of conduct", lang: "en"}
 
 # Blog
-#blogTitle:
-#  it: "Notizie dell'ultima ora"
-#  en: "Latest News"
-#blogReadMore:
-#  it: "continua a leggere"
-#  en: "read more"
-#blogCommentsEnabled: true
-#discusShortName: "PGDay.IT_2019"
+blogTitle:
+  it: "Notizie dell'ultima ora"
+  en: "Latest News"
+blogReadMore:
+  it: "continua a leggere"
+  en: "read more"
+blogCommentsEnabled: true
+discusShortName: "PGDay.IT_2019"
 
 # Speakers List Block
 #speakersImage: "speaker.jpg"
@@ -367,8 +367,8 @@ aboutUs:
 
 ## Logistics Find Way Block
 #findWayTitle:
-#  it: "Trova la tua strada qui"
-#  en: "Find your way here"
+  it: "Verifica qui il tuo percorso"
+  en: "Find your way here"
 findWayDestination:
   it: "al PGDay.IT"
   en: "to PGDay.IT"
@@ -390,27 +390,27 @@ findWayFindFlight:
 viewOnMap:
   it: "Vedi su Google Maps"
   en: "View on Google Maps"
-logisticsMapCenterCoordinates: "45.4627319, 10.7171789"
-logisticsMapMobileCenterCoordinates: "45.4627319, 10.7171789"
+logisticsMapCenterCoordinates: "44.4627324, 11.1992285"
+logisticsMapMobileCenterCoordinates: "44.4627324, 11.1992285"
 logisticsMapAutoDirections: false
 
 ## Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
 directionDetailsTitle:
-    it: "Come raggiungere il PGDay.IT 2018"
-    en: "How to reach PGDay.IT 2018"
+    it: "Come raggiungere il PGDay.IT 2019"
+    en: "How to reach PGDay.IT 2019"
 directionDetailsCards:
- - {lang: "it", title: "Arrivi in aereo all'Aeroporto di Verona? In treno alla stazione di Verona? Oppure arrivi all'Aeroporto di Bergamo?", information: "Questa è la nostra soluzione: PG_shuttle! Fornendo a noi i dati del tuo arrivo, organizzeremo per te il pickup che ti porterà direttamente presso la sede del PGDay.IT 2018. Basta che tu compili il form che abbiamo predisposto e troverai il tuo pickup ad attenderti al tuo arrivo. PG_shuttle è un servizio gratuito. Inserisci le informazioni necessarie nel form che trovi cliccando su 'PG_shuttle' nella barra del menù principale. Se invece preferisci essere autonomo, sotto troverai le indicazioni che ti occorrono."}
- - {lang: "en", title: "Are you arriving by plane at Verona Airport or by train at Verona station? Or do you arrive at Bergamo Airport?", information: "This is our solution: PG_shuttle! By providing us your arrival details, we will arrange for you the pickup that will take you directly to the venue of PGDay.IT 2018. Just fill the form that we have prepared and you will find your pickup waiting for you when you arrive. PG_shuttle is a free service. Please, enter the necessary information in the form that you find by clicking on 'PG_shuttle' in the main menu bar. If you prefer to be independent, below you will find the instructions you need."}
+ - {lang: "it", title: "Arrivi in aereo all'Aeroporto Guglielmo Marconi di Bologna? In treno alla stazione di Bologna Centrale?", information: "Questa è la nostra soluzione: PG_shuttle! Fornendo a noi i dati del tuo arrivo, organizzeremo per te il pickup che ti porterà direttamente presso la sede del PGDay.IT 2019. Basta che tu compili il form che abbiamo predisposto e troverai il tuo pickup ad attenderti al tuo arrivo. PG_shuttle è un servizio gratuito. Inserisci le informazioni necessarie nel form che trovi cliccando su 'PG_shuttle' nella barra del menù principale. Se invece preferisci essere autonomo, sotto troverai le indicazioni che ti occorrono."}
+ - {lang: "en", title: "Are you arriving by plane at Guglielmo Marconi Airport or by train at Bologna Centrale station?", information: "This is our solution: PG_shuttle! By providing us your arrival details, we will arrange for you the pickup that will take you directly to the venue of PGDay.IT 2019. Just fill the form that we have prepared and you will find your pickup waiting for you when you arrive. PG_shuttle is a free service. Please, enter the necessary information in the form that you find by clicking on 'PG_shuttle' in the main menu bar. If you prefer to be independent, below you will find the instructions you need."}
 
- - {lang: "it", title: "IN AUTO:", information: "5 km dall'uscita di Peschiera del Garda - Autostrada A4 / 13 km dall'uscita di Affi - Autostrada A22"}
- - {lang: "en", title: "BY CAR:", information: '5 km from the Peschiera del Garda exit - Motorway A4 / 13 km from the Affi exit - Motorway A22'}
+ - {lang: "it", title: "IN AUTO:", information: "A1 - Autostrada del Sole: Prendi A1/E35 e Asse Attrezzato Sud - Ovest/Via Nuova Bazzanese in direzione di Via Roma a Zona Industriale. Prendi l'uscita 3 da Asse Attrezzato Sud - Ovest/Via Nuova Bazzanese (8 min - 7,8 km). Prendi SP26 fino alla tua destinazione (8 min - 5,2 km)"}
+ - {lang: "en", title: "BY CAR:", information: "___________________________"}
 
- - {lang: "it", title: "IN TRENO:", information: '4 km dalla Stazione di Peschiera del Garda - linea ferroviaria Milano/Venezia'}
- - {lang: "en", title: "BY TRAIN:", information: '4 km from the Peschiera del Garda station - Milano/Venezia railway line'}
+ - {lang: "it", title: "IN TRENO:", information: "25 minuti dalla Stazione Centrale di Bologna"}
+ - {lang: "en", title: "BY TRAIN:", information: "25 minutes from Bologna Centrale station"}
 
- - {lang: "it", title: "IN AEREO:", information: "15 km dall'aeroporto Valerio Catullo di Verona Villafranca / 95 km dall'aeroporto Orio al Serio di Bergamo / 180 km dall'aeroporto Milano Malpensa"}
- - {lang: "en", title: "BY PLANE:", information: '15 km from Valerio Catullo airport in Verona Villafranca / 95 km from Orio al Serio airport in Bergamo / 180 km from Milano Malpensa airport'}
+ - {lang: "it", title: "IN AEREO:", information: "15 minuti dall'aeroporto Guglielmo Marconi di Bologna."}
+ - {lang: "en", title: "BY PLANE:", information: "15 minutes from Guglielmo Marconi airport in Bologna."}
 directionDetailsWideCards:
  -
   lang: "it"
@@ -419,7 +419,7 @@ directionDetailsWideCards:
    -
     title: ""
     links:
-     - {link: "https://www.hotelparchidelgarda.it/it/", text: "Hotel Parchi del Garda"}
+     - {link: "http://www.admiralparkhotel.com/", text: "Admiral Park Hotel"}
      - {link: "", text: ""}
      - {link: "", text: ""}
      - {link: "", text: ""}
@@ -430,7 +430,7 @@ directionDetailsWideCards:
    -
     title: ""
     links:
-     - {link: "https://www.hotelparchidelgarda.it/en/", text: "Hotel Parchi del Garda"}
+     - {link: "http://www.admiralparkhotel.com/", text: "Admiral Park Hotel"}
      - {link: "", text: ""}
      - {link: "", text: ""}
      - {link: "", text: ""}
@@ -443,7 +443,7 @@ pgbeerTitle:
 pgbeerDescription:
     it: "
     <h6>
-    L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2018.<h6/><br/>
+    L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2019.<h6/><br/>
     <h6>
     La formula è ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<h6/><br/>
     <h6>
@@ -452,7 +452,7 @@ pgbeerDescription:
     Per trascorrere la serata senza preoccupazioni, pg_shuttle sarà il nostro mezzo di trasporto.<h6/><br/>"
     en: "
     <h6>
-    The opportunity to break the ice, share experiences, before the PGDay.IT 2018.<h6/><br/>
+    The opportunity to break the ice, share experiences, before the PGDay.IT 2019.<h6/><br/>
     <h6>
     The formula is ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<h6/><br/>
     <h6>
@@ -524,8 +524,8 @@ pgbeerTicketsOffers:
     it: "Acquistalo adesso"
     en: "Get it now"
   pgbeerTicketContentList:
-    it: ["Pg_beer - PGDay.IT 2018", "28 giugno", "Lazise"]
-    en: ["Pg_beer - PGDay.IT 2018", "June 28th", "Lazise"]
+    it: ["Pg_beer - PGDay.IT 2019", "28 giugno", "Lazise"]
+    en: ["Pg_beer - PGDay.IT 2019", "June 28th", "Lazise"]
   validFrom: "2018-02-15T10:00"
   validThrough: "2018-06-24T23:59"
   disabled: false
@@ -561,12 +561,12 @@ aboutWorkshopTitle:
 aboutWorkshopDescription:
     it: "
       <p>
-        I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018
+        I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2019
         (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può
         essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
         di selezionare il workshop di interesse.<br/>
         I partecipanti dovranno essere automuniti di portatile.
-        La fee di registrazone ai workshop NON include: coffee break, pranzo e accesso al PGDay.IT 2018.
+        La fee di registrazone ai workshop NON include: coffee break, pranzo e accesso al PGDay.IT 2019.
       </p>
       <p>
         <b>IMPORTANTE</b>: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
@@ -574,10 +574,10 @@ aboutWorkshopDescription:
       </p>"
     en: "
       <p>
-      Workshop will take place in the same venue of PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise).
-      You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include: coffee break, lunch, and access to PGDay.IT 2018. <br/>
+      Workshop will take place in the same venue of PGDay.IT 2019 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise).
+      You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include: coffee break, lunch, and access to PGDay.IT 2019. <br/>
       Attendees has to bring their own computer.
-      The workshop fee does not include: lunch as well and PGDay.IT 2018 fee.
+      The workshop fee does not include: lunch as well and PGDay.IT 2019 fee.
       </p>
       <p>
         <b> IMPORTANT </ b>: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED.
@@ -734,14 +734,14 @@ aboutWorkshopTitle:
     it: "Workshop: come iscriversi?"
     en: "Workshops: how to attend?"
 aboutWorkshopDescription:
-    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può essere effettuata attraverso Eventbrite.
+    it: "I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2019 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può essere effettuata attraverso Eventbrite.
     Al momento dell'iscrizione verrà richiesto di selezionare la tematica di interesse. La fee di registrazone ai workshop NON include:
-      coffee break, pranzo e accesso al PGDay.IT 2018. I partecipanti dovranno essere automunioti di portatile.
+      coffee break, pranzo e accesso al PGDay.IT 2019. I partecipanti dovranno essere automunioti di portatile.
       IMPORTANTE: I WORKSHOP VERRANNO CONFERMATI AL REGGIUNGIMENTO DI 3 ISCRITTI. NEL CASO IL CORSO NON VENGA CONFERMATO VERRANNO
       RIMBORSATE LE EVENTUALI SOTTOSCRIZIONI PERVENUTE."
-    en: " The workshops will take place at the same venue of PGDay.IT 2018 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). Registration has to be made through Eventbrite.
+    en: " The workshops will take place at the same venue of PGDay.IT 2019 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). Registration has to be made through Eventbrite.
      On the registration page, you have to select the topic of interest. The workshop fee does NOT include:
-       coffee break, lunch, and access to PGDay.IT 2018. Participants has to bring their computer.
+       coffee break, lunch, and access to PGDay.IT 2019. Participants has to bring their computer.
        IMPORTANT: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED."
 
 workshopDetailsCards:
@@ -801,8 +801,8 @@ workshopTicketsTitle:
     it: "Quota iscrizione workshop"
     en: "workshop registration fee"
 workshopTicketsInfo:
-    it: "Quota iscrizione workshop - PGDay.IT 2018 - 28 giugno 2018"
-    en: "workshop registration fee - PGDay.IT 2018 - June 28th, 2018"
+    it: "Quota iscrizione workshop - PGDay.IT 2019 - 28 giugno 2018"
+    en: "workshop registration fee - PGDay.IT 2019 - June 28th, 2018"
 workshopTicketsOffers:
  -
   name:
@@ -857,7 +857,7 @@ introductionLinuxDescription:
       LPI ExamLab: che cosa è? Come si effettua l'iscrizione?<h5/>
       <p>
         Gli ExamLab del Linux Professional Institute sono sessioni d’esame straordinarie per le certificazioni LPI, sessioni che si tengono in concomitanza di importanti eventi di settore come PGDay.IT.<br/>
-        In occasione del PGDay.IT 2018, gli esami di un LPI Exam Lab vengono forniti a prezzi scontati.<br/>
+        In occasione del PGDay.IT 2019, gli esami di un LPI Exam Lab vengono forniti a prezzi scontati.<br/>
         In questa occasione specifica, la nuova versione dell’Esame LPIC-1, release 5.0, Beta, viene offerta gratuitamente.<br/>
       <h5>
         Informazioni inerenti gli esami Linux Professional Institute (LPI) Italia:<h5/>
@@ -870,7 +870,7 @@ introductionLinuxDescription:
         • Il costo indicato è comprensivo di IVA.<br/>
         • La sessione d'esame ha la durata di 90 minuti per gli esami Professional (LPIC-), e 60 minuti per la sessione Essentials.<br/>
         • Durante l'esame non è consentito l'uso di supporti, digitali od analogici.<br/>
-        • La registrazone al LPI NON include: coffee break, pranzo, accesso al PGDay.IT 2018 (29 giugno) o ai Workshop (28 giugno).<br/>
+        • La registrazone al LPI NON include: coffee break, pranzo, accesso al PGDay.IT 2019 (29 giugno) o ai Workshop (28 giugno).<br/>
     en: |
       <a target="_blank" href="http://www.lpi.org/our-certifications/summary-of-certifications">LPI is the global certification standard</a> and career support organization for open source professionals.<br/>
       With more than 500.000 exams delivered, it is the world's first and largest neutral-vendor Linux and open source certification body. LPI has certified professionals in over 180 countries, delivers exams in 9 languages, and has over 400 training partners.<br/>
@@ -880,7 +880,7 @@ introductionLinuxDescription:
       LPI ExamLab: what is it? How do I register?<h5/>
       <p>
         The ExamLabs of the Linux Professional Institute are outstanding exam sessions for LPI certifications, sessions held in conjunction with relevant events such as PGDay.IT.<br/>
-        In occasion of PGDay.IT 2018, the LPI Exam Lab are provided at discounted prices.<br/>
+        In occasion of PGDay.IT 2019, the LPI Exam Lab are provided at discounted prices.<br/>
         On this specific occasion, the new version of the LPIC-1 Exam, release 5.0, Beta, is offered for free.<br/>
       <h5>
         Information about the Linux Professional Institute (LPI) Italia exams:<h5/>
@@ -893,10 +893,10 @@ introductionLinuxDescription:
         • The indicated cost is inclusive of VAT.<br/>
         • The exam session lasts 90 minutes for the Professional (LPIC-) exams, and 60 minutes for the Essentials session.<br/>
         • The use of digital or analog media is not permitted during the exam.<br/>
-        • LPI registration does NOT include: coffee breaks, lunch, access to the PGDay.IT 2018 (June 29th) or the Workshops (June 28th).<br/>
+        • LPI registration does NOT include: coffee breaks, lunch, access to the PGDay.IT 2019 (June 29th) or the Workshops (June 28th).<br/>
 aboutLinuxTitle:
-    it: "Dettagli sulla sessione Examlab presso PGDay.it 2018:"
-    en: "Details about the Examlab session at PGDay.it 2018"
+    it: "Dettagli sulla sessione Examlab presso PGDay.IT 2019:"
+    en: "Details about the Examlab session at PGDay.IT 2019"
 aboutLinuxDescription:
     it: |
       <p>
@@ -1031,8 +1031,8 @@ linuxTicketsOffers:
     it: "Registrati adesso"
     en: "Subscribe now"
   linuxTicketContentList:
-    it: ["LPI ExamLab - PGDay.IT 2018", "28 giugno", "Lazise"]
-    en: ["LPI ExamLab - PGDay.IT 2018", "June 28th", "Lazise"]
+    it: ["LPI ExamLab - PGDay.IT 2019", "28 giugno", "Lazise"]
+    en: ["LPI ExamLab - PGDay.IT 2019", "June 28th", "Lazise"]
   validFrom: "2018-01-22T10:00"
   validThrough: "2018-06-15T23:59"
   disabled: false
