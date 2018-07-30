@@ -52,7 +52,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 #c4pUrl: "https://goo.gl/forms/0JUVQUM0YPUt7UF53"
-c4sponsorsUrl: "/assets/PartnerIT_2018.pdf"
+c4sponsorsUrl: "/assets/PartnerIT_2019.pdf"
 
 # Navigation
 navigationLinks:
@@ -73,8 +73,8 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
-# - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
-# - {link: "https://2018pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
+# - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://2019pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
@@ -84,13 +84,13 @@ navigationLinks:
 bottomNavigationLinks:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+# - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
 rightNavigationButtons:
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://goo.gl/forms/0JUVQUM0YPUt7UF53", text: "Become Speaker", lang: "en"}
-# - {link: "/assets/PartnerIT_2018.pdf", text: "Diventa Partner", lang: "it"}
-# - {link: "/assets/PartnerEN_2018.pdf", text: "Become Partner", lang: "en"}
+# - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
+# - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -98,14 +98,14 @@ heroTitle:
   it: "PGDay.IT 2019 - <typeout> "
   en: "PGDay.IT 2019 - <typeout> "
 eventDate:
-  it: "Bologna 2019: Workshop 23 maggio e PGDay.IT 24 maggio"
-  en: "Bologna 2019: Workshop May 23th and PGDay.IT May 24th"
+  it: "Bologna 2019: Workshop 16 maggio e PGDay.IT 17 maggio"
+  en: "Bologna 2019: Workshop May 16th and PGDay.IT May 17th"
 typeoutTextValues:
-  it: '"", "PGDay.IT 24 maggio", "Workshop 23 maggio", "PG_beer 23 maggio", "Bologna, Italy", ""'
-  en: '"", "PGDay.IT May 24th", "Workshop May 23th", "PG_beer May 23th", "Bologna, Italy", ""'
+  it: '"", "PGDay.IT 17 maggio", "Workshop 16 maggio", "PG_beer 16 maggio", "Bologna, Italy", ""'
+  en: '"", "PGDay.IT May 17th", "Workshop May 16th", "PG_beer May 16th", "Bologna, Italy", ""'
 typeoutFallback:
-  it: "Bologna, 23 e 24 maggio 2019"
-  en: "Bologna, May 23th and 24th, 2019"
+  it: "Bologna, 16 e 17 maggio 2019"
+  en: "Bologna, May 16th and 17th, 2019"
 heroButtons:
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
  - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
@@ -115,8 +115,8 @@ heroButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
  - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
-# - {link: "https://2018pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
-# - {link: "https://2018pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
+# - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+# - {link: "https://2019pgdayit.eventbee.com", text: "Get your ticket", lang: "en"}
 
 # About Block
 aboutTitle:
@@ -167,9 +167,9 @@ eventAddressLocality: "Zola Predosa - Bologna"
 eventAddressLocalityRegion: "(BO)"
 eventPostalCode: "40069"
 eventAddressCountry: "Italy"
-eventStartTime: "2019-05-24T9:00"
+eventStartTime: "2019-051717T9:00"
 eventDoorTime: "08:15"
-eventEndTime: "2019-05-24T18:00"
+eventEndTime: "2019-05-17T18:00"
 eventPlaceCoordinates: "44.4627324, 11.1992285"
 mapCenterCoordinates: "44.4627324, 11.1992285"
 mapMobileCenterCoordinates: "44.4627324, 11.1992285"
@@ -226,8 +226,8 @@ partnersC4sponsorsButton:
 #    it: "Prezzo biglietti"
 #    en: "Ticket prices"
 #ticketsInfo:
-#    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 29 giugno 2018. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
-#    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of June 29th, 2018. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
+#    it: "Il biglietto vi garantirà l'accesso alla conferenza, ai coffee break ed al pranzo, incluse tutte le attività programmate per la giornata del 17 maggio 2019. Nel prezzo del biglietto NON è incluso il pernottamento e NON sono inclusi gli eventi sociali come la pg_beer e NON sono inclusi i workshop."
+#    en: "The ticket will guarantee you the access to the event, coffee breaks and lunch, including all scheduled activities for the day of May 17th, 2019. In the ticket price is NOT included in the overnight stay and it is NOT included social events like pg_beer and it is NOT included workshops."
 #ticketsOffers:
 # -
 #  name:
@@ -235,15 +235,15 @@ partnersC4sponsorsButton:
 #    en: "Early ticket"
 #  price: "47,00"
 #  priceCurrency: "€"
-#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonLink: "https://2019pgdayit.eventbee.com"
 #  buyButtonText:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
 #    it: ["Early ticket - PGDay.IT 2019", "29 giugno", "_______"]
 #    en: ["Early ticket - PGDay.IT 2019", "June 29th", "_______"]
-#  validFrom: "2018-01-22T10:00"
-#  validThrough: "2018-04-06T23:59"
+#  validFrom: "2019-01-22T10:00"
+#  validThrough: "2019-04-06T23:59"
 #  disabled: true
 # -
 #  name:
@@ -251,15 +251,15 @@ partnersC4sponsorsButton:
 #    en: "Ordinary"
 #  price: "59,00"
 #  priceCurrency: "€"
-#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonLink: "https://2019pgdayit.eventbee.com"
 #  buyButtonText:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
 #    it: ["Ordinario - PGDay.IT 2019", "29 giugno", "_______"]
 #    en: ["Ordinary - PGDay.IT 2019", "June 29th", "_______"]
-#  validFrom: "2018-04-07T10:00"
-#  validThrough: "2018-06-16T23:59"
+#  validFrom: "2019-04-07T10:00"
+#  validThrough: "2019-06-16T23:59"
 #  disabled: false
 # -
 #  name:
@@ -268,15 +268,15 @@ partnersC4sponsorsButton:
 #  price: "97,00"
 #  priceCurrency: "€"
 #  featured: true
-#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonLink: "https://2019pgdayit.eventbee.com"
 #  buyButtonText:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
 #  ticketContentList:
 #    it: ["Last chance - PGDay.IT 2019", "29 giugno", "_______"]
 #    en: ["Last chance - PGDay.IT 2019", "June 29th", "_______"]
-#  validFrom: "2018-06-17T00:00"
-#  validThrough: "2018-06-27T23:59"
+#  validFrom: "2019-06-17T00:00"
+#  validThrough: "2019-06-27T23:59"
 #  disabled: true
 # -
 #  name:
@@ -284,7 +284,7 @@ partnersC4sponsorsButton:
 #    en: "Student"
 #  price: "15,00"
 #  priceCurrency: "€"
-#  buyButtonLink: "https://2018pgdayit.eventbee.com"
+#  buyButtonLink: "https://2019pgdayit.eventbee.com"
 #  buyButtonText:
 #    it: "Acquistalo adesso"
 #    en: "Get it now"
@@ -294,8 +294,8 @@ partnersC4sponsorsButton:
 #  ticketContentList:
 #    it: ["Studente - PGDay.IT 2019", "29 giugno", "_______"]
 #    en: ["Student - PGDay.IT 2019", "June 29th", "_______"]
-#  validFrom: "2018-01-22T10:00"
-#  validThrough: "2018-06-27T23:59"
+#  validFrom: "2019-01-22T10:00"
+#  validThrough: "2019-06-27T23:59"
 #  disabled: false
 
 # TODO: sistemare permalink o cancellarlo
@@ -524,10 +524,10 @@ pgbeerTicketsOffers:
     it: "Acquistalo adesso"
     en: "Get it now"
   pgbeerTicketContentList:
-    it: ["Pg_beer - PGDay.IT 2019", "28 giugno", "Lazise"]
-    en: ["Pg_beer - PGDay.IT 2019", "June 28th", "Lazise"]
-  validFrom: "2018-02-15T10:00"
-  validThrough: "2018-06-24T23:59"
+    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
+    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
+  validFrom: "2019-02-15T10:00"
+  validThrough: "2019-05-14T23:59"
   disabled: false
 
 # Pgbeer Location Block
