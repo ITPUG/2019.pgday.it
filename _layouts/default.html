@@ -72,19 +72,19 @@ layout: compress
                 centerMapCoordinates = '{{ site.mapCenterCoordinates | replace:' ','' }}',
                 mobileCenterMapCoordinates = '{{ site.mapMobileCenterCoordinates | replace:' ','' }}',
                 icon = '{{ site.baseurl | prepend: site.url }}/img/other/map-marker.png';
-            }
-            var twitterFeedUrl = '{{ site.twitterFeed }}';
-            $(document).ready(function () {
-                $(function () {
-                    if ($(window).width() > 767) {
-                        $("#typeout-text").typed({
-                            strings: [{{ site.typeoutTextValues[page.lang] }}],
-                            typeSpeed: 150,
-                            backDelay: 900,
-                            loop: true
-                        });
-                    }
-                });
+              }
+              var twitterFeedUrl = '{{ site.twitterFeed }}';
+              $(document).ready(function () {
+                  $(function () {
+                      if ($(window).width() > 767) {
+                          $("#typeout-text").typed({
+                              strings: [{{ site.typeoutTextValues[page.lang] }}],
+                              typeSpeed: 150,
+                              backDelay: 900,
+                              loop: true
+                          });
+                      }
+                  });
                 var rockstarSpeakers = [
                     {% for speaker in site.data.speakers %}
                         {% if speaker.rockstar %}
