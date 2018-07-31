@@ -101,12 +101,12 @@ eventDate:
   it: "Bologna 2019: Workshop 16 maggio e PGDay.IT 17 maggio"
   en: "Bologna 2019: Workshop May 16th and PGDay.IT May 17th"
 typeoutTextValues:
-  it: '"", "PGDay.IT 17 maggio", "Workshop 16 maggio", "PG_beer 16 maggio", "Bologna, Italy", ""'
-  en: '"", "PGDay.IT May 17th", "Workshop May 16th", "PG_beer May 16th", "Bologna, Italy", ""'
+  it: '"PGDay.IT 17 maggio", "Workshop 16 maggio", "PG_beer 16 maggio", "Bologna, Italy"'
+  en: '"PGDay.IT May 17th", "Workshop May 16th", "PG_beer May 16th", "Bologna, Italy"'
 typeoutFallback:
   it: "Bologna, 16 e 17 maggio 2019"
   en: "Bologna, May 16th and 17th, 2019"
-heroButtons:
+#heroButtons:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
