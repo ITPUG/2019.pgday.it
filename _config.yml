@@ -23,7 +23,7 @@ description:
 baseurl: ""
 url: "http://2019.pgday.it"
 permalink: "/it/blog/:title"
-googleAnalyticsTrackingId: "UA-99990720-2"
+googleAnalyticsTrackingId: "UA-99990720-4"
 googleAnalyticsSiteUrl: "auto"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
