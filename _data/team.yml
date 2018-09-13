@@ -69,45 +69,45 @@
     - {name: "linkedin", link: ""}
 -
   id: 0
-  name: ""
-  surname: ""
-  thumbnailUrl:
+  name: "Gabriele"
+  surname: "Bartolini"
+  thumbnailUrl: gabriele.jpg
   subTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/107466780372045620897"}
-#    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
-#    - {name: "github", link: "https://github.com/gbartolini"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
+    - {name: "google-plus", link: "https://plus.google.com/107466780372045620897"}
+    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
+    - {name: "github", link: "https://github.com/gbartolini"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
 -
   id: 1
-  name: ""
-  surname: ""
-  thumbnailUrl:
+  name: "Denis"
+  surname: "Gasparin"
+  thumbnailUrl: denis.jpg
   subTeam: true
   social:
-#    - {name: "twitter", link: "https://twitter.com/rtshome"}
-#    - {name: "github", link: "https://github.com/rtshome"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
+    - {name: "github", link: "https://github.com/rtshome"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
 -
   id: 2
-  name: ""
-  surname: ""
-  thumbnailUrl:
+  name: "Torello"
+  surname: "Querci"
+  thumbnailUrl: torello.jpg
   subTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
-#    - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
-#    - {name: "github", link: "https://github.com/mk8"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/102238164874818911077"}
+    - {name: "twitter", link: "https://twitter.com/TorelloQuerci"}
+    - {name: "github", link: "https://github.com/mk8"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/torello-querci-7375394/"}
 -
   id: 3
-  name: ""
-  surname: ""
-  thumbnailUrl:
+  name: "Emanuele"
+  surname: "Zamprogno"
+  thumbnailUrl: emanuele.jpg
   subTeam: true
   social:
-#    - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
+    - {name: "google-plus", link: "https://plus.google.com/105710421639258466519"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/ezamprogno/"}
 -
   id: 0
   name: "Marco"
