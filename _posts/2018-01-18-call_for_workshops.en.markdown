@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Workshops is OPEN!"
-date:   2018-09-09 04:06:00
+date:   2018-09-14 04:06:00
 isStaticPost: false
 permalink: /en/blog/cfw
 lang: en

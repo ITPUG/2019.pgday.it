@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Workshop è APERTA!"
-date:   2018-09-09 04:06:00
+date:   2018-09-14 04:06:00
 isStaticPost: false
 permalink: /it/blog/cfw
 lang: it

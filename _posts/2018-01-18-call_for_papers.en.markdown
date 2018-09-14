@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for Papers is OPEN!"
-date:   2018-09-08 04:05:00
+date:   2018-09-14 04:05:00
 isStaticPost: false
 permalink: /en/blog/cfp
 lang: en
