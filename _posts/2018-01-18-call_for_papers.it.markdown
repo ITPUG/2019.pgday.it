@@ -1,48 +1,52 @@
 ---
 layout: post
 title:  "Call for Paper è APERTA!"
-date:   2018-01-18 04:00:00
+date:   2018-09-08 04:05:00
 isStaticPost: false
 permalink: /it/blog/cfp
 lang: it
 ref: cfp
-image: paper.jpg
+image: open.jpg
 redirect-from:
  - /blog/cfp
 ---
 
-###### [Nuova deadline](http://2018.pgday.it/it/blog/cfp_postponed): 18 marzo 2018.
+###### Deadline: 15 gennaio 2019.
 
-[PGDay.IT 2019](https://2018.pgday.it/it/) si terrà a  [Lazise](https://2018.pgday.it/it/logistics/) sul Lago di Garda il 29 giugno 2018. Se vuoi essere parte di questa fantastica manifestazione come speaker … bussa e ti sarà aperto.
+[PGDay.IT 2019](https://2019.pgday.it/it/) si terrà a  [Bologna](https://2019.pgday.it/it/logistics/) il 17 maggio 2019. Se vuoi essere parte di questa fantastica manifestazione come speaker… bussa e ti sarà aperto.
 
 ###### Chi dovrebbe candidarsi come speaker al PGDay.IT 2019?
 
 * Utilizzatori di PostgreSQL
 * Aziende che affidano a PostgreSQL i loro dati
-* PostgreSQL hackers o Sviluppatori di tool per PostgreSQL
+* PostgreSQL hackers o sviluppatori di tool per PostgreSQL
 * Chiunque abbia qualcosa di interessante da dire su PostgreSQL
 
-Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di talk (o una serie di proposte). Il comitato tecnico designato, valuterà le proposte e selezionerà i talk per la manifestazione. Magari tra questi potrebbe esserci il tuo!
+Se appartieni ad uno di questi gruppi, sei invitato a presentare una proposta di talk (o una serie di proposte). Il comitato tecnico designato valuterà le proposte e selezionerà i talk per la manifestazione; magari tra questi potrebbe esserci il tuo!
 
 ###### Temi e argomenti - cosa ci aspettiamo?
 
-Prima di tutto, suggeriamo ai candidati speaker di dare uno sguardo ai topic richiesti dai partecipanti dell'[ultima edizione](https://2017.pgday.it/it/) (come da [feedback form compilato](http://blog.itpug.org/pgday_it_2017/)). Questi i topic:
+Per avere un’idea degli argomenti trattati durante il PostgreSQL Day, suggeriamo di dare uno sguardo alle ultime due edizioni del PGDay.IT: [2018] (https://2018.pgday.it/it/) e [2017](https://2017.pgday.it/it/). Sono due edizioni che hanno ricevuto ottimi feedback dai partecipanti.
 
-* Disaster Recovery
-* Replica e Alta Disponibilità
-* Ottimizzazioni di query
-* Server tuning
-* Troubleshooting
-* GIS, PostGIS e Location-based service
-* Business cases
-* Security
-* Postgres XL
-* Partizionamento
-* Security
-* Data Protection Regulation
-* Nuove funzionalità di PostgreSQL
-* Migrazioni da Oracle
-* Sviluppo con PostgreSQL
+Questi sono i topic:
+
+* disaster recovery;
+* replica e alta disponibilità;
+* ottimizzazioni di query;
+* server tuning;
+* troubleshooting;
+* GIS, PostGIS e Location-based service;
+* business cases;
+* security;
+* sharding;
+* big data;
+* multi-master;
+* partizionamento;
+* security;
+* data Protection Regulation;
+* nuove funzionalità di PostgreSQL;
+* migrazioni da Oracle;
+* sviluppo con PostgreSQL.
 
 Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai un’idea che vuoi condividere non presente in questa lista, fatti avanti.
 
@@ -79,13 +83,13 @@ Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai u
 * Ricerca e insegnamento con PostgreSQL
 
 
-###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform).
+###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
 
-__Deadline__ il 28 febbraio 2018 [posticipata al 18 marzo](http://2018.pgday.it/it/blog/cfp_postponed)
+__Deadline__ il 15 gennaio 2019
 
-__Importante:__ Non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.
+__Importante:__ non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.
 
-Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e  non oltre il 15 marzo 2018.
+Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e non oltre il 25 gennaio 2019.
 
 ##### Domande?
 

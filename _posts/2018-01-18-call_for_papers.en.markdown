@@ -1,48 +1,52 @@
 ---
 layout: post
 title:  "Call for Papers is OPEN!"
-date:   2018-01-18 04:00:00
+date:   2018-09-08 04:05:00
 isStaticPost: false
 permalink: /en/blog/cfp
 lang: en
-image: paper.jpg
+image: open.jpg
 ref: cfp
 ---
 
-###### [New deadline](http://2018.pgday.it/en/blog/cfp_postponed): Marzo 18, 2018
+###### Deadline: January 15th, 2019
 
-[PGDay.IT 2019](https://2018.pgday.it/en/) will be held in [Lazise](https://2018.pgday.it/en/logistics/) on Lake Garda on June 29th. If you want to be part of this event as a speaker … please, knock and the door will be opened!
+[PGDay.IT 2019](https://2019.pgday.it/en/) will be held in [Bologna](https://2019.pgday.it/en/logistics/) on May 17th. If you want to be part of this event as a speaker, please, knock and the door will be opened to you!
 
-###### Who should apply as speaker for PGDay.IT 2019?
+###### Who should apply as a speaker for PGDay.IT 2019?
 
 * PostgreSQL users
-* Companies that rely PostgreSQL
+* Companies that rely on PostgreSQL
 * PostgreSQL hackers or PostgreSQL Tool Developers
 * Anyone who wants to share important facts or issues about PostgreSQL
 
-If you belong to one of these groups, you are invited to submit a talk proposal (or proposals). The designated technical committee will evaluate the proposals and select the talk for the event. It could be yours!
+If you belong to one of those groups, you are invited to submit a talk proposal (or proposals). The designated technical committee will evaluate the proposals and select the talk for the event. It could be yours!
 
-###### Topics and Arguments - What Do We Expect?
+###### Topics and Arguments - What do we expect?
 
-First of all, we suggest to candidates speakers to look at topics desired by the attendees of the [last edition](https://2017.pgday.it/en/) (from the [feedback form filled out](http://blog.itpug.org/pgday_it_2017/)). These are the topics:
+To get an idea about the topics covered during the PostgreSQL Day, we suggest to give a look at the last two editions of PGDay.IT: [2018] (https://2018.pgday.it/en/) and [2017] (https : //2017.pgday.it/en/). These editions have received excellent feedback from the attendees.
 
-* Disaster Recovery
-* Replication and High Availability
-* Query optimisation
-* Server tuning
-* Troubleshooting
-* GIS, PostGIS and Location-based services
-* Business cases
-* Security
-* Postgres XL
-* Partitioning
-* Security
-* Data Protection Regulation
-* New PostgreSQL features
-* Migrations from Oracle
-* Development with PostgreSQL
+These are the topics:
 
-Our team has also identified a number of interesting topics to talk about. If you have an idea not present in the list below, go ahead and share it with us.
+* disaster recovery;
+* replication and high availability;
+* query optimisation;
+* server tuning;
+* troubleshooting;
+* GIS, PostGIS and location-based services;
+* business cases;
+* security
+* sharding;
+* big data;
+* multi-master;
+* partitioning;
+* security;
+* data protection regulation;
+* new PostgreSQL features;
+* migrations from Oracle;
+* development with PostgreSQL;
+
+Our team has also identified a series of interesting topics, but if you have a suggestion not present in the list below, go ahead and share it with us.
 
 ###### PostgreSQL
 
@@ -73,16 +77,16 @@ Our team has also identified a number of interesting topics to talk about. If yo
 
 * Case Studies
 * Devops
-* Open Source Business model
-* Researching and School teaching with PostgreSQL
+* Open Source business model
+* Researching and teaching with PostgreSQL
 
-###### Please submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSfs0OGbAXPXHELFAiB1rB9v3vrEk6d8rZf0ukTxP9c1sNKBmA/viewform).
+###### Please submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
 
-__Deadline:__ February 28th, 2018 [postponed to March 18th](http://2018.pgday.it/en/blog/cfp_postponed)
+__Deadline:__ January 15th, 2019
 
 __Important:__ There is no guarantee that your proposal will be included in the event schedule.
 
-The Technical Committee will select the most interesting proposals received and will inform the candidates no later than March 15th, 2018.
+The Technical Committee will select the most interesting proposals received and will inform the candidates no later than January 25th, 2019.
 
 __Questions?__
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)
