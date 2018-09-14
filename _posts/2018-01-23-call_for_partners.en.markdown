@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Call for Partners is OPEN!"
-date:   2018-01-23 04:00:00
+date:   2018-09-30 04:07:00
 isStaticPost: false
 permalink: /en/blog/partners
 lang: en
-image: partner_blog.jpg
+image: partner.jpg
 ref: partners
 ---
 
