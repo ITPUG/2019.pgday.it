@@ -71,8 +71,8 @@ navigationLinks:
  - {permalink: "/logistics/", text: "Logistics", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
-# - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
-# - {link: "https://2019pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
+ - {link: "https://2019pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
 # - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
