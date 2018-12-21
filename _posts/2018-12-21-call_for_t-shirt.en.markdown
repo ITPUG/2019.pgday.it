@@ -9,7 +9,7 @@ image: t-shirt.png
 ref: t-shirt
 ---
 
-######Create the T-shirt of the 13th Edition of PGDay.IT!
+###### Create the T-shirt of the 13th Edition of PGDay.IT!
 
 Great news for the [2019 edition of the PGDay.IT](https://2019.pgday.it/it/): **"Create the T-shirt!" contest.**
 
