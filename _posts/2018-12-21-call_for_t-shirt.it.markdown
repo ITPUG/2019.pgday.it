@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Call for T-shirt è APERTA!"
-date:   2018-09-14 04:05:00
+date:   2018-12-21 04:05:00
 isStaticPost: false
 permalink: /it/blog/t-shirt
 lang: it
@@ -26,7 +26,7 @@ Segui queste poche regole ed inviaci la tua proposta:
 
 Il [Comitato Organizzativo](https://2019.pgday.it/it/team/) del PGDay.IT 2019 selezionerà una tra le proposte pervenute e la farà elaborare da un grafico professionista in accordo con l’ideatore, che potrà anche apporre la sua firma sulla t-shirt.
 
-![testo alt](img/posts/t-shirt-base.png "Base T-shirt")
+![testo alt](/img/posts/t-shirt-base.png "Base T-shirt")
 
 ###### Deadline: 28 febbraio 2019.
 
