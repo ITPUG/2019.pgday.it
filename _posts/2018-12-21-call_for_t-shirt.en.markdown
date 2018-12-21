@@ -25,7 +25,7 @@ Follow these few rules and send us your proposal:
 
 The Organizing Committee of PGDay.IT 2019 will select one of the proposals, which will be drawn up by a professional graphic designer in agreement with the creator, who will also be able to have his signature on the t-shirt.
 
-![testo alt](/img/posts/t-shirt-base.png "Base T-shirt")
+![testo alt](/img/posts/t-shirt-base.jpg "Base T-shirt")
 
 ###### Deadline: February 28th, 2019
 
