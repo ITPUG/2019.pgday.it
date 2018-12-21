@@ -26,7 +26,7 @@ Segui queste poche regole ed inviaci la tua proposta:
 
 Il [Comitato Organizzativo](https://2019.pgday.it/it/team/) del PGDay.IT 2019 selezionerà una tra le proposte pervenute e la farà elaborare da un grafico professionista in accordo con l’ideatore, che potrà anche apporre la sua firma sulla t-shirt.
 
-![testo alt](/img/posts/t-shirt-base.png "Base T-shirt")
+![testo alt](/img/posts/t-shirt-base.jpg "Base T-shirt")
 
 ###### Deadline: 28 febbraio 2019.
 
