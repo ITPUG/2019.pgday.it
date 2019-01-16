@@ -4,7 +4,7 @@ title:  "Posticipata la deadline della Call for Paper e della Call for Workshop"
 date:   2019-01-16 00:00:00
 isStaticPost: false
 permalink: /it/blog/cfp_postponed
-image: orologi.jpg
+image: giratempo.jpg
 lang: it
 ref: CFP
 redirect-from:

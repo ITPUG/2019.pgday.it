@@ -5,7 +5,7 @@ date:   2019-01-16 00:00:00
 isStaticPost: false
 permalink: /en/blog/cfp_postponed
 lang: en
-image: open.jpg
+image: giratempo.jpg
 ref: cfp_postponed
 ---
 
