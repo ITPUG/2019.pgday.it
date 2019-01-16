@@ -6,7 +6,7 @@ isStaticPost: false
 permalink: /it/blog/cfp_postponed
 image: giratempo.jpg
 lang: it
-ref: CFP
+ref: cfp_postponed
 redirect-from:
  - /blog/cfp_postponed
 ---
