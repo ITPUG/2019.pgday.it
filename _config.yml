@@ -241,7 +241,7 @@ ticketsOffers:
     it: ["Early ticket - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
     en: ["Early ticket - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
   validFrom: "2018-09-14T10:00"
-  validThrough: "2019-01-31T23:59"
+  validThrough: "2019-02-17T23:59"
   disabled: false
  -
   name:
@@ -256,7 +256,7 @@ ticketsOffers:
   ticketContentList:
     it: ["Ordinario - PGDay.IT 2019", "17 maggio 2019", "Bologna"]
     en: ["Ordinary - PGDay.IT 2019", "May 17th, 2019", "Bologna"]
-  validFrom: "2019-02-01T00:00"
+  validFrom: "2019-02-18T00:00"
   validThrough: "2019-04-145T23:59"
   disabled: true
  -
