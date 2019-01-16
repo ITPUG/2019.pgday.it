@@ -9,7 +9,7 @@ image: cfw.jpg
 ref: cfw
 ---
 
-###### Deadline: January 15th, 2019
+###### [New deadline](http://2019.pgday.it/en/blog/cfp_postponed): February 3rd, 2019
 
 We encourage and invite anyone that is interested in organizing a Workshop to submit a proposal.
 

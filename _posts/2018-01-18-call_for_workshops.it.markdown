@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfw
 ---
 
-###### Deadline: 15 gennaio 2019.
+###### [Nuova deadline](http://2019.pgday.it/it/blog/cfp_postponed): 3 Febbraio 2019
 
 Incoraggiamo e invitiamo chiunque fosse interessato a presentare una proposta per l'organizzazione di un workshop.
 

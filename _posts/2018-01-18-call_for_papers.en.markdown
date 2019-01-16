@@ -9,7 +9,7 @@ image: open.jpg
 ref: cfp
 ---
 
-###### Deadline: January 15th, 2019
+###### [New deadline](http://2019.pgday.it/en/blog/cfp_postponed): February 3rd, 2019
 
 [PGDay.IT 2019](https://2019.pgday.it/en/) will be held in [Bologna](https://2019.pgday.it/en/logistics/) on May 17th. If you want to be part of this event as a speaker, please, knock and the door will be opened to you!
 

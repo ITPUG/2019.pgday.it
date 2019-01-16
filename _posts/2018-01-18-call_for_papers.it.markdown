@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfp
 ---
 
-###### Deadline: 15 gennaio 2019.
+###### [Nuova deadline](http://2019.pgday.it/it/blog/cfp_postponed): F3 Febbraio 2019
 
 [PGDay.IT 2019](https://2019.pgday.it/it/) si terrà a  [Bologna](https://2019.pgday.it/it/logistics/) il 17 maggio 2019. Se vuoi essere parte di questa fantastica manifestazione come speaker… bussa e ti sarà aperto.
 
