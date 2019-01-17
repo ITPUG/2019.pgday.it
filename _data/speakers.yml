@@ -1,417 +1,330 @@
 -
   id: 0
-  name: "Gülçin"
-  surname: "Yıldırım Jelínek"
-  company: "2ndQuadrant"
+  name: "_"
+  surname: "_"
+  company: "_"
   title: "Keynote"
   bio:
-    it: "Gülçin ha iniziato a lavorare con Postgres nel 2012, in una startup e con sua grande meraviglia constatò quanto Postgres fosse veramente potente!
-Dopo essere stata coinvolta nell'organizzazione di conferenze PostgreSQL, aver tenuto conferenze e diventata un membro attivo della comunità, è stata eletta nel Board di PostgreSQL Europe nel 2017. Gulcin è interessato a PostgreSQL Automation e Cloud Technologies.
-Attualmente lavora in 2ndQuadrant come responsabile dei servizi cloud e qui dirige lo sviluppo del cloud. Gülçin ha risollevato il gruppo Meetup PostgreSQL di Praga. Il gruppo si incontra una volta al mese e lei, principale organizzatore, fa in modo che vengano presentati almeno due talk ad ogni incontro.
-Fa anche parte di Postgres Women, preoccupandosi della diversità e della rappresentazione delle donne nelle comunità tecniche."
-    en: "Gülçin started working with Postgres at a startup company in 2012 and was amazed how good Postgres really is!
-    After being involved in organizing PostgreSQL conferences, giving talks and being an active community member she has
-    been elected to PostgreSQL Europe Board in 2017.  Gulcin is interested in PostgreSQL Automation and Cloud Technologies.
-    She currently works as Cloud Services Manager and leads the Cloud Development in 2ndQuadrant. Gülçin resurrected the Prague
-    PostgreSQL Meetup group and has been organizing a meetup with two talks each month as the main organizer. She is also part
-    of Postgres Women and cares about diversity and representation of women in technical communities."
-  thumbnailUrl: gulcin_pgday.png
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gulcinyildirim/"}
-    - {name: "twitter", link: "https://twitter.com/apatheticmagpie?lang=it"}
-    - {name: "github", link: "https://github.com/gulcin"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 1
-  name: "Gianni"
-  surname: "Ciolli"
-  company: "2ndQuadrant"
-  title: "Head of Professional Services"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Gianni Ciolli è responsabile dei servizi professionali in 2ndQuadrant ed è un consulente, trainer e relatore
-    PostgreSQL in varie conferenze IT in tutto il mondo, tra cui le European PostgreSQL conferences ed il PGDay Italia e UK.
-    Ha iniziato a lavorare in ambito Free e Open Source Software 20 anni fa ed è un membro attivo in varie comunità (Prato Linux User Group, Italian PostgreSQL Users Group).
-    In precedenza ha lavorato come ricercatore e docente presso il Dipartimento di Matematica dell'Università di Firenze.
-    È uno degli autori delle ultime due edizioni di PostgreSQL Administration Cookbook, di Packt Publishing (Birmingham, 2015-16)."
-    en: "Gianni Ciolli is Head of Professional Services at 2ndQuadrant, and is a PostgreSQL consultant, trainer, and speaker at various IT conferences
-  worldwide, including the European PostgreSQL conferences and PGDay Italy and UK.
-He started working with Free and Open Source Software 20 years ago, and has been active in the community (Prato Linux User Group, Italian PostgreSQL
-Users Group).
-Previously he worked as a researcher and teacher at the Department of
-Mathematics of the University of Florence. He is an author of the last two editions of the PostgreSQL Administration Cookbook, from Packt Publishing
-(Birmingham, 2015-16)."
-  thumbnailUrl: gianni_ciolli.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/GianniCiolli"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 2
-  name: "Mladen"
-  surname: "Marinović"
-  company: "Praćenje vozila d.o.o. aka Smartivo"
-  title: "CTO"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Mladen ricopre la carica di CTO in Smartivo per le soluzioni di gestione delle flotte.
-    Ha diversi anni di esperienza nella gestione di PostgreSQL per diversi clienti, progetti privati e di consulenza.
-    Part-time è anche un dba PostgreSQL, e sviluppa in Python e Go per divertimento e / o profitto."
-    en: "Working as the CTO of Smartivo on fleet management solutions. I have several years of experience running PostgreSQL in production
-  for various clients, private and consultancy projects. I am also a part time PostgreSQL admin, and I do some Python and Go development
-  for fun and/or profit."
-  thumbnailUrl: mladen_marinovic.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/mladenmarinovic"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 3
-  name: "Gabriele"
-  surname: "Bartolini"
-  company: "2ndQuadrant"
-  title: "Head of Global Support at 2ndQuadrant"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Programmatore ed imprenditore da lungo tempo in ambito open source, Gabriele ha conseguito una laurea in Statistica presso l'Università di Firenze. Gabriele è a capo del Supporto Globale di 2ndQuadrant e Amministratore Delegato della sede italiana, nonché membro attivo sia della comunità internazionale di PostgreSQL che di quella locale all'interno dell'ITPUG. Il suo impegno è quello di contribuire costantemente alla crescita di 2ndQuadrant e dei suoi membri attraverso la cultura lean e devops. Gabriele vive a Prato, una piccola ma vivace città situata nella parte settentrionale della Toscana. La sua seconda casa è Melbourne, Australia, dove ha studiato presso la Monash University oltre ad aver lavorato nel settore ICT. I suoi hobby comprendono calcio (football o soccer, a seconda di quale parte del mondo si proviene) e suonare la sua chitarra elettrica Fender Stratocaster. Ma la sua grande passione è chiamata: Elisabeth - la sua dolce figlia di 1 anno e mezzo!"
-    en: "A long time open-source programmer and entrepreneur, Gabriele has a degree in Statistics from the University of Florence.
-    Gabriele is the Head of Global Support at 2ndQuadrant and managing director of the Italian office as well as an active member of the
-    international PostgreSQL community and local ITPUG. His commitment is to consistently contribute to the growth of 2ndQuadrant and it’s
-    members through nurturing a lean and devops culture.
-    Gabriele lives in Prato, a small but vibrant city located in the northern part of Tuscany, Italy. His second home is Melbourne, Australia,
-    where he studied at Monash University and worked in the ICT sector.
-    His hobbies include “calcio” (football or soccer, depending on which part of the world you come from) and playing his Fender Stratocaster
-    electric guitar. But his major passion is called: Elisabeth - his sweet 1-year old daughter!"
-  thumbnailUrl: gabriele_bartolini.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 4
-  name: "Denis"
-  surname: "Gasparin"
-  company: "Smart Solutions"
-  title: "Owner"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Ingegnere Informatico dal 2001 con vasta esperienza su PostgreSQL sia lato sistemistico che di programmazione e lo sviluppo web
-  (PHP e Javascript in particolare).
-Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il
-progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical."
-    en: "Computer Engineer since 2001 with extensive experience in PostgreSQL both systemic and programming and web development
-    (PHP and Javascript in particular). The open source world has contributed over the years to developing parts of the PHP / PDO driver
-    for PostgreSQL and started the PgRepUp project for PostgreSQL replication and upgrade using PgLogical."
-  thumbnailUrl: denis_gasparin.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/rtshome"}
-    - {name: "github", link: "https://github.com/rtshome"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 5
-  name: "Simon"
-  surname: "Riggs"
-  company: "2ndQuadrant"
-  title: "Founder and CTO"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Simon Riggs è il fondatore e Chief Technology Officer di 2ndQuadrant. Major developer e code  committer del progetto PostgreSQL.
-    Simon ha contribuito alle principali caratteristiche delle ultime 6 release di PostgreSQL. Il suo lavoro include Recovery, Replica e
-    Performance e Monitoraggio, nonché designer per molte altre funzionalità. Simon ha lavorato come Database Architect per 20 anni con
-    esperienze in soluzioni di fascia alta e con certificazioni Oracle, Teradata e DB2."
-    en: "Simon Riggs is the Founder and Chief Technology Officer of 2ndQuadrant. He is also a major developer and committer of the PostgreSQL project.
-  Simon has contributed major features in each of the last 6 versions of PostgreSQL.His work includes recovery and replication performance and
-  monitoring as well as designs for many other features. Simon has worked as a Database Architect for 20 years with high-end solutions experience
-  and certifications on Oracle Teradata and DB2."
-  thumbnailUrl: simon_riggs.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "github", link: ""}
-    - {name: "linkedin", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 7
-  name: "Marco"
-  surname: "Nenciarini"
-  company: "Presidente ITPUG"
-  title: "PostgreSQL Consultant"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    en: ""
-    it: ""
-  thumbnailUrl: marco-nenciarini.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
-    - {name: "twitter", link: "https://twitter.com/mnencia"}
-    - {name: "github", link: "https://github.com/mnencia"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 8
-  name: "Slavcho"
-  surname: "Trnkovski"
-  company: "Netcetera"
-  title: ""
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Slavcho Trnkovski has been working with database technologies for 10 years. He has been working with Oracle since the beginning of his career and in last 3 years he has been using PostgreSQL as well. As a DBA he is responsible for administering PostgreSQL in the company. This includes installation and configuration of PostgreSQL database, establishing backup and restore procedures, preparing High Availability solutions, etc..."
-    en: "Slavcho Trnkovski has been working with database technologies for 10 years. He has been working with Oracle since the beginning of his career and in last 3 years he has been using PostgreSQL as well. As a DBA he is responsible for administering PostgreSQL in the company. This includes installation and configuration of PostgreSQL database, establishing backup and restore procedures, preparing High Availability solutions, etc..."
-  thumbnailUrl: SlavchoTrnkovski.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/slavcho-trnkovski-7153051b/"}
-#    - {name: "twitter", link: ""}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 9
-  name: "Umberto"
-  surname: "Nicoletti"
-  company: "Proemion GMBH"
-  title: ""
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "I am a reliable, empathic Senior engineer. I will make sure stuff gets done and will actively conjure to creating a pleasant work experience for everybody.
-
-  Will help you ship your code, quickly, reliably, often.
-
-  RHCSA, AWS CSA certified."
-    en: "I am a reliable, empathic Senior engineer. I will make sure stuff gets done and will actively conjure to creating a pleasant work experience for everybody.
-
-  Will help you ship your code, quickly, reliably, often.
-
-  RHCSA, AWS CSA certified."
-  thumbnailUrl: UmbertoNicoletti.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-#    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: "https://twitter.com/AFactotum"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 11
-  name: "Ivan"
-  surname: "Novick"
-  company: "Pivotal"
-  title: "Greenplum product manager"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "I joined Greenplum in November 2009 as a 100 person startup. The company was acquired by EMC in July 2010 and became an independent division of EMC Corporation. In 2013 Pivotal was and Greenplum Database became a product made and supported by Pivotal.
-
-From 2014 to now, leading the Greenplum Database product as the primary product manager. Working closely with our customers and R&D team guide the overall product direction and market strategy. Continuing effort to improve the product, continual agile releases, increase market share and make our customers successful. Driving GPDB to become the mainstream and #1 choice in the data warehouse market.
-
-From 2013 to 2014 was a Senior Engineering Manager of one of the core R&D teams building and developing the Greenplum Database (GPDB). Team projects include cluster management software, backup and restore, extensibility, programming interfaces, and connectivity with partner products. Utilize agile practices to ensure high quality and rapid development of new functionality and features. Also involved in product strategy, customer consulting, triaging incoming defect reports and feature requests, and optimizing software development processes.
-
-From 2009 to 2013, was lead software engineer that developed from scratch several components of the system management stack of the Data Computing Appliance. The software written was used by hundreds of large scale enterprise customers in production with minimal bugs being reported in the field. Filed 2 US Patents related to the Data Computing Appliance software stack. Prior to beginning work on the Data Computing Appliance, was primary developer of the Greenplum Command Center, implemented gpconfig tool, and led the performance analysis team for GPDB."
-    en: "I joined Greenplum in November 2009 as a 100 person startup. The company was acquired by EMC in July 2010 and became an independent division of EMC Corporation. In 2013 Pivotal was and Greenplum Database became a product made and supported by Pivotal.
-
-From 2014 to now, leading the Greenplum Database product as the primary product manager. Working closely with our customers and R&D team guide the overall product direction and market strategy. Continuing effort to improve the product, continual agile releases, increase market share and make our customers successful. Driving GPDB to become the mainstream and #1 choice in the data warehouse market.
-
-From 2013 to 2014 was a Senior Engineering Manager of one of the core R&D teams building and developing the Greenplum Database (GPDB). Team projects include cluster management software, backup and restore, extensibility, programming interfaces, and connectivity with partner products. Utilize agile practices to ensure high quality and rapid development of new functionality and features. Also involved in product strategy, customer consulting, triaging incoming defect reports and feature requests, and optimizing software development processes.
-
-From 2009 to 2013, was lead software engineer that developed from scratch several components of the system management stack of the Data Computing Appliance. The software written was used by hundreds of large scale enterprise customers in production with minimal bugs being reported in the field. Filed 2 US Patents related to the Data Computing Appliance software stack. Prior to beginning work on the Data Computing Appliance, was primary developer of the Greenplum Command Center, implemented gpconfig tool, and led the performance analysis team for GPDB."
-  thumbnailUrl: Ivannovick.jpeg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: ""}
-#    - {name: "twitter", link: ""}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 12
-  name: "Artur"
-  surname: "Caliendo Prado"
-  company: "Youse"
-  title: "IT Specialist II"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Artur is a developer, a speaker and a writer. He has 8 years of experience with Ruby on Rails and 5 with C#. He worked in the largest magazine publisher in Brazil, building high-performance websites like Exame.com, with 90 million page views per month and 6 million unique visitors. In 2004 he won the 3rd place in the Brazilian stage of Microsoft Imagine Cup.
-
-He is currently working at Youse, a startup that aims to change the insurance market with a strong focus on innovation and technology."
-    en: "Artur is a developer, a speaker and a writer. He has 8 years of experience with Ruby on Rails and 5 with C#. He worked in the largest magazine publisher in Brazil, building high-performance websites like Exame.com, with 90 million page views per month and 6 million unique visitors. In 2004 he won the 3rd place in the Brazilian stage of Microsoft Imagine Cup.
-
-He is currently working at Youse, a startup that aims to change the insurance market with a strong focus on innovation and technology."
-  thumbnailUrl: getpubthumb.jpeg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/artur-caliendo-prado-3a99ab102/"}
-    - {name: "twitter", link: "https://twitter.com/artur_caliendo"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 13
-  name: ""
-  surname: "Olaniyi"
-  company: "Billpay GmbH Team"
-  title: "Lead IT Operations (Databases)"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Olakunle Olaniyi is a Database Administrator with great interests in database technologies (old and new). He's go experience in different database systems but die hard junky of PostgreSQL. Besides databases, he also passes some of his time developing in python."
-    en: "Olakunle Olaniyi is a Database Administrator with great interests in database technologies (old and new). He's go experience in different database systems but die hard junky of PostgreSQL. Besides databases, he also passes some of his time developing in python."
-  thumbnailUrl: Olaniyi.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-#    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: "https://twitter.com/mikkywright"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 15
-  name: "Alexander"
-  surname: "Kukushkin"
-  company: "Zalando SE"
-  title: "Database Engineer at Zalando SE"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "His everyday duty at Zalando is creation and maintenance of hundreds PostgreSQL clusters in sizes from several megabytes up to several terabytes of data. Occasionally he is contributing to different open source projects. He is the major contributors to the Patroni project."
-    en: "His everyday duty at Zalando is creation and maintenance of hundreds PostgreSQL clusters in sizes from several megabytes up to several terabytes of data. Occasionally he is contributing to different open source projects. He is the major contributors to the Patroni project."
-  thumbnailUrl: Alexander.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-#    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: "https://twitter.com/cyberdemn"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 16
-  name: "Pietro"
-  surname: "Partescano"
-  company: "Subito"
-  title: "Data Architect"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: ""
-    en: ""
-  thumbnailUrl: pietro.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/pietropartescano/"}
-#    - {name: "twitter", link: ""}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 17
-  name: "Riccardo"
-  surname: "Magliocchetti"
-  company: ""
-  title: "Software developer"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Riccardo is a pythonista, a free software developer and a moviegoer."
-    en: "Riccardo is a pythonista, a free software developer and a moviegoer."
-  thumbnailUrl: Magliocchetti.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-#    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: "https://twitter.com/rmistaken"}
-#    - {name: "google-plus", link: ""}
-    - {name: "github", link: "https://github.com/xrmx"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 18
-  name: "Oleksii"
-  surname: "Kliukin"
-  company: "Zalando SE"
-  title: "Database Engineer"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Oleksii is a Database Engineer at Zalando, managing a vast amount of data Zalando stores in PostgreSQL databases and building tools to make this process easier. He is an occasional PostgreSQL contributor, and co-organiser of the Berlin PostgerSQL meetup group."
-    en: "Oleksii is a Database Engineer at Zalando, managing a vast amount of data Zalando stores in PostgreSQL databases and building tools to make this process easier. He is an occasional PostgreSQL contributor, and co-organiser of the Berlin PostgerSQL meetup group."
-  thumbnailUrl: Oleksii.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-#    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: "https://twitter.com/hintbits"}
-#    - {name: "google-plus", link: ""}
-#    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 30
-  name: "Marco"
-  surname: "Nenciarini"
-  company: "Presidente ITPUG"
-  title: "PostgreSQL Consultant"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    en: ""
-    it: ""
-  thumbnailUrl: marco-nenciarini.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
-    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
-    - {name: "twitter", link: "https://twitter.com/mnencia"}
-    - {name: "github", link: "https://github.com/mnencia"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 31
-  name: "Leonardo"
-  surname: "Cecchi"
-  company: "2ndQuadrant"
-  title: "PostgreSQL Consultant"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "In poche parole posso dire che io e l'informatica siamo cresciuti insieme. La programmazione è sempre stata la mia fissazione.
-  Una passione che iniziò all'età di 6 anni stando a fianco di mio padre, programmatore, che mi ha insegnato i rudimenti della programmazione in C.
-  In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove
-  tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché
-  mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
-    en: "In few words I can say that I and computer science have grown together. Programming has always been my passion.
-    A passion that began when I was 6, standing next to my father, programmer, who taught me the rudiments of programming in C.
-    At the elementary school I could write on the keyboard but not on paper! I've always been curious and I'm not enough satisfied to
-    learn new technologies and new programming environments. Among them: Python, Java, Go, C, Haskell. Today I am part of the 2ndQuadrant
-    Italia team because it gives me the opportunity to work on PostgreSQL, the DBMS that addresses innovative problems with a 'classic' language."
-  thumbnailUrl: leonardo_cecchi.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/leonardo_cecchi/"}
-    - {name: "github", link: "https://github.com/leonardoce/"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 32
-  name: "Jonathan"
-  surname: "Battiato"
-  company: "2ndQuadrant"
-  title: ""
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Linux User dal 2007, quando ha scoperto il Prato Linux User Group.
-Si scopre SysAdmin per passione e nel 2016 entra in 2ndQuadrant.
-Consegue il diploma di Linux System Administrator di RHEL nell'agosto 2016."
-    en: "Linux User since 2007, when he discovered the Prato Linux User Group. SysAdmin discovers
-    passion and in 2016 enters 2ndQuadrant.
-    He obtained a degree in Linux System Administrator from RHEL in August 2016."
-  thumbnailUrl: jonathan_battiato.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/Jonny_Lee_84"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/jonathanbattiato/"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 33
-  name: "Rubens"
-  surname: "Souza"
-  company: "2ndQuadrant"
-  title: "PostgreSQL Consultant"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Grande appassionato di computer e grande fan del movimento open source, Rubens è stato coinvolto da GNU / Linux quando fu in grado di accaparrarsi una copia di Slackware 4.0 - cari 'vecchi tempi'! Da allora ha imparato lavorando e divertendosi la gestione dei database, l'amministrazione di sistema, server, reti e benchmark. Rubens lavora come consulente PostgreSQL in 2ndQuadrant, dove svolge diverse attività legate al nostro amato DBMS."
-    en: "Truly passionate about computers and the open source movement, Rubens has being involved with GNU/Linux since he could grab a copy of Slackware 4.0 on 'the good old days', and have been learning, working and having fun with databases, system administration, servers, networks, and benchmarks ever since. Rubens works as a PostgreSQL Consultant at 2ndQuadrant, where he performs various tasks related to our beloved database."
-  thumbnailUrl: rubens_souza.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "twitter", link: "https://twitter.com/rubens_ts"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 34
-  name: "Daniele"
-  surname: "Simoncini"
-  company: "Centro di GeoTecnologie, Siena University"
-  title: "IT Manager"
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: "Negli ultimi quindici anni ha portato a compimento progetti di web cartography con rilevanza nazionale ed internazionale sia per enti pubblici che privati.
-Esperto in ambito di nuovi media, Big Data e IoT, è attualmente IT Manager presso il Centro di GeoTecnologie dell'Università degli Studi di Siena sviluppando e progettando nuove tecnologie per la diffusione ed il censimento di dati territoriali direttamente su campo.
-Oltre all'attività di ricerca e sviluppo svolge attività di docenza presso il Master Universitario in Geomatica del Centro di GeoTecnologie."
-    en: ""
-  thumbnailUrl: daniele_simoncini.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 35
-  name: "Luca"
-  surname: "Porro"
-  company: " "
-  title: ""
+  name: "_"
+  surname: "_"
+  company: "_"
+  title: "_"
   bio:
-    it: ""
-    en: ""
-  thumbnailUrl: luca_porro.jpg
+    it: "_"
+    en: "_"
+  thumbnailUrl: anonimo.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: ""}
-    - {name: "twitter", link: ""}
-    - {name: "google-plus", link: ""}
-    - {name: "github", link: ""}
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
