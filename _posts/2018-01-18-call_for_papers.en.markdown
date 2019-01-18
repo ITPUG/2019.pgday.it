@@ -80,13 +80,13 @@ Our team has also identified a series of interesting topics, but if you have a s
 * Open Source business model
 * Researching and teaching with PostgreSQL
 
-###### Please submit your proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
+###### Please submit your proposal by the [appropriate form](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
 
-__Deadline:__ January 15th, 2019
+__Deadline:__ January 15th, 2019 - **New deadline: February 3rd, 2019**
 
 __Important:__ There is no guarantee that your proposal will be included in the event schedule.
 
-The Technical Committee will select the most interesting proposals received and will inform the candidates no later than January 25th, 2019.
+The Technical Committee will select the most interesting proposals received and will inform the candidates no later than January 25th, 2019 - **New deadline: February 12th, 2019**
 
 __Questions?__
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)

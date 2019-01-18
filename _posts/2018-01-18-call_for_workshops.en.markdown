@@ -43,13 +43,13 @@ These are some of the topics that we have thought, but you can send your proposa
 
 For general topics you can even consider the list of talk proposals we have listed in the [Call for Papers]](https://2019.pgday.it/en/blog/cfp)
 
-###### Please submit your workshop proposal [here](https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform).
+###### Please submit your proposal by the [appropriate form](https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform).
 
-__Deadline:__ January 15th, 2019
+__Deadline:__ January 15th, 2019 - **New deadline: February 3rd, 2019**
 
 __Important:__ There is no guarantee that your proposal will be included in the workshops schedule.
 
-The Technical Committee will select the most interesting proposals received and will inform the candidates no later than January 25th, 2019.
+The Technical Committee will select the most interesting proposals received and will inform the candidates no later than January 25th, 2019 - **New deadline: February 12th, 2019**
 
 __Questions?__
 Please send an email with your questions or comments to [pgday@itpug.org](mailto:pgday@itpug.org)

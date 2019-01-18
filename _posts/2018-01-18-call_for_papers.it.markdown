@@ -11,7 +11,7 @@ redirect-from:
  - /blog/cfp
 ---
 
-###### [Nuova deadline](http://2019.pgday.it/it/blog/cfp_postponed): F3 Febbraio 2019
+###### [Nuova deadline](http://2019.pgday.it/it/blog/cfp_postponed): 3 Febbraio 2019
 
 [PGDay.IT 2019](https://2019.pgday.it/it/) si terrà a  [Bologna](https://2019.pgday.it/it/logistics/) il 17 maggio 2019. Se vuoi essere parte di questa fantastica manifestazione come speaker… bussa e ti sarà aperto.
 
@@ -83,13 +83,13 @@ Il nostro team ha anche selezionato una serie di topic interessanti, ma se hai u
 * Ricerca e insegnamento con PostgreSQL
 
 
-###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
+###### Per favore, inviaci la tua proposta attraverso [l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform).
 
-__Deadline__ il 15 gennaio 2019
+__Deadline__ il 15 gennaio 2019 - **Nuova deadline: 3 Febbraio 2019**
 
 __Importante:__ non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule della manifestazione.
 
-Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e non oltre il 25 gennaio 2019.
+Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e non oltre il 25 gennaio 2019 - **Nuova deadline: 12 Febbraio 2019**
 
 ##### Domande?
 

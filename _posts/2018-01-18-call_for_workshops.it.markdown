@@ -45,13 +45,13 @@ Questi sono i topic che abbiamo individuato, ma niente vieta che la tua proposta
 
 Puoi anche far riferimento ai topic che abbiamo segnalato nell’[apertura della Call for Paper](https://2019.pgday.it/it/blog/cfp)
 
-###### Per favore, inserisci la tua proposta [qui](https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform).
+###### Per favore, inviaci la tua proposta attraverso [l'apposito form](https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform).
 
-__Deadline__ il 15 gennaio 2019.
+__Deadline__ il 15 gennaio 2019 - **Nuova deadline: 3 Febbraio 2019**
 
 __Importante:__ non c'è alcuna garanzia che la tua proposta verrà inserita nello schedule dei workshop.
 
-Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e non oltre il 25 gennaio 2019.
+Il comitato tecnico selezionerà le proposte pervenute più interessanti e informerà i candidati selezionati entro e non oltre il 25 gennaio 2019 - **Nuova deadline: 12 Febbraio 2019**
 
 ##### Domande?
 
