@@ -285,9 +285,11 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: paolo_melchiorre.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paolomelchiorre/"}
+    - {name: "twitter", link: "https://twitter.com/pauloxnet"}
+    - {name: "facebook", link: "https://www.facebook.com/pauloxnet"}
+    - {name: "github", link: "https://github.com/pauloxnet"}
+    - {name: "stackoverflow", link: "https://stackoverflow.com/users/755343/paolo-melchiorre"}
 -
   id: 57
   name: "Ronan"
