@@ -57,14 +57,14 @@ c4sponsorsUrl: "/assets/PartnerIT_2019.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
-# - {permalink: "/schedule/", text: "Schedule"}
-# - {permalink: "/speakers/", text: "Speaker"}
+ - {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/speakers/", text: "Speaker"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Diventa Speaker", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSeYcLyrPIdiMMf5UsQMUV6riNwXVVqBR0-RMainTmO0MJLlKA/viewform", text: "Become Speaker", lang: "en"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organizza un workshop", lang: "it"}
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSf4E7nsjgYBjPUSMWNYLihNeXjZaGdkdAgM1ZRWi79S-06YFQ/viewform", text: "Organise a workshop", lang: "en"}
-# - {permalink: "/workshop/", text: "Workshop", lang: "it"}
-# - {permalink: "/workshop/", text: "Workshops", lang: "en"}
+ - {permalink: "/workshop/", text: "Workshop", lang: "it"}
+ - {permalink: "/workshop/", text: "Workshops", lang: "en"}
  - {link: "/assets/PartnerIT_2019.pdf", text: "Diventa Partner", lang: "it"}
  - {link: "/assets/PartnerEN_2019.pdf", text: "Become Partner", lang: "en"}
  - {permalink: "/logistics/", text: "Logistica", lang: "it"}
@@ -73,8 +73,8 @@ navigationLinks:
 # - {link: "https://docs.google.com/forms/d/e/1FAIpQLSfcysiZlJ2rT7LsV8kU0AG8DvxD1M2WAhAjjcR1E2rhNfHI3A/viewform", text: "PG_shuttle", lang: "en"}
  - {link: "https://2019pgdayit.eventbee.com", text: "Acquista il tuo biglietto", lang: "it"}
  - {link: "https://2019pgdayit.eventbee.com", text: "Buy your ticket", lang: "en"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
-# - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "it"}
+ - {permalink: "/pgbeer/", text: "PG_beer", lang: "en"}
 # - {permalink: "/staff/", text: "Staff", lang: "it"}
 # - {permalink: "/staff/", text: "Staff", lang: "en"}
  - {permalink: "/team/", text: "Team"}
@@ -165,7 +165,7 @@ eventAddressLocality: "Zola Predosa - Bologna"
 eventAddressLocalityRegion: "(BO)"
 eventPostalCode: "40069"
 eventAddressCountry: "Italy"
-eventStartTime: "2019-051717T9:00"
+eventStartTime: "2019-05-16T9:00"
 eventDoorTime: "08:15"
 eventEndTime: "2019-05-17T18:00"
 eventPlaceCoordinates: "44.4627324, 11.1992285"
@@ -446,11 +446,9 @@ pgbeerDescription:
     <h6>
     L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2019.<h6/><br/>
     <h6>
-    La formula è ALL YOU CAN EAT - ALL YOU CAN DRINK. No limits!<h6/><br/>
+    La serata prevede cibo e musica dal vivo!<h6/><br/>
     <h6>
-    La scelta che avrete a disposizione è davvero vasta.<h6/><br/>
-    <h6>
-    Per trascorrere la serata senza preoccupazioni, pg_shuttle sarà il nostro mezzo di trasporto.<h6/><br/>"
+    Dove ci troviamo? Ma a bordo piscina! <h6/><br/>"
     en: "
     <h6>
     The opportunity to break the ice, share experiences, before the PGDay.IT 2019.<h6/><br/>
@@ -463,90 +461,93 @@ pgbeerDescription:
 
 enablePgbeer: true
 
- Pgbeer About Block
-aboutPgbeerTitle:
-    it: "Rock Star Restaurant"
-    en: "Rock Star Restaurant"
-aboutPgbeerDescription:
-  it: "
-     <p>
-       Rock Star Restaurant è un ristorante american style.<br/>
-     <p>
-       Il Menù All You Can Eat & Drink ti da inoltre la possibilità di assaggiare molti tipi di pietanze dalle Costine marinate in salsa BBQ o i Club Sandwich fino a piatti vegetariani e vegani come insalate e addirittura l' Hamburger Veggie. I Dolci? Ovviamente il giusto finale.<br/>
-     <p>
-       Il tutto con Pepsi, Birra o Vino No Limits.<br/>
-     <p>
-       Musica rock in sottofondo e possibilità di scegliere i propri brani preferiti direttamente dal jukebox nella sala principale.<br/>"
-  en: "
-     <p>
-       Rock Star Restaurant is an American style restaurant.<br/>
-     <p>
-       The All You Can Eat & Drink menu give you the possibility to taste different kind of plates from the BBQ Ribs or a Club Sandwich to vegetarian and vegan dishes like salads and Hamburger Veggie. Desserts? The best ending.<br/>
-     <p>
-       Everything with Pepsi, Bear o Wine No Limits.<br/>
-     <p>
-       Rock music in the background and possibility to choose your favorite songs directly from the jukebox in the main room.<br/>"
+# Pgbeer About Block
+#aboutPgbeerTitle:
+#    it: "Rock Star Restaurant"
+#    en: "Rock Star Restaurant"
+#aboutPgbeerDescription:
+#  it: "
+#     <p>
+#       Rock Star Restaurant è un ristorante american style.<br/>
+#     <p>
+#       Il Menù All You Can Eat & Drink ti da inoltre la possibilità di assaggiare molti tipi di pietanze dalle Costine marinate in salsa BBQ o i Club Sandwich fino a piatti vegetariani e vegani come insalate e addirittura l' Hamburger Veggie. I Dolci? Ovviamente il giusto finale.<br/>
+#     <p>
+#       Il tutto con Pepsi, Birra o Vino No Limits.<br/>
+#     <p>
+#       Musica rock in sottofondo e possibilità di scegliere i propri brani preferiti direttamente dal jukebox nella sala principale.<br/>"
+#  en: "
+#     <p>
+#       Rock Star Restaurant is an American style restaurant.<br/>
+#     <p>
+#       The All You Can Eat & Drink menu give you the possibility to taste different kind of plates from the BBQ Ribs or a Club Sandwich to vegetarian and vegan dishes like salads and Hamburger Veggie. Desserts? The best ending.<br/>
+#     <p>
+#       Everything with Pepsi, Bear o Wine No Limits.<br/>
+#     <p>
+#       Rock music in the background and possibility to choose your favorite songs directly from the jukebox in the main room.<br/>"
 
 pgbeerDetailsCards:
- - {lang: "it", title: "Antipasti", information: 'Sandwich, nachos con salsa messicana o al formaggio, tacos di chili con carne e vegetali, olive ascolane, mozzarelline panate, anelli di cipolla, bocconcini dorati, misto verdure panate, pollo fritto, surimi impanati.'}
- - {lang: "en", title: "Appetizers", information: 'Sandwich, nachos with Mexican or cheese sauce, meat and vegetable chili tacos, Ascolan olives, breaded mozzarelline, onion rings, golden bites, mixed breaded vegetables, fried chicken, breaded surimi.'}
+ - {lang: "it", title: "Work in progress", information: 'La Pg_beer è in fase di organizzazione. Presto i dettagli online.'}
+ - {lang: "en", title: "Work in progress", information: 'The Pg_beer is being organized. Soon the details online.'}
 
- - {lang: "it", title: "Primi piatti CALDI:", information: 'Lasagne al forno, piatti a base di riso, pizza fantasia o margherita.'}
- - {lang: "en", title: "First HOT dishes:", information: 'Lasagna, rice dishes, fancy pizza or margherita.'}
+# - {lang: "it", title: "Antipasti", information: '_____'}
+# - {lang: "en", title: "Appetizers", information: '_____'}
 
- - {lang: "it", title: "Primi piatti FREDDI", information: 'Pasta e riso freddi'}
- - {lang: "en", title: "First COLD dishes", information: 'Cold pasta and rice.'}
+# - {lang: "it", title: "Primi piatti CALDI:", information: '_______'}
+# - {lang: "en", title: "First HOT dishes:", information: '_______'}
 
- - {lang: "it", title: "Secondi piatti", information: 'Hamburger fatti al momento su richiesta del cliente, Hamburger vegetale, tagliata di carne, hot dog, costine di maiale marinate, alette di pollo, kebab, fajitas. Gli hamburger vengono cotti al momento, su ordinazione: Hamburger classico da 150 gr. farcito a piacere, Hamburger da 200 gr. che si può avere normale o piccante con tabasco.'}
- - {lang: "en", title: "Second dishes", information: 'Burgers made at the time of customer request, vegetable burger, meat, hot dogs, marinated pork ribs, chicken wings, kebabs, fajitas. Hamburgers are cooked at the moment, to order: Classic hamburger of 150 gr. stuffed to taste, 200 gr. burger that you can have normal or spicy with Tabasco.'}
+# - {lang: "it", title: "Primi piatti FREDDI", information: '_____'}
+# - {lang: "en", title: "First COLD dishes", information: '_____'}
 
- - {lang: "it", title: "Contorni", information: 'Insalatone fantasia dello chef, insalata con vari ingredienti da farcire a piacimento, fritture miste (patatine di quattro tipi diversi, verdure cotte), fagioli alla messicana e pannocchie e baked potatoes.'}
- - {lang: "en", title: "Side dishes", information: 'Chef fantasy salad, salad with various ingredients to fill at will, mixed fried food (chips of four different types, cooked vegetables), Mexican beans and corncobs and baked potatoes.'}
+# - {lang: "it", title: "Secondi piatti", information: '________'}
+# - {lang: "en", title: "Second dishes", information: '________'}
 
- - {lang: "it", title: "Dessert", information: 'Pan cake con nutella o marmellata, torte varie, profiterols, tiramisù e gelato soft.'}
- - {lang: "en", title: "Dessert", information: 'Pancakes with nutella or jam, various cakes, profiteroles, tiramisu and soft ice cream.'}
+# - {lang: "it", title: "Contorni", information: '_____'}
+# - {lang: "en", title: "Side dishes", information: '_______'}
 
-# Pgbeer Tickets Block
-pgbeerTicketsTitle:
-    it: "Prezzo pg_beer"
-    en: "pg_beer price"
-pgbeerTicketsInfo:
-    it: "pg_beer: all you can eat, all you can drink"
-    en: "pg_beer: all you can eat, all you can drink"
-pgbeerTicketsOffers:
- -
-  name:
-    it: "pg_beer: all you can eat, all you can drink"
-    en: "pg_beer: all you can eat, all you can drink"
-  price: "24,00"
-  priceCurrency: "€"
-  buyButtonLink: "https://www.eventbee.com/v/pgday2019pg_beer#/tickets"
-  buyButtonText:
-    it: "Acquistalo adesso"
-    en: "Get it now"
-  pgbeerTicketContentList:
-    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
-    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
-  validFrom: "2019-02-15T10:00"
-  validThrough: "2019-05-14T23:59"
-  disabled: false
+# - {lang: "it", title: "Dessert", information: '________'}
+# - {lang: "en", title: "Dessert", information: '_______'}
+
+## Pgbeer Tickets Block
+#pgbeerTicketsTitle:
+#    it: "Prezzo pg_beer"
+#    en: "pg_beer price"
+#pgbeerTicketsInfo:
+#    it: "pg_beer: Food and Live Music"
+#    en: "pg_beer: Food and Live Music"
+#pgbeerTicketsOffers:
+# -
+#  name:
+#    it: "pg_beer: Food and Live Music"
+#    en: "pg_beer: Food and Live Music"
+#  price: "24,00"
+#  priceCurrency: "€"
+#  buyButtonLink: "https://itpug.eventbee.com/event?eid=151678914"
+#  buyButtonText:
+#    it: "Acquistalo adesso"
+#    en: "Get it now"
+#  pgbeerTicketContentList:
+#    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
+#    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
+#  validFrom: "2019-02-15T10:00"
+#  validThrough: "2019-05-14T23:59"
+#  disabled: false
 
 # Pgbeer Location Block
 pgbeerLocationBlockTitle: "Location"
-pgbeerLocationName: "Rock Star Restaurant"
-pgbeerLocationLink: "http://www.rockstarcafe.it/"
-pgbeerStreetAddress: "Via Fossalta 60"
-pgbeerAddressLocality: "Lazise"
-pgbeerddressLocalityRegion: "(VR)"
-pgbeerPostalCode: "37017"
+pgbeerLocationName: "Admiral Park Hotel"
+pgbeerLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+pgbeerStreetAddress: "Via Fontanella, 3"
+pgbeerAddressLocality: "Zola Predosa - Bologna"
+pgbeerddressLocalityRegion: "(BO)"
+pgbeerPostalCode: "40069"
 pgbeerAddressCountry: "Italy"
-pgbeerStartTime: "2018-06-28T19:45"
+pgbeerStartTime: "2019-05-16T19:45"
 pgbeerDoorTime: "19:30"
-pgbeerEndTime: "2018-06-28T23:59"
+pgbeerEndTime: "2019-05-16T23:59"
 viewOnMap: "View on Google Maps"
-pgbeerPlaceCoordinates: "45.4788856, 10.725833"
-pgbeerMapCenterCoordinates: "45.4788856, 10.725833"
-pgbeerMapMobileCenterCoordinates: "45.4788856, 10.725833"
+pgbeerPlaceCoordinates: "44.4627324, 11.1992285"
+pgbeerMapCenterCoordinates: "44.4627324, 11.1992285"
+pgbeerMapMobileCenterCoordinates: "44.4627324, 11.1992285"
 enablePgbeer: true
 
 # Workshop
@@ -563,7 +564,7 @@ aboutWorkshopDescription:
     it: "
       <p>
         I workshop si svolgeranno nella stessa sede dove si svolgerà il PGDay.IT 2019
-        (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise). L'iscrizione può
+        (Admiral Park Hotel - Via Fontanella, 3, Zola Predosa BO). L'iscrizione può
         essere effettuata attraverso Eventbrite. Al momento dell'iscrizione verrà richiesto
         di selezionare il workshop di interesse.<br/>
         I partecipanti dovranno essere automuniti di portatile.
@@ -575,7 +576,7 @@ aboutWorkshopDescription:
       </p>"
     en: "
       <p>
-      Workshop will take place in the same venue of PGDay.IT 2019 (Hotel Parchi del Garda, Via Brusà 16/17 - Pacengo di Lazise).
+      Workshop will take place in the same venue of PGDay.IT 2019 (Admiral Park Hotel - Via Fontanella, 3, Zola Predosa BO).
       You have to subscribe through Eventbrite. On the registration page, you have to select the topic of interest. The workshop fee does NOT include: coffee break, lunch, and access to PGDay.IT 2019. <br/>
       Attendees has to bring their own computer.
       The workshop fee does not include: lunch as well and PGDay.IT 2019 fee.
@@ -585,150 +586,96 @@ aboutWorkshopDescription:
       </p>"
 
 workshopsRows:
- - image: jonathan_workshp_verticale.jpg
+ - image: paolo_cavallini_verticale.jpg
    title:
-     it: "Disaster Recovery con PostgreSQL"
-     en: "Disaster Recovery with PostgreSQL"
+     it: "Geografia in PostgreSQL"
+     en: "Geografia in PostgreSQL"
    author:
-     name: "Jonathan Battiato"
+     name: "Paolo	Cavallini"
      speakerId: 32
    subtitle:
-     it: 28 giugno 2018 - ore 9,00
-     en: June 28th, 2018 - time 9am
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9am
    details:
      it: |
-       Un buon piano di disaster recovery è un elemento fondamentale per la continuità operativa dei nostri servizi.
-
-       Durante lo workshop verranno affrontati argomenti base di continuità operativa e come realizzarla con le funzionalità native di PostgreSQL, attraverso un piano di disaster recovery nel quale saranno protagonisti i backup e l'archiviazione continua dei WAL.
+       Spatial is special? Gestire i dati spaziali in PostgreSQL richiede alcune competenze non tipiche dei DBA. Nel workshop spiegheremo come importare, gestire e manipolare dati spaziali tramite l'estensione PostGIS, con esempi di applicazioni semplici ed avanzate, con particolare riferimento all'interfaccia con applicazioni GIS, sia desktop che web. Il workshop è rivolto a: DBA senza skills geografici, che intendano iniziare a gestire questo tipo di dato nel DB esperti GIS che desiderino dotarsi di un backend robusto per i loro dati.
      en: |
-       A good disaster recovery plan is a fundamental element for the operational continuity of our services. During the workshop, we will deal with basic business continuity topics and how to implement it with the native PostgreSQL functionalities, through a disaster recovery plan in which the backups and continuous archiving of WAL will be protagonists.
+       Spatial is special? Managing spatial data in PostgreSQL requires some skills not typical of DBAs. In the workshop we will explain how to import, manage and manipulate spatial data through the PostGIS extension, with examples of simple and advanced applications, with particular reference to the interface with GIS applications, both desktop and web. The workshop is aimed at: DBAs without geographical skills, who intend to start managing this type of data in the DB expert GIS who wish to have a robust backend for their data.
  - image: rubens_souza_verticale.jpg
    title:
-     it: "Gestire PostgreSQL con Ansible"
-     en: "Managing PostgreSQL with Ansible"
+     it: "Taking care of PostgreSQL with Ansible"
+     en: "Taking care of PostgreSQL with Ansible"
    author:
      name: "Rubens Souza"
-     speakerId: 33
+     speakerId: 65
    subtitle:
-     it: 28 giugno 2018 - ore 9,00
-     en: June 28th, 2018 - time 9am
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9m
    details:
      it: |
-       Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
-
-       In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
-
-       Per un'esperienza più pratica, i partecipanti al workshop devono avere l'applicazione Vagrant installata sui loro laptop, rendendo così possibile creare macchine virtuali in cui sarà possibile testare il playbook Ansible. Tuttavia, questo non è obbligatorio.
+       Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL possiamo gestire facilmente il database open source più avanzato , assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario. In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
      en: |
-       Ansible is a powerful automation tool written in Python. With its modules already built
-       for PostgreSQL, we can easily manage the most advanced open source database, making sure
-       its configuration is exact in every detail and repeatable as many times as it is needed.
-
-       In this workshop we will understand how Ansible works, see some of its main modules for
-       system/cloud administration, and learn how it can be used to orchestrate PostgreSQL
-       deployments, managing all parts of the process at ease. As an use-case example, we will
-       write a playbook to install a PostgreSQL master and a standby in streaming replication.
-
-       For a more hands-on experience, the workshop participants should have Vagrant installed on
-       their laptops, which will allow the creation of virtual machines to test the Ansible
-       playbooks.
- - image: leonardo_workshop_verticale.jpg
+       Ansible is a powerful automation tool written in Python. With its modules already created for PostgreSQL we can easily manage the most advanced open source database, ensuring that its configuration is accurate in every detail and repeatable as often as necessary. In this workshop we will understand how Ansible works, we will look at some of its main modules for systems / cloud administration and learn how it can be used to orchestrate PostgreSQL deployments, managing all parts of the process easily. As a use case, we will structure a playbook for the installation of a PostgreSQL master and a standby on replication streaming.
+ - image: paolo_tamara_verticale.jpg
    title:
-     it: "Go e PostgreSQL: in e out"
-     en: "Go and PostgreSQL: in & out"
+     it: "Django & PostgreSQL"
+     en: "Django & PostgreSQL"
    author:
-     name: "Leonardo Cecchi"
-     speakerId: 31
+     name: "Paolo Romolini e Tamara Nocentini"
+     speakerId: 23
    subtitle:
-     it: 28 giugno 2018 - ore 9,00
-     en: June 28th, 2018 - time 9am
+     it: 16 maggio 2019 - ore 9,00
+     en: May 16th, 2019 - time 9am
    details:
      it: |
-       In questo workshop parleremo di come usare il meglio di PostgreSQL e di Go insieme.
-       Useremo il pacchetto "database/sql" per connetterci al database ed il pacchetto "lib/pq" che implementa in Go il protocollo usato da PostgreSQL. Parleremo del connection pooler implementato nel pacchetto nativo di Go e lo vedremo all'opera.
-
-       Parleremo di "pressly/goose" per gestire le migrazioni di schema.
-       Useremo anche la libreria "jmoiron/sqlx" che ci permette di interrogare PostgreSQL in modo molto comodo e di perché, spesso, non serve un ORM.
-
-       Durante lo workshop realizzeremo un semplice backend che offre servizi web consultando un database PostgreSQL.
+       Partiremo dalle basi creando insieme una applicazione che ti consentirà di prendere appunti durante il PGDay.IT. Le tue note saranno al sicuro perché le salveremo su PostgreSQL e al fine della manifestazione potrai scaricarle per stamparle a casa.
      en: |
-       In this workshop we will talk about the best features of PostgreSQL and the best
-       features of Go. We will use the "database/sql" package to create a connnection to
-       PostgreSQL and the "lib/pq" package, which implements in Go the PostgreSQL binary
-       protocol.
-
-       We will talk about the native Go connection pooler, about "pressly/goose" to manage
-       migrations and about "jmoiron/sqlx" to use PostgreSQL more comfortably and why
-       usually we don't need an ORM.
-
-       At the end of the workshop we will have a simple web server exposing a REST API
-       based on PostgreSQL.
- - image: daniele_workshop_verticale.jpg
+       ______
+ - image: mladen_marinovic_verticale.jpg
    title:
-     it: "Web Cartography Made Easy"
-     en: "Web Cartography Made Easy"
-   author:
-     name: "Daniele Simoncini"
-     speakerId: 34
-   subtitle:
-     it: 28 giugno 2018 - ore 14,00
-     en: June 28th, 2018 - time 2pm
-   details:
-     it: |
-       Analizzando le reali possibilità del GIS Open Source, durante le quattro ore previste vedremo in modo pratico come realizzare un connettore web, basato su PHP e capace di generare flussi GEOJson, per la pubblicazione del dato cartografico e un viewer online per la consultazione e interrogazione dei dati territoriali.
-
-       In sede di workshop, con dati reali alla mano forniti dal docente, verranno trattate non solo le tecnologie e i linguaggi ma anche i protocolli e i formati di trasporto dell'informazione geografica.
-     en: |
-       Analyzing the real possibilities of the Open Source GIS, during the four hours envisaged we will see how to create a web connector, based on PHP and capable of generating GEOJson flows, for the publication of the cartographic data and an online viewer for consulting and querying spatial data. In the workshop, with real data to the hand provided by the teacher, will be treated not only the technologies and languages but also the protocols and formats of transport of geographic information.
- - image: mladen_workshop_verticale.jpg
-   title:
-     it: "Explaining your EXPLAIN, a beginners guide"
-     en: "Explaining your EXPLAIN, a beginners guide"
+     it: "Pending confermation: Explaining your EXPLAIN - a beginners guide"
+     en: "Pending confermation: Explaining your EXPLAIN - a beginners guide"
    author:
      name: "Mladen Marinović"
-     speakerId: 2
+     speakerId: 64
    subtitle:
-     it: 28 giugno 2018 - ore 14,00
-     en: June 28th, 2018 - time 2pm
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 2pm
    details:
      it: |
-       Quando inizi a eseguire le tue query, sembra che il database stia facendo un po 'di magia e restituisca i risultati molto velocemente. Dopo aver acquisito una certa sicurezza nello scrivere query più complesse, vedi che la magia a volte non funziona. Perché il database non riesce a fare il suo lavoro? Per visualizzare i motivi per cui le query vengono eseguite lentamente, è possibile utilizzare il comando EXPLAIN che elabora un piano di query dettagliato della query. Dopo averlo letto, dovresti capire esattamente cosa sta succedendo con la query e trovare facilmente un modo per risolverlo. In questo workshop, inizieremo con semplici query e join e ci avvicineremo alle sottosezioni, alle CTE e alle stored procedure. Per vedere tutto questo in azione useremo la rappresentazione testuale di EXPLAIN e l'aiuto di pgAdminIII / 4 e altri strumenti disponibili. Se il tempo lo consente, possiamo provare a risolvere alcune query problematiche che i partecipanti portano da casa 😎
+       Quando inizi a eseguire le tue query, sembra che il database stia facendo un po 'di magia e restituisca i tuoi risultati molto velocemente. Dopo aver acquisito una certa sicurezza nello scrivere query più complesse, vedi che la magia a volte non funziona. Perché il database non riesce a fare il suo lavoro? Per visualizzare i motivi per cui le query vengono eseguite lentamente, è possibile utilizzare il comando EXPLAIN che elabora un piano di query dettagliato della query. Dopo averlo letto, dovresti capire esattamente cosa sta succedendo con la query e trovare facilmente un modo per risolverlo. In questo workshop, inizieremo con semplici query e join e ci avvicineremo alle sottosezioni, alle CTE e alle stored procedure. Per vedere tutto questo in azione useremo la rappresentazione testuale di EXPLAIN e l'aiuto di pgAdminIII / 4 e altri strumenti disponibili. Proveremo anche a rimodellare i database esistenti per poter utilizzare i migliori tipi di indice, rendendo le query più veloci. Se il tempo lo consente, possiamo provare a risolvere alcune query problematiche che i partecipanti portano da casa 😎
      en: |
-       When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it.
-
-       In this workshop, we will start with simple queries and joins, and make our way up to subselects, CTE-s and stored procedures. To see all this in action we will use the textual representation of the EXPLAIN and the help of pgAdminIII/4 and other available tools.
-
-       If time allows it, we can try to fix some problematic queries attendees bring from home 😎
- - image: luca_porro_workshop_verticale.jpg
+       When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it. In this workshop, we will start with simple queries and joins, and make our way up to subselects, CTE-s and stored procedures. To see all this in action we will use the textual representation of the EXPLAIN and the help of pgAdminIII/4 and other available tools. We will also try to remodel existing databases to be able to use better index types, making queries faster. If time allows it, we can try to fix some problematic queries attendees bring from home 😎
+ - image: marco_nenciarini_verticale.jpg
    title:
-     it: "Gestione del Failover in ambiente PostgreSQL"
-     en: "Failover management in PostgreSQL environment"
+     it: "Kubernetes & PostgreSQL"
+     en: "Kubernetes & PostgreSQL"
    author:
-     name: "Luca Porro"
-     speakerId: 35
+     name: "Marco Nenciarini"
+     speakerId: 30
    subtitle:
-     it: 28 giugno 2018 - ore 14,00
-     en: June 28th, 2018 - time 2 pm
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 2pm
    details:
      it: |
-       Per una società un aspetto fondamentale da tenere sempre in considerazione è l’avere a disposizione database sempre online per poter effettuare le proprie analisi, verifiche, report e tutto ciò che concerne l’aspetto informazione su database. Nel nostro Workshop andremo a configurare la gestione del Failover in ambiente PostgreSQL. Vedremo cosa succede quando il server primario decade e come avviene la procedura di Failover sul server secondario. Infine vedremo anche le differenze con una soluzione Enterprise quale EnterpriseDB Failover Manager.
+       ______
      en: |
-       For a company, a fundamental aspect to always keep in mind is the availability of databases that are always online to carry out their analyzes, checks, reports and everything concerning the information aspect on the database. In our Workshop we will configure the Failover management in PostgreSQL environment. We'll see what happens when the primary server breaks and how the Failover procedure occurs on the secondary server. Infine vedremo anche le differenze con una soluzione Enterprise quale EnterpriseDB Failover Manager. Eventually, we’ll also see the differences with an Enterprise solution such as EnterpriseDB Failover Manager.
- - image: gianni_workshop_verticale.jpg
+       ______
+ - image: leonardo_cecchi_verticale.jpg
    title:
-     it: "PostgreSQL Persistence"
-     en: "PostgreSQL Persistence"
+     it: "Gli elefanti non hanno paura della ruggine"
+     en: "Elephants are not afraid of rust"
    author:
-     name: "Gianni Ciolli"
-     speakerId: 1
+     name: "Leonardo Cecchi"
+     speakerId: 58
    subtitle:
-     it: 28 giugno 2018 - ore 14,00
-     en: June 28th, 2018 - time 2 pm
+     it: 16 maggio 2019 - ore 14,00
+     en: May 16th, 2019 - time 14pm
    details:
      it: |
-       In questo workshop, dimostriamo diversi aspetti della persistenza dei dati in PostgreSQL, in termini di architettura, configurazione del database e comportamento dell'applicazione.
+       Rust è un di programmazione ad alta efficienza pensato per scrivere software di sistema. Dopo una introduzione alle caratteristiche più interessanti del linguaggio ed un confronto con i linguaggi più famosi, vedremo come utilizzare PostgreSQL nei programmi Rust. Dopo aver parlato del sistema di macro di Rust, lo useremo con Diesel: un ORM che ci permette di controllare la correttezza delle query durante la compilazione e quindi di trovare subito i problemi. Se rimane un po' di tempo costruiremo insieme una estensione di PostgreSQL usando Rust.
      en: |
-       In this workshop, we demonstrate several aspects of data persistence in PostgreSQL, in terms of architecture, database configuration and application behavior.
+       ______
 
 # Workshop About Block
 aboutWorkshopTitle:
@@ -745,65 +692,13 @@ aboutWorkshopDescription:
        coffee break, lunch, and access to PGDay.IT 2019. Participants has to bring their computer.
        IMPORTANT: WORKSHOPS WILL BE CONFIRMED AT THE ENTRY OF 3 MEMBERS. IN CASE ONE OR MORE WORKSHOPS WILL NOT BE CONFIRMED, WE WILL REFUND THE FEE RECEIVED."
 
-workshopDetailsCards:
- - lang: "it"
-   title: "Gestire PostgreSQL con Ansible"
-   information: |
-     Ansible è un potente strumento di automazione scritto in Python. Con i suoi moduli già creati per PostgreSQL, possiamo gestire facilmente il database open source più avanzato, assicurandoci che la sua configurazione sia esatta in ogni dettaglio e ripetibile tutte le volte che sia necessario.
-     In questo workshop capiremo come funziona Ansible, vedremo alcuni dei suoi principali moduli per l'amministrazione di sistemi/cloud e impareremo come può essere utilizzato per orchestrare le deployment di PostgreSQL, gestendo tutte le parti del processo facilmente. Come caso d'uso, struttureremo un playbook per l'installazione di un master PostgreSQL e uno standby su replica streaming.
-     Per un'esperienza più pratica, i partecipanti al workshop devono avere l'applicazione Vagrant installata sui loro laptop, rendendo così possibile creare macchine virtuali in cui sarà possibile testare il playbook Ansible. Tuttavia, questo non è obbligatorio. Con Rubens Souza
-
- - {lang: "en", title: "Gestire PostgreSQL con Ansible", information: 'con Rubens Souza'}
-
- - {lang: "it", title: "Installare e configurare Postgres con Ansible", information: 'con Denis Gasparin'}
- - {lang: "en", title: "Installare e configurare Postgres con Ansible", information: 'con Denis Gasparin'}
-
- - {lang: "it", title: "Go e PostgreSQL: in e out", information: 'con Leonardo Cecchi'}
- - {lang: "en", title: "Go e PostgreSQL: in e out", information: 'con Leonardo Cecchi'}
-
- - {lang: "it", title: "Explaining your EXPLAIN - a beginners guide", information: 'con Mladen Marinović'}
- - {lang: "en", title: "Explaining your EXPLAIN - a beginners guide", information: 'con Mladen Marinović'}
-
- - {lang: "it", title: "Disaster Recovery con PostgreSQL", information: 'con Jonathan Battiato'}
- - {lang: "en", title: "Disaster Recovery con PostgreSQL", information: 'con Jonathan Battiato'}
-
- - {lang: "it", title: "PostgreSQL Persistence", information: 'con Gianni Ciolli'}
- - {lang: "en", title: "PostgreSQL Persistence", information: 'con Gianni Ciolli'}
-
- - {lang: "it", title: "Web Cartography Made Easy", information: 'con Daniele Simoncini'}
- - {lang: "en", title: "Web Cartography Made Easy", information: 'con Daniele Simoncini'}
-#workshopDetailsWideCards:
-#  -
-#   lang: "it"
-#   title: "Come vengono gestiti i workshop? Quali sono le aziende che li erogano?"
-#   subCards:
-#    -
-#     title: "Il ricavato derivante dalle quote di iscrizione, al netto delle spese per affitto aula e catering, verrà suddivisa
-#     tra l'azienda erogante il corso e l'associazione ITPUG - ITalian PostgreSQl Users Group.<br/>
-#     <b>Le aziende interessate a proporre PostgreSQL workshop sono invitate a contattare gli organizzatori del PGDay.IT scrivendo a info@itpug.org o pgday@itpug.org</b><br/>
-#        IMPORTANTE: l'associazione ITPUG - ITalian PostgreSQL Users Group non è responsabile della qualità formativa erogata."
-#     links:
-#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
-#      - {link: "", text: ""}
-#  -
-#   lang: "en"
-#   title: "How are the workshops handled? What are the companies that deliver its?"
-#   subCards:
-#    -
-#     title: "The income coming from subscription, deducted the cost of classroom and catering, will be shared between companies providing the workshop and ITPUG - ITalian PostgreSQl Users Group.
-#     Companies interested in proposing PostgreSQL workshop are invited to contact the organizers of PGDay.IT - please send an email to info@itpug.org or pgday@itpug.org
-#     <b> IMPORTANT </ b>: ITPUG - ITalian PostgreSQL Users Group is not responsible for the quality of workshop provided."
-#     links:
-#      - {link: "https://www.2ndquadrant.com/it/formazione-postgresql/", text: "2ndQuadrant"}
-#      - {link: "", text: ""}
-
 # Workshop Tickets Block
 workshopTicketsTitle:
     it: "Quota iscrizione workshop"
     en: "workshop registration fee"
 workshopTicketsInfo:
-    it: "Quota iscrizione workshop - PGDay.IT 2019 - 28 giugno 2018"
-    en: "workshop registration fee - PGDay.IT 2019 - June 28th, 2018"
+    it: "Quota iscrizione workshop - PGDay.IT 2019 - 16 maggio 2019"
+    en: "workshop registration fee - PGDay.IT 2019 - May 16th, 2019"
 workshopTicketsOffers:
  -
   name:
@@ -811,29 +706,29 @@ workshopTicketsOffers:
     en: "Workshop - Ordinary ticket"
   price: "35,00"
   priceCurrency: "€"
-  buyButtonLink: "https://www.eventbee.com/v/itpug2018workshop#/tickets"
+  buyButtonLink: "https://pgday2019_workshop.eventbee.com"
   buyButtonText:
     it: "Acquistalo adesso"
     en: "Get it now"
   workshopTicketContentList:
-    it: ["Workshop Day", "28 giugno", "Lazise"]
-    en: ["Workshop Day", "June 28th", "Lazise"]
-  validFrom: "2018-01-22T10:00"
-  validThrough: "2018-06-15T23:59"
+    it: ["Workshop Day", "16 maggio", "Bologna"]
+    en: ["Workshop Day", "May 16th", "Bologna"]
+  validFrom: "2019-02-18T10:00"
+  validThrough: "2019-05-05T23:59"
   disabled: false
 
 # Workshop Location Block
 workshopBlockTitle: "Location"
-workshopLocationName: "Hotel Parchi del Garda"
-workshopLocationLink: "https://www.hotelparchidelgarda.it/it/meetingevents/spazi-eventi/"
-workshopStreetAddress: "Via Brusà 16/17"
-workshopAddressLocality: "Pacengo di Lazise"
-workshopAddressLocalityRegion: "(VR)"
-workshopPostalCode: "37017"
+workshopLocationName: "Admiral Park Hotel"
+workshopLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+workshopStreetAddress: "Via Fontanella, 3"
+workshopAddressLocality: "Zola Predosa - Bologna"
+workshopAddressLocalityRegion: "(BO)"
+workshopPostalCode: "40069"
 workshopAddressCountry: "Italy"
-workshopStartTime: "2018-06-28T9:00"
-workshopDoorTime: "09:00"
-workshopEndTime: "2018-06-28T18:00"
-workshopPlaceCoordinates: "45.4627319, 10.7171789"
-workshopMapCenterCoordinates: "45.4627319, 10.7171789"
-workshopMapMobileCenterCoordinates: "45.4627319, 10.7171789"
+workshopStartTime: "2019-05-16T14:00"
+workshopDoorTime: "13:30"
+workshopEndTime: "2019-05-16T18:00"
+workshopPlaceCoordinates: "44.4627324, 11.1992285"
+workshopMapCenterCoordinates: "44.4627324, 11.1992285"
+workshopMapMobileCenterCoordinates: "44.4627324, 11.1992285"

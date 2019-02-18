@@ -28,7 +28,7 @@
     - {
       startTime: "10:00",
     	endTime: "10:45",
-      sessionIds: [095, 095]
+      sessionIds: [057, 059]
     }
     - {
     	startTime: "10:45",
@@ -38,12 +38,12 @@
     - {
       startTime: "11:05",
     	endTime: "11:50",
-      sessionIds: [095, 095]
+      sessionIds: [058, 998]
     }
     - {
       startTime: "11:50",
     	endTime: "12:35",
-      sessionIds: [095, 095]
+      sessionIds: [049, 999]
     }
     - {
       startTime: "12:35",
@@ -53,17 +53,17 @@
     - {
       startTime: "13:30",
     	endTime: "14:15",
-      sessionIds: [095, 095]
+      sessionIds: [095]
     }
     - {
     	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: [095, 095]
+    	sessionIds: [045, 051]
     }
     - {
       startTime: "15:00",
     	endTime: "15:45",
-      sessionIds: [095, 095]
+      sessionIds: [052, 053]
     }
     - {
     	startTime: "15:45",
@@ -73,18 +73,28 @@
     - {
       startTime: "16:05",
     	endTime: "16:50",
-      sessionIds: [095, 095]
+      sessionIds: [061, 040]
     }
     - {
       startTime: "16:50",
     	endTime: "17:35",
-      sessionIds: [095, 095]
+      sessionIds: [060, 048]
     }
     - {
       startTime: "17:35",
-    	endTime: "18:00",
-      sessionIds: [094]
+    	endTime: "18:20",
+      sessionIds: [046, 056]
     }
+    - {
+    	startTime: "18:20",
+    	endTime: "19:15",
+    	sessionIds: [325]
+    }
+#    - {
+#      startTime: "18:20",
+#    	endTime: "19:00",
+#      sessionIds: [094]
+#    }
 #    - {
 #        startTime: "17:40",
 #    	endTime: "17:45",
