@@ -273,21 +273,21 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
 #    - {name: "linkedin", link: "_"}
 #    - {name: "twitter", link: "https://twitter.com/giuxma"}
 #    - {name: "github", link: "_"}
-#-
-#  id: 55
-#  name: "Paolo"
-#  surname: "Melchiorre"
-#  company: "20tab"
-#  title: "Senior Software Engineer"
-#  bio:
-#    it: "_"
-#    en: "I’m Paolo Melchiorre, a software developer (mostly of Python), with extensive experience in web development, a Django contributor, a passionate PostgreSQL user, a public speaker, Free Software advocate and GNU/Linux user."
-#  thumbnailUrl: paolo_melchiorre.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
+-
+  id: 55
+  name: "Paolo"
+  surname: "Melchiorre"
+  company: "20tab"
+  title: "Senior Software Engineer"
+  bio:
+    it: "_"
+    en: "I’m Paolo Melchiorre, a software developer (mostly of Python), with extensive experience in web development, a Django contributor, a passionate PostgreSQL user, a public speaker, Free Software advocate and GNU/Linux user."
+  thumbnailUrl: paolo_melchiorre.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 57
   name: "Ronan"

@@ -369,17 +369,21 @@ Finally, SQL world has recognized the NoSQL and released the new SQL-2016 standa
   id: 055
   title:
     it: "MAPPE 🗺️ CON GEODJANGO 🌎, POSTGIS 🐘 E LEAFLET 🍃"
-    en: "MAPPE 🗺️ CON GEODJANGO 🌎, POSTGIS 🐘 E LEAFLET 🍃"
+    en: "Maps 🗺️ with GeoDjango 🌎, PostGIS 🐘 and Leaflet 🍃"
   description:
     it: "Una mappa permette agli utenti di visualizzare e ricercare i dati in maniera spaziale ed è comune l’esigenza di aggiungerne una al proprio progetto web.
 In questo talk vedremo come abbiamo integrato una mappa in un progetto web già in produzione usando GeoDjango, PostGIS e Leaflet ed eseguiremo una dimostrazione di integrazione da zero di una mappa in un progetto Django.
 GeoDjango è un modulo incluso in Django che lo trasforma in un framework Web geografico di classe mondiale.
 PostGIS è un estensione del database PostgreSQL che aggiunge il supporto per gli oggetti geografici consentendo di eseguire query spaziali.
 Leaflet è la principale libreria JavaScript open source per mappe web interattive ottimizzate per dispositivi mobili."
-    en: ""
+    en: "A map allows users to view and search for data in a spatial way and it is common to add one to their web project.
+In this talk we will see how we have integrated a map into a web project already in production using GeoDjango, PostGIS and Leaflet and we will perform a demonstration of integration of a map from scratch into a Django project.
+GeoDjango is a module included in Django that transforms it into a world-class geographic Web framework.
+PostGIS is an extension of the PostgreSQL database that adds support for geographic objects allowing you to perform spatial queries.
+Leaflet is the leading open source JavaScript library for interactive web maps optimized for mobile devices."
   subtype: Talk
   speakers: [55]
-  language: IT
+  language: EN
   complexity: "Intermediate"
 #  presentation: ""
 #  video: ""
