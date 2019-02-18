@@ -630,7 +630,7 @@ workshopsRows:
      it: |
        Partiremo dalle basi creando insieme una applicazione che ti consentirà di prendere appunti durante il PGDay.IT. Le tue note saranno al sicuro perché le salveremo su PostgreSQL e al fine della manifestazione potrai scaricarle per stamparle a casa.
      en: |
-       ______
+       We will start from the basics by creating an application together that will allow you to take notes during PGDay.IT. Your notes will be safe because we will save them on PostgreSQL and at the end of the event you can download them to print them at home.
  - image: mladen_marinovic_verticale.jpg
    title:
      it: "Explaining your EXPLAIN - a beginners guide"
@@ -675,7 +675,7 @@ workshopsRows:
      it: |
        Rust è un di programmazione ad alta efficienza pensato per scrivere software di sistema. Dopo una introduzione alle caratteristiche più interessanti del linguaggio ed un confronto con i linguaggi più famosi, vedremo come utilizzare PostgreSQL nei programmi Rust. Dopo aver parlato del sistema di macro di Rust, lo useremo con Diesel: un ORM che ci permette di controllare la correttezza delle query durante la compilazione e quindi di trovare subito i problemi. Se rimane un po' di tempo costruiremo insieme una estensione di PostgreSQL usando Rust.
      en: |
-       ______
+       Rust is a highly efficient programming system designed to write system software. After an introduction to the most interesting features of the language and a comparison with the most famous languages, we will see how to use PostgreSQL in the Rust programs. After talking about the Rust macro system, we will use it with Diesel: an ORM that allows us to check the correctness of the queries during compilation and then to immediately find the problems. If we stay a while, we will build a PostgreSQL extension together using Rust.
 
 # Workshop About Block
 aboutWorkshopTitle:
