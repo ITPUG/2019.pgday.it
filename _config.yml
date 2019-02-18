@@ -633,8 +633,8 @@ workshopsRows:
        ______
  - image: mladen_marinovic_verticale.jpg
    title:
-     it: "Pending confermation: Explaining your EXPLAIN - a beginners guide"
-     en: "Pending confermation: Explaining your EXPLAIN - a beginners guide"
+     it: "Explaining your EXPLAIN - a beginners guide"
+     en: "Explaining your EXPLAIN - a beginners guide"
    author:
      name: "Mladen Marinović"
      speakerId: 64
