@@ -196,21 +196,21 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
     - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
-#-
-#  id: 50
-#  name: "Lucio"
-#  surname: "Grenzi"
-#  company: "_"
-#  title: "_"
-#  bio:
-#    it: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
-#    en: "_"
-#  thumbnailUrl: lucio_grenzi.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://it.linkedin.com/in/lucio-grenzi-02a2bb27"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
+-
+  id: 50
+  name: "Lucio"
+  surname: "Grenzi"
+  company: "_"
+  title: "_"
+  bio:
+    it: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
+    en: "_"
+  thumbnailUrl: lucio_grenzi.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "https://it.linkedin.com/in/lucio-grenzi-02a2bb27"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
 -
   id: 51
   name: "Denis"
@@ -453,6 +453,21 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
     it: "Da quando mi sono laureata ho sempre utilizzato Java e C# per programmare applicazioni web oppure applicazioni desktop, ma poi ho scoperto Django e PostgreSQL... tutto è cambiato!"
     en: "_"
   thumbnailUrl: tamara_nocentini.jpg
+  rockstar: true
+  social:
+    - {name: "linkedin", link: "_"}
+    - {name: "twitter", link: "_"}
+    - {name: "github", link: "_"}
+-
+  id: 99
+  name: ""
+  surname: ""
+  company: ""
+  title: ""
+  bio:
+    it: ""
+    en: "_"
+  thumbnailUrl:
   rockstar: true
   social:
     - {name: "linkedin", link: "_"}

@@ -496,13 +496,13 @@ In questo talk parleremo di quali strumenti sono a disposizione per effettuare u
   id: 061
   title:
     it: "Un po' di pratica con Barman"
-    en: "Un po' di pratica con Barman"
+    en: "A little practice with Barman"
   description:
     it: "Barman ha recentemente aggiunto funzionalità interessanti per la gestione dei backup e della recovery di istanze PostgreSQL. Vediamo alcuni modi più comuni per configurare Barman con PostgreSQL e mettere in sicurezza i tuoi dati, fino a raggiungere perdita dati zero."
-    en: ""
+    en: "Barman has recently added interesting features for managing backups and recovery of PostgreSQL instances. Let's look at some of the most common ways to configure Barman with PostgreSQL and secure your data, until zero data loss is achieved."
   subtype: Talk
   speakers: [61]
-  language: IT
+  language: EN
   complexity: "Intermediate"
 #  presentation: ""
 #  video: ""
@@ -554,6 +554,20 @@ In questo talk parleremo di quali strumenti sono a disposizione per effettuare u
     en: ""
   subtype: Talk
   speakers: [23]
+  language:
+  complexity: ""
+#  presentation: ""
+#  video: ""
+-
+  id: 997
+  title:
+    it: ""
+    en: ""
+  description:
+    it: ""
+    en: ""
+  subtype: Talk
+  speakers: [99]
   language:
   complexity: ""
 #  presentation: ""
