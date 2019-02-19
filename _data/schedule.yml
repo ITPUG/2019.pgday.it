@@ -7,7 +7,6 @@
     it: "Il programma non è ancora definitivo e potrebbe subire variazioni"
     en: "The schedule is not yet definitive, there may be some variations"
   tracks:
-    - {title: "Sala Plenaria Nelson", color: "#03a9f4"}
     - {title: "Sala Diaz", color: "#90be4e"}
     - {title: "Sala Cortez e Marco Polo", color: "#03a9f4"}
   timeslots:
@@ -29,7 +28,7 @@
     - {
       startTime: "10:00",
     	endTime: "10:45",
-      sessionIds: [997, 057, 059]
+      sessionIds: [057, 059]
     }
     - {
     	startTime: "10:45",
@@ -39,12 +38,12 @@
     - {
       startTime: "11:05",
     	endTime: "11:50",
-      sessionIds: [997, 058, 045]
+      sessionIds: [058, 045]
     }
     - {
       startTime: "11:50",
     	endTime: "12:35",
-      sessionIds: [997, 049, 055]
+      sessionIds: [049, 055]
     }
     - {
       startTime: "12:35",
@@ -59,12 +58,12 @@
     - {
     	startTime: "14:15",
     	endTime: "15:00",
-    	sessionIds: [997, 040, 051]
+    	sessionIds: [040, 051]
     }
     - {
       startTime: "15:00",
     	endTime: "15:45",
-      sessionIds: [997, 052, 053]
+      sessionIds: [052, 053]
     }
     - {
     	startTime: "15:45",
@@ -74,17 +73,17 @@
     - {
       startTime: "16:05",
     	endTime: "16:50",
-      sessionIds: [997, 050, 061]
+      sessionIds: [050, 061]
     }
     - {
       startTime: "16:50",
     	endTime: "17:35",
-      sessionIds: [997, 060, 048]
+      sessionIds: [060, 048]
     }
     - {
       startTime: "17:35",
     	endTime: "18:20",
-      sessionIds: [997, 046, 056]
+      sessionIds: [046, 056]
     }
     - {
     	startTime: "18:20",
