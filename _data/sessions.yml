@@ -53,7 +53,7 @@ Non esitare!"
     it: ""
   subtype: Keynote
   speakers: [1]
-  language: en
+  language: EN
   complexity: "keynote"
 #  presentation: ""
 #  video: ""
@@ -67,7 +67,7 @@ Non esitare!"
     it: ""
   subtype: Keynote
   speakers: [0]
-  language: en
+  language: EN
   complexity: "keynote"
 #  presentation: ""
 #  video: ""
@@ -95,7 +95,7 @@ Non esitare!"
     it: ""
   subtype: Talk
   speakers: [30]
-  language: en
+  language: IT - EN
   complexity: ""
   #presentation: ""
   #video: ""
@@ -203,7 +203,7 @@ E' un talk con molto codice per cui ci aspettiamo grande partecipazioni di svilu
 In this talk we will discuss how much impact different knobs and options of the Linux kernel have on PostgreSQL and why, what would happen if we run databases in virtualized environment or inside a container. We will share experience of running PostgreSQL inside Kubernetes, show how to see what's going on inside and how to break something spectacularly."
   subtype: Talk
   speakers: [45]
-  language: IT
+  language: EN
   complexity: "Intermediate"
 #  presentation: ""
 #  video: ""
