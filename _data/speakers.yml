@@ -458,18 +458,18 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
     - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
--
-  id: 99
-  name: ""
-  surname: ""
-  company: ""
-  title: ""
-  bio:
-    it: ""
-    en: "_"
-  thumbnailUrl:
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+#-
+#  id: 99
+#  name: ""
+#  surname: ""
+#  company: ""
+#  title: ""
+#  bio:
+#    it: ""
+#    en: "_"
+#  thumbnailUrl:
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "_"}
+#    - {name: "twitter", link: "_"}
+#    - {name: "github", link: "_"}
