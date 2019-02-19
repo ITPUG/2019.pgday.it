@@ -413,21 +413,21 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "twitter", link: "https://twitter.com/rubens_ts"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
--
-  id: 23
-  name: "Pending confirmation"
-  surname: "_"
-  company: "_"
-  title: "_"
-  bio:
-    it: "_"
-    en: "_"
-  thumbnailUrl: anonimo.jpg
-  rockstar: true
-  social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+#-
+#  id: 23
+#  name: "Pending confirmation"
+#  surname: "_"
+#  company: "_"
+#  title: "_"
+#  bio:
+#    it: "_"
+#    en: "_"
+#  thumbnailUrl: anonimo.jpg
+#  rockstar: true
+#  social:
+#    - {name: "linkedin", link: "_"}
+#    - {name: "twitter", link: "_"}
+#    - {name: "github", link: "_"}
 -
   id: 66
   name: "Paolo"
