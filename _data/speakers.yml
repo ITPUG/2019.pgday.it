@@ -18,9 +18,7 @@ To pay the bills, he is a PostgreSQL and open source software consultant at Redp
   thumbnailUrl: magnus_hagander.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "https://twitter.com/@magnushagander"}
-    - {name: "github", link: "_"}
 -
   id: 1
   name: "Peter"
@@ -35,9 +33,7 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   thumbnailUrl: peter_eisentraut.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "https://twitter.com/petereisentraut"}
-    - {name: "github", link: "_"}
 -
   id: 30
   name: "Marco"
@@ -69,7 +65,6 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/firat-gulec-95b82322/"}
     - {name: "twitter", link: "https://twitter.com/GulecFirat"}
-    - {name: "github", link: "_"}
 -
   id: 45
   name: "Dmitrii"
@@ -82,7 +77,6 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   thumbnailUrl: dmitrii_dolgov.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "https://twitter.com/erthalion"}
     - {name: "github", link: "http://github.com/erthalion/"}
 -
@@ -107,7 +101,6 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/federicocampoli/"}
     - {name: "twitter", link: "https://twitter.com/4thdoctor_scarf"}
-    - {name: "github", link: "_"}
 -
   id: 48
   name: "Craig"
@@ -122,7 +115,6 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   social:
     - {name: "linkedin", link: "https://www.twitter.com/craigkerstiens"}
     - {name: "twitter", link: "https://twitter.com/craigkerstiens"}
-    - {name: "github", link: "_"}
 -
   id: 49
   name: "Luca"
@@ -137,7 +129,6 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/luca-veronese-b39b2115/"}
     - {name: "twitter", link: "https://twitter.com/lveronese65"}
-    - {name: "github", link: "_"}
 -
   id: 50
   name: "Lucio"
@@ -151,8 +142,6 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   rockstar: true
   social:
     - {name: "linkedin", link: "https://it.linkedin.com/in/lucio-grenzi-02a2bb27"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
 -
   id: 51
   name: "Denis"
@@ -171,7 +160,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
     - {name: "twitter", link: "https://twitter.com/rtshome"}
-    - {name: "github", link: "_"}
 -
   id: 52
   name: "Oleg"
@@ -186,7 +174,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/olegbartunov/"}
     - {name: "twitter", link: "https://twitter.com/obartunov"}
-    - {name: "github", link: "_"}
 -
   id: 53
   name: "Fabio"
@@ -200,7 +187,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabiobenedetti85/"}
-    - {name: "twitter", link: "_"}
     - {name: "github", link: "https://github.com/linkTDP"}
 -
   id: 55
@@ -230,8 +216,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: ronan_dunklau.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
     - {name: "github", link: "https://github.com/rdunklau/"}
 -
   id: 58
@@ -245,7 +229,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: leonardo_cecchi.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/leonardo-cecchi-54b0a396/"}
     - {name: "twitter", link: "https://twitter.com/leonardo_cecchi"}
     - {name: "github", link: "https://github.com/leonardoce/"}
 -
@@ -262,7 +246,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/francescocanovai/"}
     - {name: "twitter", link: "https://twitter.com/fcanovai"}
-    - {name: "github", link: "_"}
 -
   id: 61
   name: "Gabriele"
@@ -277,7 +260,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
     - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
-    - {name: "github", link: "_"}
 -
   id: 63
   name: "Paolo"
@@ -290,8 +272,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: paolo_cavallini.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paolo-cavallini-bba15a1/"}
     - {name: "github", link: "https://github.com/pcav"}
 -
   id: 64
@@ -331,14 +312,23 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "2ndQuadrant"
   title: ""
   bio:
-    it: "_"
-    en: "_"
+    it: "My name is Paolo Romolini, I live near Florence with my wife and my daughter.
+I’m a web developer specialized in Django and Python.
+I’ve previously worked as a web developer with Django at Nephila, a web agency in Florence, working also with front-end tools as Angular Js, Sass, Javascript and such.
+I like to try out new technologies and  figuring out how to solve problems within a team.
+My favourite web framework still remains Django!
+I’m passionate about music and I listen to a lot different style of music from Mozart to Creedence Clearwater Revival and I love to play the violin!"
+    en: "My name is Paolo Romolini, I live near Florence with my wife and my daughter.
+I’m a web developer specialized in Django and Python.
+I’ve previously worked as a web developer with Django at Nephila, a web agency in Florence, working also with front-end tools as Angular Js, Sass, Javascript and such.
+I like to try out new technologies and  figuring out how to solve problems within a team.
+My favourite web framework still remains Django!
+I’m passionate about music and I listen to a lot different style of music from Mozart to Creedence Clearwater Revival and I love to play the violin!"
   thumbnailUrl: paolo_romolini.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/paoloromolini/"}
+    - {name: "twitter", link: "https://twitter.com/paulromolini"}
 -
   id: 67
   name: "Tamara"
@@ -351,9 +341,8 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: tamara_nocentini.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/tamara-nocentini-44482295/"}
+    - {name: "twitter", link: "https://twitter.com/TamaraNocentini"}
 -
   id: 62
   name: "Marco"
