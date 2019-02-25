@@ -5,7 +5,11 @@
   company: "Redpill Linpro AB"
   title: "Keynote"
   bio:
-    it: "_"
+    it: "Magnus Hagander is a member of the PostgreSQL Core Team and a developer and code committer in the PostgreSQL Global Development Group. He currently serves as President of the board for PostgreSQL Europe.
+Magnus is one of the original developers of the Windows port of PostgreSQL, and currently a part of the team that maintains it. These days, he mostly works on other parts of the PostgreSQL backend, recently with a focus on security features such as authentication and encryption.
+He is also one of the core members of the postgresql.org infrastructure team, maintaining the servers that power the project, and one of the maintainers of the postgresql.org website. He also contributes to pgAdmin and other related projects.
+He's been a PostgreSQL user since version 6 (with some non-serious use of Postgres 95 before that), and currently serves on the Core Team and as President of the Board for PostgreSQL Europe.
+To pay the bills, he is a PostgreSQL and open source software consultant at Redpill Linpro in Stockholm, Sweden, where he works on consulting, support and training services, as well as custom development work."
     en: "Magnus Hagander is a member of the PostgreSQL Core Team and a developer and code committer in the PostgreSQL Global Development Group. He currently serves as President of the board for PostgreSQL Europe.
 Magnus is one of the original developers of the Windows port of PostgreSQL, and currently a part of the team that maintains it. These days, he mostly works on other parts of the PostgreSQL backend, recently with a focus on security features such as authentication and encryption.
 He is also one of the core members of the postgresql.org infrastructure team, maintaining the servers that power the project, and one of the maintainers of the postgresql.org website. He also contributes to pgAdmin and other related projects.
@@ -24,7 +28,8 @@ To pay the bills, he is a PostgreSQL and open source software consultant at Redp
   company: "2ndQuadrant"
   title: "Keynote"
   bio:
-    it: "_"
+    it: "Peter has been a contributor to PostgreSQL development since 1999. He is a committer, core team member, and is involved in many aspects of the community.
+He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
     en: "Peter has been a contributor to PostgreSQL development since 1999. He is a committer, core team member, and is involved in many aspects of the community.
 He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   thumbnailUrl: peter_eisentraut.jpg
@@ -57,7 +62,7 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   company: "HEPSIEXPRESS"
   title: "_"
   bio:
-    it: "_"
+    it: "Hi I am Fırat Güleç, I graduated from Information System Engineer, a joint program of ITU and Binghamton University. After graduation I did Oracle ERP Software Consultancy for about 1 year. Then I worked as an Oracle Apps DBA in Turkcell for 5 years. During this time, I completed the MBA program at the University of Galatasay. Now; I work as the infrastructure and database manager of Hepsiexpress."
     en: "Hi I am Fırat Güleç, I graduated from Information System Engineer, a joint program of ITU and Binghamton University. After graduation I did Oracle ERP Software Consultancy for about 1 year. Then I worked as an Oracle Apps DBA in Turkcell for 5 years. During this time, I completed the MBA program at the University of Galatasay. Now; I work as the infrastructure and database manager of Hepsiexpress."
   thumbnailUrl: firat_gulec.jpg
   rockstar: true
@@ -65,56 +70,6 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
     - {name: "linkedin", link: "https://www.linkedin.com/in/firat-gulec-95b82322/"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
-#-
-#  id: 41
-#  name: "Jan"
-#  surname: "Karremans"
-#  company: "EnterpriseDB"
-#  title: "_"
-#  bio:
-#    it: "_"
-#    en: "Jan started his IT career in a medical facility of the Royal Dutch Army in 1992 as an administrator on a Datapoint Mainframe. In 1994 the medical facility switched to using Oracle 7.1 on a Micro VAX 3100, which kicked of his career in Oracle. From 1998 Jan supported the development of a system for healthcare administration. Over the years Ecaris evolved to an APEX based solution.
-#In recent years Jan came in contact with Dbvisit from New Zealand. In 2011 he started working as a Business Development Manager for Dbvisit. Most recently Jan joined the German based company of Portrix as Director Operations ai. responsible for reorganizing the operations department.
-#In a latest venture, Jan joined EnterpriseDB as Sales Engineer for the DACH-region.
-#Jan also made his appearance as a regular speaker at Database User Groups around the world, with a debut at UKOUG_Tech13, including many editions of DOAG14, OOW14 and PGConf.eu. His work for the Oracle User Community was recognized with an Oracle ACE award."
-#  thumbnailUrl: jan_karremans.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "https://twitter.com/johnnyq72"}
-#    - {name: "github", link: "_"}
-#-
-#  id: 43
-#  name: "Andrea"
-#  surname: "Adami"
-#  company: "Fulcro Srl"
-#  title: "_"
-#  bio:
-#    it: "Andrea Adami (https://it.linkedin.com/in/andreaadami) si definisce un _Architetto di Soluzioni_. Si innamora di un Commodore 64 trovato sotto l'albero di Natale nel 1980 e vive tutta l'evoluzione dell'informatica dai grossi calcolatori per banche e assicurazioni fino a internet a alle reti di personal computer passando dai microcontrollori quando IoT era un acronimo a cui non si sapeva quale parola collegare.
-#La cosa fuori dal comune e che dopo oltre 30 anni è ancora sinceramente appassionato dalla programmazione e gli piace trasmettere questa sua passione.
-#Nel tempo libero costruisce e fa' volare aeromodelli. Tiene un blog all'indirizzo: http:www.folstuff.eu"
-#    en: "_"
-#  thumbnailUrl: andrea_adami.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/andreaadami/it"}
-#    - {name: "twitter", link: "https://twitter.com/folstuff"}
-#    - {name: "github", link: "https://github.com/folstuff"}
-#-
-#  id: 44
-#  name: "Kaarel"
-#  surname: "Moppel"
-#  company: "Cybertec"
-#  title: "Senior PostgreSQL consultant"
-#  bio:
-#    it: "_"
-#    en: "Kaarel has been battling with databases for over 10 years already and for last 7 years he's been working daily with PostgreSQL and thus has accumulated quite some insights on various PostgreSQL related topics, that he likes to occasionally share also with newcomers."
-#  thumbnailUrl: kaarel_moppel.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/kaarelmoppel/"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "https://github.com/kmoppel"}
 -
   id: 45
   name: "Dmitrii"
@@ -122,7 +77,7 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   company: "Zalando SE"
   title: "Software Engineer"
   bio:
-    it: "_"
+    it: "Software Engineer at Zalando SE, PostgreSQL contributor"
     en: "Software Engineer at Zalando SE, PostgreSQL contributor"
   thumbnailUrl: dmitrii_dolgov.jpg
   rockstar: true
@@ -142,30 +97,17 @@ Ha iniziato la sua carriera lavorativa come DBA Oracle nel 2004 e nel 2007 si è
 In precedenza ha lavorato come data engineer presso Transferwise.
 Dopo vari anni vissuti nel regno unito si è recentemente spostato nel sud della Francia.
 Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedicarsi alla cucina tradizionale Napoletana."
-    en: "_"
+    en: "Federico lavora come consulente e formatore PostgreSQL per Loxodata.
+Ha iniziato la sua carriera lavorativa come DBA Oracle nel 2004 e nel 2007 si è dedicato a PostgreSQL.
+In precedenza ha lavorato come data engineer presso Transferwise.
+Dopo vari anni vissuti nel regno unito si è recentemente spostato nel sud della Francia.
+Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedicarsi alla cucina tradizionale Napoletana."
   thumbnailUrl: federico_campoli.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/federicocampoli/"}
     - {name: "twitter", link: "https://twitter.com/4thdoctor_scarf"}
     - {name: "github", link: "_"}
-#-
-#  id: 47
-#  name: "Daniele"
-#  surname: "Simoncini"
-#  company: "CGT - Siena University"
-#  title: "_"
-#  bio:
-#    it: "Responsabile IT del Centro di GeoTecnologie dell'Università degli Studi di Siena e per le società spin-off accademiche da esso derivate, lavoro in ambito di banche dati territoriali da oltre 15 anni.
-#Come insegno ai miei studenti, in ambito di GIS è necessario fondere tecnologie differenti rendendole comunicanti e cooperanti tra loro per la risoluzione di problemi complessi applicati al territorio, insomma, quello di cui faccio parte è un settore in cui le macchine 'avevano' Internet molto prima che decidessimo di chiamarlo 'IoT' e i dati nelle banche dati sono sempre stati 'Big'.
-#Per questo motivo le mie esperienze e i progetti che tratto sono quasi sempre di rilevanza nazionale e, qualche volta, anche oltre."
-#    en: "_"
-#  thumbnailUrl: daniele_simoncini.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "https://www.linkedin.com/in/daniele-simoncini-6a391989/"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
 -
   id: 48
   name: "Craig"
@@ -173,7 +115,7 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   company: "Citus Data"
   title: "Product manager"
   bio:
-    it: "_"
+    it: "I run Citus Cloud a distributed database as a service. I curate Postgres Weekly and previously ran Heroku Postgres."
     en: "I run Citus Cloud a distributed database as a service. I curate Postgres Weekly and previously ran Heroku Postgres."
   thumbnailUrl: craig_kerstiens.jpg
   rockstar: true
@@ -189,7 +131,7 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   title: "CTO"
   bio:
     it: "Luca Veronese si occupa di sviluppo di applicazioni e framework per il mondo RDBMS da trent’anni. In questo tempo Luca ha realizzato diversi strumenti per la generazione di codice, framework di sviluppo e soluzioni di replicazione dati eterogenee personalizzate per diverse aziende. É il principale sviluppatore del framework alla base di NebulaERP, un ERP italiano. Ha recentemente fondato una startup che opera nel mondo IoT e si interessa anche di Machine Learning e Intelligenza Artificiale."
-    en: "_"
+    en: "Luca Veronese si occupa di sviluppo di applicazioni e framework per il mondo RDBMS da trent’anni. In questo tempo Luca ha realizzato diversi strumenti per la generazione di codice, framework di sviluppo e soluzioni di replicazione dati eterogenee personalizzate per diverse aziende. É il principale sviluppatore del framework alla base di NebulaERP, un ERP italiano. Ha recentemente fondato una startup che opera nel mondo IoT e si interessa anche di Machine Learning e Intelligenza Artificiale."
   thumbnailUrl: luca_veronese.jpg
   rockstar: true
   social:
@@ -204,7 +146,7 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   title: "_"
   bio:
     it: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
-    en: "_"
+    en: "Attualmente lavora come sviluppatore di software e consulente, principalmente come Developer Front-End, durante gli anni ha avuto l'opportunità di costruire software in tutti i livelli, dal frontend, al backend e ai sistemi di database"
   thumbnailUrl: lucio_grenzi.jpg
   rockstar: true
   social:
@@ -221,7 +163,9 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
     it: "Ingegnere Informatico dal 2001 con vasta esperienza su PostgreSQL sia lato sistemistico che di programmazione e lo sviluppo web (PHP e Javascript in particolare).
 Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical.
 Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omnicanale."
-    en: "_"
+    en: "Ingegnere Informatico dal 2001 con vasta esperienza su PostgreSQL sia lato sistemistico che di programmazione e lo sviluppo web (PHP e Javascript in particolare).
+Appassionato del mondo opensource, ha contribuito negli anni a sviluppare alcune parti del driver PHP/PDO per PostgreSQL ed avviato il progetto PgRepUp per la replica ed upgrade di PostgreSQL usando PgLogical.
+Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omnicanale."
   thumbnailUrl: denis_gasparin.jpg
   rockstar: true
   social:
@@ -235,7 +179,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "Lomonosov Moscow University, Postgres Professional"
   title: "_"
   bio:
-    it: "_"
+    it: "Oleg Bartunov is a research scientist in the Lomonosov Moscow State University, major contributor to PostgreSQL. He is also the co-founder and CEO of Postgres Professional company. Oleg started using Postgres since 1995 and have been involved in PostgreSQL development since 1996 (he introduced a locale support). He has been involved in developing of extensibility infrastructure of PostgreSQL, GiST, GIN and SP-GiST templates for user-defined access methods , built-in full-text search facilities in PostgreSQL and a number of popular extensions: intarray, ltree, hstore, pg_trgm. His latest contribution are jsonb and RUM access method. Currently, he is working on implementation of SQL/JSON standard for PostgreSQL and advanced indexing."
     en: "Oleg Bartunov is a research scientist in the Lomonosov Moscow State University, major contributor to PostgreSQL. He is also the co-founder and CEO of Postgres Professional company. Oleg started using Postgres since 1995 and have been involved in PostgreSQL development since 1996 (he introduced a locale support). He has been involved in developing of extensibility infrastructure of PostgreSQL, GiST, GIN and SP-GiST templates for user-defined access methods , built-in full-text search facilities in PostgreSQL and a number of popular extensions: intarray, ltree, hstore, pg_trgm. His latest contribution are jsonb and RUM access method. Currently, he is working on implementation of SQL/JSON standard for PostgreSQL and advanced indexing."
   thumbnailUrl: oleg_bartunov.jpg
   rockstar: true
@@ -250,29 +194,14 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "Virality"
   title: "CTO"
   bio:
-    it: "Fabio Benedetti è CTO di una Startup nata a Bologna a inizio 2018 che mira a rendere più efficiente ed efficacie il mondo del'influencer marketing attraverso algoritmi di ML per aiutare influencer ed aziende. Precedentemente ha conseguito un Dottorato all'università di Modena e ha svolto un periodo di ricerca negli Stati Uniti occupandosi di Semantic Web, NLP e Database. "
-    en: "_"
+    it: "Fabio Benedetti è CTO di una Startup nata a Bologna a inizio 2018 che mira a rendere più efficiente ed efficacie il mondo del'influencer marketing attraverso algoritmi di ML per aiutare influencer ed aziende. Precedentemente ha conseguito un Dottorato all'università di Modena e ha svolto un periodo di ricerca negli Stati Uniti occupandosi di Semantic Web, NLP e Database."
+    en: "Fabio Benedetti è CTO di una Startup nata a Bologna a inizio 2018 che mira a rendere più efficiente ed efficacie il mondo del'influencer marketing attraverso algoritmi di ML per aiutare influencer ed aziende. Precedentemente ha conseguito un Dottorato all'università di Modena e ha svolto un periodo di ricerca negli Stati Uniti occupandosi di Semantic Web, NLP e Database."
   thumbnailUrl: fabio_benedetti.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabiobenedetti85/, https://github.com/linkTDP"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
-#-
-#  id: 54
-#  name: "Giuseppe"
-#  surname: "Maggi"
-#  company: "_"
-#  title: "Dipendente della Pubblica Amministrazione"
-#  bio:
-#    it: "Ingegnere informatico con la grande passione per la divulgazione: insegna, scrive e registra videocorsi. E’ articolista presso HTML.it (https://www.html.it/author/g-maggi/), ha pubblicato il libro “Java 9 Guida completa” per LSWR (https://www.edizionilswr.it/libri/java-9/) e tiene videocorsi per Devacademy (https://devacademy.it/docenti/giuseppe-maggi/). Insegna in centri di formazione torinesi con particolare interesse verso i Big Data trattati con il linguaggio Python ed lo sviluppo di app Android"
-#    en: "_"
-#  thumbnailUrl: giuseppe_maggi.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "https://twitter.com/giuxma"}
-#    - {name: "github", link: "_"}
 -
   id: 55
   name: "Paolo"
@@ -280,7 +209,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "20tab"
   title: "Senior Software Engineer"
   bio:
-    it: "_"
+    it: "I’m Paolo Melchiorre, a software developer (mostly of Python), with extensive experience in web development, a Django contributor, a passionate PostgreSQL user, a public speaker, Free Software advocate and GNU/Linux user."
     en: "I’m Paolo Melchiorre, a software developer (mostly of Python), with extensive experience in web development, a Django contributor, a passionate PostgreSQL user, a public speaker, Free Software advocate and GNU/Linux user."
   thumbnailUrl: paolo_melchiorre.jpg
   rockstar: true
@@ -297,7 +226,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "PeopleDoc"
   title: "DBA"
   bio:
-    it: "_"
+    it: "Ronan Dunklau is a PostgreSQL DBA, working at PeopleDoc. He co-authored the Multicorn and pg_qualstats extensions, as well as various contributions to PostgreSQL core and the PostGIS indexing code."
     en: "Ronan Dunklau is a PostgreSQL DBA, working at PeopleDoc. He co-authored the Multicorn and pg_qualstats extensions, as well as various contributions to PostgreSQL core and the PostGIS indexing code."
   thumbnailUrl: ronan_dunklau.jpg
   rockstar: true
@@ -313,7 +242,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   title: "PostgreSQL Consultant"
   bio:
     it: "In poche parole posso dire che io e l'informatica siamo cresciuti insieme. La programmazione è sempre stata la mia fissazione. Una passione che iniziò all'età di 6 anni stando a fianco di mio padre, programmatore, che mi ha insegnato i rudimenti della programmazione in C. In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
-    en: "_"
+    en: "In poche parole posso dire che io e l'informatica siamo cresciuti insieme. La programmazione è sempre stata la mia fissazione. Una passione che iniziò all'età di 6 anni stando a fianco di mio padre, programmatore, che mi ha insegnato i rudimenti della programmazione in C. In prima elementare sapevo scrivere sulla tastiera ma non su carta! Sono sempre stato curioso e ancora non mi sono saziato di imparare nuove tecnologie e nuovi ambienti di programmazione. Tra questi: Python, Java, Go, C, Haskell. Oggi faccio parte del team di 2ndQuadrant Italia perché mi dà la possibilità di lavorare su PostgreSQL, il DBMS che affronta problemi innovativi con un linguaggio 'classico'."
   thumbnailUrl: leonardo_cecchi.jpg
   rockstar: true
   social:
@@ -328,7 +257,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   title: "PostgreSQL DBA & Sysadmin"
   bio:
     it: "Francesco Canovai lavora presso 2ndQuadrant come amministratore di database PostgreSQL e sistemista, occupandosi di supporto e corsi su vari aspetti di PostgreSQL, e della gestione e dello sviluppo dell'infrastruttura aziendale, con un occhio di riguardo alle procedure di disaster recovery e di alta disponibilità."
-    en: "_"
+    en: "Francesco Canovai lavora presso 2ndQuadrant come amministratore di database PostgreSQL e sistemista, occupandosi di supporto e corsi su vari aspetti di PostgreSQL, e della gestione e dello sviluppo dell'infrastruttura aziendale, con un occhio di riguardo alle procedure di disaster recovery e di alta disponibilità."
   thumbnailUrl: francesco_canovai.jpg
   rockstar: true
   social:
@@ -343,28 +272,13 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   title: "Head of Global Support"
   bio:
     it: "Programmatore ed imprenditore da lungo tempo in ambito open source, Gabriele ha conseguito una laurea in Statistica presso l'Università di Firenze. Gabriele è a capo del Supporto Globale di 2ndQuadrant e Amministratore Delegato della sede italiana, nonché membro attivo sia della comunità internazionale di PostgreSQL che di quella locale all'interno dell'ITPUG. Il suo impegno è quello di contribuire costantemente alla crescita di 2ndQuadrant e dei suoi membri attraverso la cultura lean e devops. Gabriele vive a Prato, una piccola ma vivace città situata nella parte settentrionale della Toscana. La sua seconda casa è Melbourne, Australia, dove ha studiato presso la Monash University oltre ad aver lavorato nel settore ICT. I suoi hobby comprendono calcio (football o soccer, a seconda di quale parte del mondo si proviene) e suonare la sua chitarra elettrica Fender Stratocaster. Ma le sue grandi passioni sono le sue piccole Elisabeth e Charlotte."
-    en: "_"
+    en: "Programmatore ed imprenditore da lungo tempo in ambito open source, Gabriele ha conseguito una laurea in Statistica presso l'Università di Firenze. Gabriele è a capo del Supporto Globale di 2ndQuadrant e Amministratore Delegato della sede italiana, nonché membro attivo sia della comunità internazionale di PostgreSQL che di quella locale all'interno dell'ITPUG. Il suo impegno è quello di contribuire costantemente alla crescita di 2ndQuadrant e dei suoi membri attraverso la cultura lean e devops. Gabriele vive a Prato, una piccola ma vivace città situata nella parte settentrionale della Toscana. La sua seconda casa è Melbourne, Australia, dove ha studiato presso la Monash University oltre ad aver lavorato nel settore ICT. I suoi hobby comprendono calcio (football o soccer, a seconda di quale parte del mondo si proviene) e suonare la sua chitarra elettrica Fender Stratocaster. Ma le sue grandi passioni sono le sue piccole Elisabeth e Charlotte."
   thumbnailUrl: gabriele_bartolini.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
-#-
-#  id: 62
-#  name: "Luca"
-#  surname: "Ferrari"
-#  company: "Nipissing University"
-#  title: "Adjunct Professor"
-#  bio:
-#    it: "Luca è appassionato di informatica fin dai tempi del Commodore 64. Utilizza Java, Perl, Emacs e ovviamente PostgreSQL come strumenti principali di lavoro. E' stato co-fondatore e presidente di ITPUG, si occupa attivamente della promozione di PostgreSQL. Effettua consulenze profesisonali, formazione ed è autore del libro 'PostgreSQL 11 Server Side Programming' pubblicato da Packt."
-#    en: "_"
-#  thumbnailUrl: luca_ferrari.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
 -
   id: 63
   name: "Paolo"
@@ -372,8 +286,8 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   company: "Faunalia"
   title: "CEO"
   bio:
-    it: "Chair di QGIS.ORG, fondatore di GFOSS.it, di cui è stato presidente. Ha contribuito con la sua azienda, Faunalia, allo sviluppo di molti dei principali software geografici liberi (QGIS, PostGIS, GDAL, GRASS ecc.). CV: https://www.faunalia.eu/en/cv_pc_en.html"
-    en: "_"
+    it: "Chair di QGIS.ORG, fondatore di GFOSS.it, di cui è stato presidente. Ha contribuito con la sua azienda, Faunalia, allo sviluppo di molti dei principali software geografici liberi (QGIS, PostGIS, GDAL, GRASS ecc.)."
+    en: "Chair di QGIS.ORG, fondatore di GFOSS.it, di cui è stato presidente. Ha contribuito con la sua azienda, Faunalia, allo sviluppo di molti dei principali software geografici liberi (QGIS, PostGIS, GDAL, GRASS ecc.)."
   thumbnailUrl: paolo_cavallini.jpg
   rockstar: true
   social:
@@ -413,21 +327,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "twitter", link: "https://twitter.com/rubens_ts"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/rubensts/"}
-#-
-#  id: 23
-#  name: "Pending confirmation"
-#  surname: "_"
-#  company: "_"
-#  title: "_"
-#  bio:
-#    it: "_"
-#    en: "_"
-#  thumbnailUrl: anonimo.jpg
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
 -
   id: 66
   name: "Paolo"
@@ -451,25 +350,10 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   title: ""
   bio:
     it: "Da quando mi sono laureata ho sempre utilizzato Java e C# per programmare applicazioni web oppure applicazioni desktop, ma poi ho scoperto Django e PostgreSQL... tutto è cambiato!"
-    en: "_"
+    en: "Da quando mi sono laureata ho sempre utilizzato Java e C# per programmare applicazioni web oppure applicazioni desktop, ma poi ho scoperto Django e PostgreSQL... tutto è cambiato!"
   thumbnailUrl: tamara_nocentini.jpg
   rockstar: true
   social:
     - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
-#-
-#  id: 99
-#  name: ""
-#  surname: ""
-#  company: ""
-#  title: ""
-#  bio:
-#    it: ""
-#    en: "_"
-#  thumbnailUrl:
-#  rockstar: true
-#  social:
-#    - {name: "linkedin", link: "_"}
-#    - {name: "twitter", link: "_"}
-#    - {name: "github", link: "_"}
