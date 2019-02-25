@@ -446,7 +446,7 @@ In questo talk parleremo di quali strumenti sono a disposizione per effettuare u
     en: "Kubernetes è un sistema di orchestrazione di container che permette di gestire il deploy, lo scaling e l’aggiornamento di una applicazione e di tutti i suoi componenti.
 In questo talk parleremo di quali strumenti sono a disposizione per effettuare un deploy di un database PostgreSQL in un cluster Kubernetes. Inoltre vedremo come sia implementabile l’alta disponibilità e la disaster recovery, in maniera da avere i propri dati al sicuro e sempre accessibili ."
   subtype: Talk
-  speakers: [30]
+  speakers: [62]
   language: IT
   complexity: "Beginner"
 #  presentation: ""

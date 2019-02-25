@@ -36,14 +36,14 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   rockstar: true
   social:
     - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/petereisentraut"}
     - {name: "github", link: "_"}
 -
   id: 30
   name: "Marco"
   surname: "Nenciarini"
-  company: "Presidente ITPUG"
-  title: "PostgreSQL Consultant"
+  company: "ITPUG"
+  title: "Presidente"
   bio:
     en: ""
     it: ""
@@ -68,7 +68,7 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/firat-gulec-95b82322/"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/GulecFirat"}
     - {name: "github", link: "_"}
 -
   id: 45
@@ -121,7 +121,7 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.twitter.com/craigkerstiens"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/craigkerstiens"}
     - {name: "github", link: "_"}
 -
   id: 49
@@ -135,8 +135,8 @@ Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedic
   thumbnailUrl: luca_veronese.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/luca-veronese-b39b2115/"}
+    - {name: "twitter", link: "https://twitter.com/lveronese65"}
     - {name: "github", link: "_"}
 -
   id: 50
@@ -170,7 +170,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/denis-gasparin-19395817/"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/rtshome"}
     - {name: "github", link: "_"}
 -
   id: 52
@@ -184,8 +184,8 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: oleg_bartunov.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/olegbartunov/"}
+    - {name: "twitter", link: "https://twitter.com/obartunov"}
     - {name: "github", link: "_"}
 -
   id: 53
@@ -199,9 +199,9 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   thumbnailUrl: fabio_benedetti.jpg
   rockstar: true
   social:
-    - {name: "linkedin", link: "https://www.linkedin.com/in/fabiobenedetti85/, https://github.com/linkTDP"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/fabiobenedetti85/"}
     - {name: "twitter", link: "_"}
-    - {name: "github", link: "_"}
+    - {name: "github", link: "https://github.com/linkTDP"}
 -
   id: 55
   name: "Paolo"
@@ -216,7 +216,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/paolomelchiorre/"}
     - {name: "twitter", link: "https://twitter.com/pauloxnet"}
-    - {name: "facebook", link: "https://www.facebook.com/pauloxnet"}
     - {name: "github", link: "https://github.com/pauloxnet"}
     - {name: "stackoverflow", link: "https://stackoverflow.com/users/755343/paolo-melchiorre"}
 -
@@ -247,7 +246,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   rockstar: true
   social:
     - {name: "linkedin", link: "_"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/leonardo_cecchi"}
     - {name: "github", link: "https://github.com/leonardoce/"}
 -
   id: 60
@@ -277,7 +276,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/gbartolini/"}
-    - {name: "twitter", link: "_"}
+    - {name: "twitter", link: "https://twitter.com/_GBartolini_"}
     - {name: "github", link: "_"}
 -
   id: 63
@@ -296,7 +295,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
     - {name: "github", link: "https://github.com/pcav"}
 -
   id: 64
-
   name: "Mladen"
   surname: "Marinović"
   company: "Praćenje vozila d.o.o. aka Smartivo"
@@ -314,7 +312,6 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
     - {name: "twitter", link: "https://twitter.com/mladenmarinovic"}
 -
   id: 65
-
   name: "Rubens"
   surname: "Souza"
   company: "2ndQuadrant"
@@ -357,3 +354,20 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
     - {name: "linkedin", link: "_"}
     - {name: "twitter", link: "_"}
     - {name: "github", link: "_"}
+-
+  id: 62
+  name: "Marco"
+  surname: "Nenciarini"
+  company: "2ndQuadrant"
+  title: "PostgreSQL Consultant"
+  bio:
+    en: "Marco Nenciarini is a PostgreSQL Consultant and CTO for 2ndQuadrant Italia. Design and development of high-performance database and data warehousing solutions using PostgreSQL operating under strict business continuity requirements. Open-source programming and testing of core and external modules of PostgreSQL. Kanban practitioner and devops evangelist."
+    it: "Marco Nenciarini is a PostgreSQL Consultant and CTO for 2ndQuadrant Italia. Design and development of high-performance database and data warehousing solutions using PostgreSQL operating under strict business continuity requirements. Open-source programming and testing of core and external modules of PostgreSQL. Kanban practitioner and devops evangelist."
+  thumbnailUrl: marco-nenciarini.jpg
+  rockstar: true
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarcoNenciarini"}
+    - {name: "google-plus", link: "https://plus.google.com/100108801641983928567"}
+    - {name: "twitter", link: "https://twitter.com/mnencia"}
+    - {name: "github", link: "https://github.com/mnencia"}
+    - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
