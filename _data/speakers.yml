@@ -15,7 +15,7 @@ Magnus is one of the original developers of the Windows port of PostgreSQL, and 
 He is also one of the core members of the postgresql.org infrastructure team, maintaining the servers that power the project, and one of the maintainers of the postgresql.org website. He also contributes to pgAdmin and other related projects.
 He's been a PostgreSQL user since version 6 (with some non-serious use of Postgres 95 before that), and currently serves on the Core Team and as President of the Board for PostgreSQL Europe.
 To pay the bills, he is a PostgreSQL and open source software consultant at Redpill Linpro in Stockholm, Sweden, where he works on consulting, support and training services, as well as custom development work."
-  thumbnailUrl: magnus_hagander.jpg
+  thumbnailUrl: magnus_hagander.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/@magnushagander"}
@@ -74,7 +74,7 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   bio:
     it: "Software Engineer at Zalando SE, PostgreSQL contributor"
     en: "Software Engineer at Zalando SE, PostgreSQL contributor"
-  thumbnailUrl: dmitrii_dolgov.jpg
+  thumbnailUrl: dmitrii_dolgov.png
   rockstar: true
   social:
     - {name: "twitter", link: "https://twitter.com/erthalion"}
@@ -187,7 +187,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   bio:
     it: "Fabio Benedetti è CTO di una Startup nata a Bologna a inizio 2018 che mira a rendere più efficiente ed efficacie il mondo del'influencer marketing attraverso algoritmi di ML per aiutare influencer ed aziende. Precedentemente ha conseguito un Dottorato all'università di Modena e ha svolto un periodo di ricerca negli Stati Uniti occupandosi di Semantic Web, NLP e Database."
     en: "Fabio Benedetti è CTO di una Startup nata a Bologna a inizio 2018 che mira a rendere più efficiente ed efficacie il mondo del'influencer marketing attraverso algoritmi di ML per aiutare influencer ed aziende. Precedentemente ha conseguito un Dottorato all'università di Modena e ha svolto un periodo di ricerca negli Stati Uniti occupandosi di Semantic Web, NLP e Database."
-  thumbnailUrl: fabio_benedetti.jpg
+  thumbnailUrl: fabio_benedetti.png
   rockstar: true
   social:
     - {name: "linkedin", link: "https://www.linkedin.com/in/fabiobenedetti85/"}
@@ -217,7 +217,7 @@ Dal 2018 è CTO di Esosphera, società che si occupa di sviluppo di servizi omni
   bio:
     it: "Ronan Dunklau is a PostgreSQL DBA, working at PeopleDoc. He co-authored the Multicorn and pg_qualstats extensions, as well as various contributions to PostgreSQL core and the PostGIS indexing code."
     en: "Ronan Dunklau is a PostgreSQL DBA, working at PeopleDoc. He co-authored the Multicorn and pg_qualstats extensions, as well as various contributions to PostgreSQL core and the PostGIS indexing code."
-  thumbnailUrl: ronan_dunklau.jpg
+  thumbnailUrl: ronan_dunklau.png
   rockstar: true
   social:
     - {name: "github", link: "https://github.com/rdunklau/"}
