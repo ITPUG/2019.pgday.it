@@ -86,16 +86,20 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   company: "Loxodata"
   title: "PostgreSQL consultant and trainer"
   bio:
-    it: "Federico lavora come consulente e formatore PostgreSQL per Loxodata.
-Ha iniziato la sua carriera lavorativa come DBA Oracle nel 2004 e nel 2007 si è dedicato a PostgreSQL.
-In precedenza ha lavorato come data engineer presso Transferwise.
-Dopo vari anni vissuti nel regno unito si è recentemente spostato nel sud della Francia.
-Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedicarsi alla cucina tradizionale Napoletana."
-    en: "Federico lavora come consulente e formatore PostgreSQL per Loxodata.
-Ha iniziato la sua carriera lavorativa come DBA Oracle nel 2004 e nel 2007 si è dedicato a PostgreSQL.
-In precedenza ha lavorato come data engineer presso Transferwise.
-Dopo vari anni vissuti nel regno unito si è recentemente spostato nel sud della Francia.
-Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero ama dedicarsi alla cucina tradizionale Napoletana."
+    it: "Federico lavora come freelance devops e data engineer specializzato in
+PostgreSQL. Ha iniziato la sua carriera lavorativa come DBA Oracle nel
+2004 per poi passare nel 2007 a PostgreSQL. In precedenza ha lavorato
+come data engineer presso Transferwise. Dopo vari anni vissuti nel regno
+unito rientrato in Italia.
+Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero
+ama dedicarsi alla cucina tradizionale Napoletana."
+    en: "Federico lavora come freelance devops e data engineer specializzato in
+PostgreSQL. Ha iniziato la sua carriera lavorativa come DBA Oracle nel
+2004 per poi passare nel 2007 a PostgreSQL. In precedenza ha lavorato
+come data engineer presso Transferwise. Dopo vari anni vissuti nel regno
+unito rientrato in Italia.
+Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero
+ama dedicarsi alla cucina tradizionale Napoletana."
   thumbnailUrl: federico_campoli.jpg
   rockstar: true
   social:
