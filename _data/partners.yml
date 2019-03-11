@@ -40,18 +40,27 @@
         Subito is part of Schibsted Media Group (www.schibsted.com), a Norwegian multinational company founded in 1839. The Group has 6,900 employees and operates successfully in 29 Countries in publishing (newspapers, TV and free press), digital (news and classified ads) and mobile (services) markets."
       link: "https://www.subito.it/"
       imageUrl: "subito.jpg"
+    -
+      name:
+        it: "Entrprise DB"
+        en: "Entrprise DB"
+      description:
+        it: ""
+        en: ""
+      link: "https://www.enterprisedb.com/"
+      imageUrl: "EnterpriseDB_corporate_logo.png"
 -
   group: "Silver Partners"
   elements:
     -
       name:
-        it: ""
-        en: ""
+        it: "Metodo"
+        en: "Metodo"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Metodo e' una societa' di informatica sul mercato da oltre trenta anni. Gia' dalla seconda meta' degli '90  ha intuito l'impatto che il modello di sviluppo open source avrebbe avuto sul mercato delle applicazioni e dei sistemi operativi, adottando come tecnologia server le primissime versioni del sistema operativo Linux. Dal 2001 le soluzioni Metodo si estendono anche al desktop ed attualmente sono utilizzate su oltre 1200 posti di lavoro. Sviluppa il software gestionale OpenMetopack che, affiancato dalla stabilita' della piattaforma Linux, costituisce una ottima soluzione integrata per Imprese e Associazioni di Categoria con un installato di oltre 500 impianti. Il database SQL di riferimento e' PostgreSQL."
+        en: "Metodo has been an IT Company in the market for over thirty years. In the second half of the 1990s Metodo realized the impact that the open source development model would have on the market of applications and operating systems, adopting the first versions of the Linux operating system as their server technology. Since 2001, Metodo solutions has also extended to desktop and is currently used on over 1200 jobs. They develop OpenMetopack's management software, and coupled with the Linux platform stability, it is a great integrated solution for both Enterprises and Associations with a capacity of over 500 installations. The SQL database is PostgreSQL."
+      link: "http://www.metodo.net/metodo/home"
+      imageUrl: "logo_metodo_3.png"
 -
   group: "Bronze Partners"
   elements:
@@ -62,6 +71,24 @@
       description:
         it: "Citus è Postgres senza preoccupazioni, costruito per scalare. Realizzato per SaaS e per enterprise, Citus è un'estensione di Postgres che distribuisce dati e query su più nodi. Se è necessario ridimensionare un'app multi-tenant - o creare dashboard analitici in tempo reale che richiedono risposte inferiori al secondo - Citus semplifica lo sharding di Postgres. Il nostro database distribuito Citus è disponibile come open source, come software enterprise e come database as a service."
         en: "Citus is worry-free Postgres that is built to scale out. Made for SaaS and enterprises, Citus is an extension to Postgres that distributes data and queries across multiple nodes. Whether you need to scale out a multi-tenant app — or are building real-time analytics dashboards that require sub-second responses — Citus makes it simple to shard Postgres. Our Citus distributed database is available as open source, as enterprise software, and as a fully-managed database as a service."
+      link: "https://www.webforma.it/"
+      imageUrl: "forma.png"
+    -
+      name:
+        it: "Forma SRL"
+        en: "Forma SRL"
+      description:
+        it: "Forma, fin dalla sua nascita nel 1995, ha adottato PostgreSQL per lo
+             sviluppo di applicazioni. Può vantare pertanto una più che ventennale
+             esperienza con PostsgreSQL.
+             Forma srl, con sede a Vicenza, è composta da un team di programmatori
+             qualificati e specializzati nella realizzazione di portali e
+             applicazioni web per grandi aziende, PMI e Pubblica Amministrazione.
+             Con PostgreSQL Forma ha realizzato centinaia di applicazioni: portali
+             internet/intranet per Aziende sanitarie e altre PA, database
+             multimediali per archivi di beni culturali, soluzioni di e-commerce e
+             molte altre applicazioni di vario genere."
+        en: ""
       link: "https://www.citusdata.com/"
       imageUrl: "Citus_Data.png"
 -
@@ -97,3 +124,13 @@
         en: ""
       link: "http://www.comune.zolapredosa.bo.it/"
       imageUrl: "zola.png"
+    -
+      name:
+        it: "Regione Emilia Romagna"
+        en: "Regione Emilia Romagna"
+      description:
+        it: ""
+        en: ""
+      link: "https://www.regione.emilia-romagna.it/"
+      imageUrl: "emilia-romagna.jpg"
+-
