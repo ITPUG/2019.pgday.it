@@ -45,8 +45,8 @@
         it: "Entrprise DB"
         en: "Entrprise DB"
       description:
-        it: ""
-        en: ""
+        it: "EnterpriseDB (EDB), the Enterprise Postgres company, delivers an open source-based data management platform, optimized for greater scalability, security, and reliability. EDB is leading global provider of Postgres with 16 offices worldwide, EDB enhances Postgres making it enterprise ready. EDB Postgres makes organizations smarter while reducing risk and complexity with enterprise-proven management tools, security enhancements and Oracle compatibility. Over 4,000 customers worldwide including ABN AMRO, the American Automobile Association (AAA), Clear Capital, EMC, Ericsson, KT Corporation, MasterCard, the National Health Service (U.K.), Netflix, Nokia Siemens, S-Kreditpartner GmbH, Sony, Staples, the Nielsen Company, TransUnion, and U.S. Cellular have turned to EDB."
+        en: "EnterpriseDB (EDB), the Enterprise Postgres company, delivers an open source-based data management platform, optimized for greater scalability, security, and reliability. EDB is leading global provider of Postgres with 16 offices worldwide, EDB enhances Postgres making it enterprise ready. EDB Postgres makes organizations smarter while reducing risk and complexity with enterprise-proven management tools, security enhancements and Oracle compatibility. Over 4,000 customers worldwide including ABN AMRO, the American Automobile Association (AAA), Clear Capital, EMC, Ericsson, KT Corporation, MasterCard, the National Health Service (U.K.), Netflix, Nokia Siemens, S-Kreditpartner GmbH, Sony, Staples, the Nielsen Company, TransUnion, and U.S. Cellular have turned to EDB."
       link: "https://www.enterprisedb.com/"
       imageUrl: "EnterpriseDB_corporate_logo.png"
 -
@@ -72,7 +72,7 @@
         it: "Citus è Postgres senza preoccupazioni, costruito per scalare. Realizzato per SaaS e per enterprise, Citus è un'estensione di Postgres che distribuisce dati e query su più nodi. Se è necessario ridimensionare un'app multi-tenant - o creare dashboard analitici in tempo reale che richiedono risposte inferiori al secondo - Citus semplifica lo sharding di Postgres. Il nostro database distribuito Citus è disponibile come open source, come software enterprise e come database as a service."
         en: "Citus is worry-free Postgres that is built to scale out. Made for SaaS and enterprises, Citus is an extension to Postgres that distributes data and queries across multiple nodes. Whether you need to scale out a multi-tenant app — or are building real-time analytics dashboards that require sub-second responses — Citus makes it simple to shard Postgres. Our Citus distributed database is available as open source, as enterprise software, and as a fully-managed database as a service."
       link: "https://www.webforma.it/"
-      imageUrl: "forma.png"
+      imageUrl: "Citus_Data.png"
     -
       name:
         it: "Forma SRL"
@@ -90,7 +90,7 @@
              molte altre applicazioni di vario genere."
         en: ""
       link: "https://www.citusdata.com/"
-      imageUrl: "Citus_Data.png"
+      imageUrl: "forma.png"
 -
   group: "Media Partners"
   elements:
