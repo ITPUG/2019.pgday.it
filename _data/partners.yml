@@ -71,7 +71,7 @@
       description:
         it: "Citus è Postgres senza preoccupazioni, costruito per scalare. Realizzato per SaaS e per enterprise, Citus è un'estensione di Postgres che distribuisce dati e query su più nodi. Se è necessario ridimensionare un'app multi-tenant - o creare dashboard analitici in tempo reale che richiedono risposte inferiori al secondo - Citus semplifica lo sharding di Postgres. Il nostro database distribuito Citus è disponibile come open source, come software enterprise e come database as a service."
         en: "Citus is worry-free Postgres that is built to scale out. Made for SaaS and enterprises, Citus is an extension to Postgres that distributes data and queries across multiple nodes. Whether you need to scale out a multi-tenant app — or are building real-time analytics dashboards that require sub-second responses — Citus makes it simple to shard Postgres. Our Citus distributed database is available as open source, as enterprise software, and as a fully-managed database as a service."
-      link: "https://www.webforma.it/"
+      link: "https://www.citusdata.com/"
       imageUrl: "Citus_Data.png"
     -
       name:
@@ -89,7 +89,7 @@
              multimediali per archivi di beni culturali, soluzioni di e-commerce e
              molte altre applicazioni di vario genere."
         en: ""
-      link: "https://www.citusdata.com/"
+      link: "https://www.webforma.it/"
       imageUrl: "forma.png"
 -
   group: "Media Partners"
