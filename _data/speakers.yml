@@ -86,20 +86,19 @@ He works at 2ndQuadrant, a global service and support provider for PostgreSQL."
   company: "Loxodata"
   title: "PostgreSQL consultant and trainer"
   bio:
-    it: "Federico lavora come freelance devops e data engineer specializzato in
-PostgreSQL. Ha iniziato la sua carriera lavorativa come DBA Oracle nel
-2004 per poi passare nel 2007 a PostgreSQL. In precedenza ha lavorato
-come data engineer presso Transferwise. Dopo vari anni vissuti nel regno
-unito rientrato in Italia.
+    it: "Federico lavora come freelance devops e data engineer con grande
+esperienza in PostgreSQL. Ha iniziato la sua carriera lavorativa come
+DBA Oracle nel 2004 per poi passare nel 2007 a PostgreSQL. In precedenza
+ha lavorato come data engineer presso Transferwise.
+Dopo vari anni vissuti nel Regno Unito è di recente rientrato in Italia.
 Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero
 ama dedicarsi alla cucina tradizionale Napoletana."
-    en: "Federico lavora come freelance devops e data engineer specializzato in
-PostgreSQL. Ha iniziato la sua carriera lavorativa come DBA Oracle nel
-2004 per poi passare nel 2007 a PostgreSQL. In precedenza ha lavorato
-come data engineer presso Transferwise. Dopo vari anni vissuti nel regno
-unito rientrato in Italia.
-Sviluppatore Python e fotografo analogico amatoriale, nel tempo libero
-ama dedicarsi alla cucina tradizionale Napoletana."
+    en: "Federico is a freelance devops e data engineer with long experience on
+PostgreSQL. He started his career as Oracle DBA in 2004 and fell in love
+with PostgreSQL in 2007. Previously he worked as data engineer for
+Transferwise. After several years spent in the UK is now back to Italy.
+He's an amateur analogue photographer and Python developer.
+In the free time he like to cook traditional Neapolitan's recipes."
   thumbnailUrl: federico_campoli.jpg
   rockstar: true
   social:
