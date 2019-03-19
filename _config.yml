@@ -646,7 +646,7 @@ workshopsRows:
        When you first start running your queries it looks like the database is doing some magic and returning your results very fast. After you gain some confidence in writing more complex queries you see that the magic sometimes doesn’t work. Why does the database fail to do its job? To see the reasons why your queries run slowly you can use the EXPLAIN command which devises a detailed query plan of your query. After reading it, you should figure out exactly what is going on with the query, and easily find a way to fix it. In this workshop, we will start with simple queries and joins, and make our way up to subselects, CTE-s and stored procedures. To see all this in action we will use the textual representation of the EXPLAIN and the help of pgAdminIII/4 and other available tools. We will also try to remodel existing databases to be able to use better index types, making queries faster. If time allows it, we can try to fix some problematic queries attendees bring from home 😎
  - image: marco_nenciarini_verticale.jpg
    title:
-     it: "Kubernetes & PostgreSQL"
+     it: "Introduzione a Kubernetes"
      en: "Kubernetes & PostgreSQL"
    author:
      name: "Marco Nenciarini"
@@ -656,9 +656,9 @@ workshopsRows:
      en: May 16th, 2019 - time 2pm
    details:
      it: |
-       ______
+       Workshop introduttivo su Docker e Kubernetes. Docker è un progetto open source che automatizza il deployment di applicazioni all’intero di Container software.  Kubernetes è una piattaforma open source che automatizza le operazioni sui container Linux, eliminando molti dei processi manuali necessari per eseguire il deployment e scalare le applicazioni containerizzate. Il workshop è rivolto a chi ha familiarità con gli ambienti unix ed è curioso di sperimentare Docker e Kubernetes. Durante il workshop affronteremo i seguenti argomenti: Introduzione ai container, Architettura di Docker, Operazioni di base con Docker, Comunicazione fra container, Deploy con Docker Compose, Introduzione a Kubernetes, Architettura di Kubernetes, Operazioni di base con Kubernetes, Gestione di connessioni interne ed esterne, Volumi persistenti, Deploy con Kubernetes. Per partecipare al workshop sarà necessario avere un portatile con sistema operativo Linux o OSX.
      en: |
-       ______
+       Workshop introduttivo su Docker e Kubernetes. Docker è un progetto open source che automatizza il deployment di applicazioni all’intero di Container software.  Kubernetes è una piattaforma open source che automatizza le operazioni sui container Linux, eliminando molti dei processi manuali necessari per eseguire il deployment e scalare le applicazioni containerizzate. Il workshop è rivolto a chi ha familiarità con gli ambienti unix ed è curioso di sperimentare Docker e Kubernetes. Durante il workshop affronteremo i seguenti argomenti: Introduzione ai container, Architettura di Docker, Operazioni di base con Docker, Comunicazione fra container, Deploy con Docker Compose, Introduzione a Kubernetes, Architettura di Kubernetes, Operazioni di base con Kubernetes, Gestione di connessioni interne ed esterne, Volumi persistenti, Deploy con Kubernetes. Per partecipare al workshop sarà necessario avere un portatile con sistema operativo Linux o OSX.
  - image: leonardo_cecchi_verticale.jpg
    title:
      it: "Gli elefanti non hanno paura della ruggine"
