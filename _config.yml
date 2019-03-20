@@ -443,20 +443,17 @@ pgbeerTitle:
     en: ""
 pgbeerDescription:
     it: "
-    <h6>
-    L'occasione per rompere il giaccio, condividere le esperienze, prima del PGDay.IT 2019.<h6/><br/>
-    <h6>
-    La serata prevede cibo e musica dal vivo!<h6/><br/>
-    <h6>
-    Dove ci troviamo? Ma a bordo piscina! <h6/><br/>"
+    <h6>Come nostro costume: l'immancabile pg_beer!<h6/>
+    <h6>L'occasione per rompere il giaccio prima della Conferenza.<h6/>
+    <h6>Tutti gli speaker sono stati invitati e la maggior parte di loro sarà presente.<h6/>
+    <h6>La serata è aperta a tutti i partecipanti, ma il numero è limitato!<h6/>
+    <h6>Andiamo, non puoi mancare!<h6/>"
     en: "
-    <h6>
-    The opportunity to break the ice, share experiences, before the PGDay.IT 2019.<h6/><br/>
-    <h6>
-    The evening includes food and live music!<h6/><br/>
-    <h6>
-    Where will we meet? But at the poolside!<h6/><br/>"
-
+    <h6>Like our costume: the inevitable pg_beer!<h6/>
+    <h6>The opportunity to break the ice before the Conference.<h6/>
+    <h6>All the speakers have been invited and most of them will join us.<h6/>
+    <h6>The evening is open to all participants, but the number is limited!<h6/>
+    <h6>Come on, you can't miss!<h6/>"
 enablePgbeer: true
 
 # Pgbeer About Block
@@ -483,21 +480,21 @@ enablePgbeer: true
 #     <p>
 #       Rock music in the background and possibility to choose your favorite songs directly from the jukebox in the main room.<br/>"
 
-pgbeerDetailsCards:
- - {lang: "it", title: "Work in progress", information: 'La Pg_beer è in fase di organizzazione. Presto i dettagli online.'}
- - {lang: "en", title: "Work in progress", information: 'The Pg_beer is being organized. Soon the details online.'}
+#pgbeerDetailsCards:
+# - {lang: "it", title: "Isola dei Drink", information: 'Birra: 1 bottiglia a persona, sceltra tra Moretti, Heineken, Ichnusa; Vino: Lambrusco di Grasparossa "Nivola" Chiarli, 1 bottilgia ogni 3 persone; Coca Cola; Acqua'}
+# - {lang: "en", title: "Island of Drinks", information: '___'}
 
-# - {lang: "it", title: "Antipasti", information: '_____'}
-# - {lang: "en", title: "Appetizers", information: '_____'}
+# - {lang: "it", title: "Isola del Primo", information: 'Insalata di cereali con verdure OPPURE Pasta fredda con pomodoro pachino, mozzarella e basilico'}
+# - {lang: "en", title: "Island of the First plate", information: '____'}
 
-# - {lang: "it", title: "Primi piatti CALDI:", information: '_______'}
-# - {lang: "en", title: "First HOT dishes:", information: '_______'}
+# - {lang: "it", title: "Isola dello Sfizio", information: 'Cesti di Crescentine Fritte (Gnocco Fritto); Cesti di Tigelle Montanare; Cesti di Pane, Focacce e Grissini; Salumi Regionali: Crudo di Parma, Cotto di Vignola, Salame di Felino Stagionato, Coppa di Testa Montanara, Mortadella DOP Bologna; Pesto Classico Montanaro (Pancetta, Aglio e Rosmarino); Mostarde Assortite; Formaggi Assortiti; Sottoli e Sottaceti Assortiti'}
+# - {lang: "en", title: "Island of Whim", information: '_______'}
 
-# - {lang: "it", title: "Primi piatti FREDDI", information: '_____'}
-# - {lang: "en", title: "First COLD dishes", information: '_____'}
+# - {lang: "it", title: "Isola dei Fritti", information: 'Olive alla Ascolana; Mozzarelline; Panzerotti di Mozzarella e Pomodoro; Crema Fritta; Pepite di Pollo; Salvia; Anelli di Cipolla.'}
+# - {lang: "en", title: "Island of Fried", information: '_____'}
 
-# - {lang: "it", title: "Secondi piatti", information: '________'}
-# - {lang: "en", title: "Second dishes", information: '________'}
+# - {lang: "it", title: "IMPORTANTE", information: 'Eventuali bevute aggiuntive, oltre a quelle comprese nella convenzione, dovranno essere pagate a parte. Ad esempio: Bottiglia di Birra € 4,00 - Bottiglia di Vino € 12,00'}
+# - {lang: "en", title: "IMPORTANT", information: '________'}
 
 # - {lang: "it", title: "Contorni", information: '_____'}
 # - {lang: "en", title: "Side dishes", information: '_______'}
@@ -507,17 +504,17 @@ pgbeerDetailsCards:
 
 ## Pgbeer Tickets Block
 #pgbeerTicketsTitle:
-#    it: "Prezzo pg_beer"
-#    en: "pg_beer price"
+#    it: "Prezzo PG_beer"
+#    en: "PG_beer price"
 #pgbeerTicketsInfo:
-#    it: "pg_beer: Food and Live Music"
-#    en: "pg_beer: Food and Live Music"
+#    it: "PG_beer 2019"
+#    en: "PG_beer 2019"
 #pgbeerTicketsOffers:
 # -
 #  name:
-#    it: "pg_beer: Food and Live Music"
-#    en: "pg_beer: Food and Live Music"
-#  price: "24,00"
+#    it: "PG_beer 2019"
+#    en: "PG_beer 2019"
+#  price: "25,50"
 #  priceCurrency: "€"
 #  buyButtonLink: "https://itpug.eventbee.com/event?eid=151678914"
 #  buyButtonText:
@@ -526,27 +523,27 @@ pgbeerDetailsCards:
 #  pgbeerTicketContentList:
 #    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
 #    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
-#  validFrom: "2019-02-15T10:00"
+#  validFrom: "2019-03-19T10:00"
 #  validThrough: "2019-05-14T23:59"
 #  disabled: false
 
 # Pgbeer Location Block
-pgbeerLocationBlockTitle: "Location"
-pgbeerLocationName: "Admiral Park Hotel"
-pgbeerLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
-pgbeerStreetAddress: "Via Fontanella, 3"
-pgbeerAddressLocality: "Zola Predosa - Bologna"
-pgbeerddressLocalityRegion: "(BO)"
-pgbeerPostalCode: "40069"
-pgbeerAddressCountry: "Italy"
-pgbeerStartTime: "2019-05-16T19:45"
-pgbeerDoorTime: "19:30"
-pgbeerEndTime: "2019-05-16T23:59"
-viewOnMap: "View on Google Maps"
-pgbeerPlaceCoordinates: "44.4627324, 11.1992285"
-pgbeerMapCenterCoordinates: "44.4627324, 11.1992285"
-pgbeerMapMobileCenterCoordinates: "44.4627324, 11.1992285"
-enablePgbeer: true
+#pgbeerLocationBlockTitle: "Location"
+#pgbeerLocationName: "Admiral Park Hotel"
+#pgbeerLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
+#pgbeerStreetAddress: "Via Fontanella, 3"
+#pgbeerAddressLocality: "Zola Predosa - Bologna"
+#pgbeerddressLocalityRegion: "(BO)"
+#pgbeerPostalCode: "40069"
+#pgbeerAddressCountry: "Italy"
+#pgbeerStartTime: "2019-05-16T19:45"
+#pgbeerDoorTime: "19:30"
+#pgbeerEndTime: "2019-05-16T23:59"
+#viewOnMap: "View on Google Maps"
+#pgbeerPlaceCoordinates: "44.4627324, 11.1992285"
+#pgbeerMapCenterCoordinates: "44.4627324, 11.1992285"
+#pgbeerMapMobileCenterCoordinates: "44.4627324, 11.1992285"
+#enablePgbeer: true
 
 # Workshop
 workshopDetailsImage: "workshop-details.jpg"
