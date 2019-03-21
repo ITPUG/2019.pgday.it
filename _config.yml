@@ -447,103 +447,91 @@ pgbeerDescription:
     <h6>L'occasione per rompere il giaccio prima della Conferenza.<h6/>
     <h6>Tutti gli speaker sono stati invitati e la maggior parte di loro sarà presente.<h6/>
     <h6>La serata è aperta a tutti i partecipanti, ma il numero è limitato!<h6/>
-    <h6>Andiamo, non puoi mancare!<h6/>"
+    <h6>Andiamo, non puoi mancare!<h6/>
+    <h6>Dove? Trattoria Rivabella.<h6/>"
     en: "
     <h6>Like our costume: the inevitable pg_beer!<h6/>
     <h6>The opportunity to break the ice before the Conference.<h6/>
     <h6>All the speakers have been invited and most of them will join us.<h6/>
     <h6>The evening is open to all participants, but the number is limited!<h6/>
-    <h6>Come on, you can't miss!<h6/>"
+    <h6>Come on, you can't miss!<h6/>
+    <h6>Where? Trattoria Rivabella.<h6/>"
 enablePgbeer: true
 
 # Pgbeer About Block
-#aboutPgbeerTitle:
-#    it: "Rock Star Restaurant"
-#    en: "Rock Star Restaurant"
-#aboutPgbeerDescription:
-#  it: "
-#     <p>
-#       Rock Star Restaurant è un ristorante american style.<br/>
-#     <p>
-#       Il Menù All You Can Eat & Drink ti da inoltre la possibilità di assaggiare molti tipi di pietanze dalle Costine marinate in salsa BBQ o i Club Sandwich fino a piatti vegetariani e vegani come insalate e addirittura l' Hamburger Veggie. I Dolci? Ovviamente il giusto finale.<br/>
-#     <p>
-#       Il tutto con Pepsi, Birra o Vino No Limits.<br/>
-#     <p>
-#       Musica rock in sottofondo e possibilità di scegliere i propri brani preferiti direttamente dal jukebox nella sala principale.<br/>"
-#  en: "
-#     <p>
-#       Rock Star Restaurant is an American style restaurant.<br/>
-#     <p>
-#       The All You Can Eat & Drink menu give you the possibility to taste different kind of plates from the BBQ Ribs or a Club Sandwich to vegetarian and vegan dishes like salads and Hamburger Veggie. Desserts? The best ending.<br/>
-#     <p>
-#       Everything with Pepsi, Bear o Wine No Limits.<br/>
-#     <p>
-#       Rock music in the background and possibility to choose your favorite songs directly from the jukebox in the main room.<br/>"
+aboutPgbeerTitle:
+    it: ""
+    en: ""
+aboutPgbeerDescription:
+  it: "
+     <p>
+       La storia della Trattoria Rivabella inizia molto tempo fa, quando Nonno Oreste e Nonna Clelia si stabilirono in questo borgo con i loro tre figli, Giancarlo, Chiarina e Iole, ridando vita all’antica Osteria di Rivabella. Giancarlo, assieme alla moglie Anna Maria (Nonna Bibi), trasformarono l’Osteria nella Trattoria Rivabella, proponendo i piatti classici della tradizione bolognese preparati con i migliori ingredienti seguendo le antiche ricette famigliari.<br/>
+     <p>
+       Tra i tanti gustosi piatti proposti, imperdibili le famose crescentine e le tigelle fatte in casa da nonna Bibi, la cui ricetta si tramanda di generazione in generazione e viene segretamente custodita come un prezioso tesoro.<br/>"
+  en: "
+     <p>
+       The history of the Trattoria Rivabella begins long ago, when Nonno Oreste and Nonna Clelia settled in this village with their three children, Giancarlo, Chiarina and Iole, giving new life to the ancient Osteria di Rivabella. Giancarlo, together with his wife Anna Maria (Nonna Bibi), transformed the Osteria in the Trattoria Rivabella, offering the classic dishes of the Bolognese tradition prepared with the best ingredients following the ancient family recipes.<br/>
+     <p>
+       Among the many tasty dishes offered, you should not miss the famous crescentine and homemade tigelle by grandma Bibi, whose recipe is handed down from generation to generation and is secretly kept as a precious treasure.<br/>"
 
-#pgbeerDetailsCards:
-# - {lang: "it", title: "Isola dei Drink", information: 'Birra: 1 bottiglia a persona, sceltra tra Moretti, Heineken, Ichnusa; Vino: Lambrusco di Grasparossa "Nivola" Chiarli, 1 bottilgia ogni 3 persone; Coca Cola; Acqua'}
-# - {lang: "en", title: "Island of Drinks", information: '___'}
+pgbeerDetailsCards:
+ - {lang: "it", title: "Tris di Primi", information: 'Tagliatelle al ragù, Gramigna ala salsiccia e Tortelloni burro e salvia'}
+ - {lang: "en", title: "Tris of first plates", information: 'Tagliatelle with ragu souce, Gramigna (tipical pasta) with sausage souce and Tortelloni with butter and sage souce'}
 
-# - {lang: "it", title: "Isola del Primo", information: 'Insalata di cereali con verdure OPPURE Pasta fredda con pomodoro pachino, mozzarella e basilico'}
-# - {lang: "en", title: "Island of the First plate", information: '____'}
+ - {lang: "it", title: "Tigelle e Crescentine", information: 'Tigelle e Crescentine con affettati, Squacquerone, Sottolio, Cipolle rosse di Tropea sotto aceto, Pesto montanaro bolognese, Friggione'}
+ - {lang: "en", title: "Tigelle and Crescentine", information: 'Tigelle and Crescentine with cold cuts, Squacquerone (typical cheese), vegetables in oil, red Tropea onions in vinegar, Bolognese pesto mountaineer, Friggione (Bolognese typical plate)'}
 
-# - {lang: "it", title: "Isola dello Sfizio", information: 'Cesti di Crescentine Fritte (Gnocco Fritto); Cesti di Tigelle Montanare; Cesti di Pane, Focacce e Grissini; Salumi Regionali: Crudo di Parma, Cotto di Vignola, Salame di Felino Stagionato, Coppa di Testa Montanara, Mortadella DOP Bologna; Pesto Classico Montanaro (Pancetta, Aglio e Rosmarino); Mostarde Assortite; Formaggi Assortiti; Sottoli e Sottaceti Assortiti'}
-# - {lang: "en", title: "Island of Whim", information: '_______'}
+ - {lang: "it", title: "Per i Vegetariani", information: 'Bis di primi: Tortelloni burro e salvia e spaghetti alla contadina (leggermente piccante) - Tigelle e crescentine (vegetariane) vedi sopra, con verdure alla griglia'}
+ - {lang: "en", title: "For Vegetarians", information: 'Bis of first courses: Tortelloni with butter and sage and Spaghetti alla contadina (slightly spicy) - Tigelle and Crescentine (vegetarian), with grilled vegetables'}
 
-# - {lang: "it", title: "Isola dei Fritti", information: 'Olive alla Ascolana; Mozzarelline; Panzerotti di Mozzarella e Pomodoro; Crema Fritta; Pepite di Pollo; Salvia; Anelli di Cipolla.'}
-# - {lang: "en", title: "Island of Fried", information: '_____'}
+ - {lang: "it", title: "Il tutto accompagnato da:", information: 'Vino della casa (bianco Pignoletto frizzante e rosso Sangiovese), birra o bibite'}
+ - {lang: "en", title: "All accompanied by:", information: 'House wine (white sparkling Pignoletto and red Sangiovese), beer or soft drinks'}
 
-# - {lang: "it", title: "IMPORTANTE", information: 'Eventuali bevute aggiuntive, oltre a quelle comprese nella convenzione, dovranno essere pagate a parte. Ad esempio: Bottiglia di Birra € 4,00 - Bottiglia di Vino € 12,00'}
-# - {lang: "en", title: "IMPORTANT", information: '________'}
+ - {lang: "it", title: "A chiusura", information: 'Liquori fatti in casa: Limoncello e Liquirizia per arrivare al caffè'}
+ - {lang: "en", title: "At closure", information: 'Homemade liqueurs: Limoncello and Liquorice to close with coffee'}
 
-# - {lang: "it", title: "Contorni", information: '_____'}
-# - {lang: "en", title: "Side dishes", information: '_______'}
-
-# - {lang: "it", title: "Dessert", information: '________'}
-# - {lang: "en", title: "Dessert", information: '_______'}
-
-## Pgbeer Tickets Block
-#pgbeerTicketsTitle:
-#    it: "Prezzo PG_beer"
-#    en: "PG_beer price"
-#pgbeerTicketsInfo:
-#    it: "PG_beer 2019"
-#    en: "PG_beer 2019"
-#pgbeerTicketsOffers:
-# -
-#  name:
-#    it: "PG_beer 2019"
-#    en: "PG_beer 2019"
-#  price: "25,50"
-#  priceCurrency: "€"
-#  buyButtonLink: "https://itpug.eventbee.com/event?eid=151678914"
-#  buyButtonText:
-#    it: "Acquistalo adesso"
-#    en: "Get it now"
-#  pgbeerTicketContentList:
-#    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
-#    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
-#  validFrom: "2019-03-19T10:00"
-#  validThrough: "2019-05-14T23:59"
-#  disabled: false
+# Pgbeer Tickets Block
+pgbeerTicketsTitle:
+    it: "Prezzo PG_beer"
+    en: "PG_beer price"
+pgbeerTicketsInfo:
+    it: "PG_beer 2019"
+    en: "PG_beer 2019"
+pgbeerTicketsOffers:
+ -
+  name:
+    it: "PG_beer 2019"
+    en: "PG_beer 2019"
+  price: "25,00"
+  priceCurrency: "€"
+  buyButtonLink: "https://itpug.eventbee.com/event?eid=151678914"
+  buyButtonText:
+    it: "Acquistalo adesso"
+    en: "Get it now"
+  pgbeerTicketContentList:
+    it: ["Pg_beer - PGDay.IT 2019", "16 maggio", "Bologna"]
+    en: ["Pg_beer - PGDay.IT 2019", "May 16th", "Bologna"]
+  validFrom: "2019-03-19T10:00"
+  validThrough: "2019-05-14T23:59"
+  disabled: false
 
 # Pgbeer Location Block
-#pgbeerLocationBlockTitle: "Location"
-#pgbeerLocationName: "Admiral Park Hotel"
-#pgbeerLocationLink: "http://www.admiralparkhotel.com/centro-congressi/"
-#pgbeerStreetAddress: "Via Fontanella, 3"
-#pgbeerAddressLocality: "Zola Predosa - Bologna"
-#pgbeerddressLocalityRegion: "(BO)"
-#pgbeerPostalCode: "40069"
-#pgbeerAddressCountry: "Italy"
-#pgbeerStartTime: "2019-05-16T19:45"
-#pgbeerDoorTime: "19:30"
-#pgbeerEndTime: "2019-05-16T23:59"
-#viewOnMap: "View on Google Maps"
-#pgbeerPlaceCoordinates: "44.4627324, 11.1992285"
-#pgbeerMapCenterCoordinates: "44.4627324, 11.1992285"
-#pgbeerMapMobileCenterCoordinates: "44.4627324, 11.1992285"
-#enablePgbeer: true
+pgbeerLocationBlockTitle: "Location"
+pgbeerLocationName: "Trattoria Rivabella"
+pgbeerLocationLink: "http://www.trattoriarivabella.it/index.html"
+pgbeerStreetAddress: "Via Gesso 199"
+pgbeerAddressLocality: "Zola Predosa - Bologna"
+pgbeerddressLocalityRegion: "(BO)"
+pgbeerPostalCode: "40069"
+pgbeerAddressCountry: "Italy"
+pgbeerStartTime: "2019-05-16T20:00"
+pgbeerDoorTime: "20:00"
+pgbeerEndTime: "2019-05-16T23:59"
+viewOnMap: "View on Google Maps"
+pgbeerPlaceCoordinates: "44.468279, 11.1997933,17"
+pgbeerMapCenterCoordinates: "44.468279, 11.1997933,17"
+pgbeerMapMobileCenterCoordinates: "44.468279, 11.1997933,17"
+enablePgbeer: true
 
 # Workshop
 workshopDetailsImage: "workshop-details.jpg"
