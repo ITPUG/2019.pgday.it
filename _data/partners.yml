@@ -49,6 +49,15 @@
         en: "EnterpriseDB (EDB), the Enterprise Postgres company, delivers an open source-based data management platform, optimized for greater scalability, security, and reliability. EDB is leading global provider of Postgres with 16 offices worldwide, EDB enhances Postgres making it enterprise ready. EDB Postgres makes organizations smarter while reducing risk and complexity with enterprise-proven management tools, security enhancements and Oracle compatibility. Over 4,000 customers worldwide including ABN AMRO, the American Automobile Association (AAA), Clear Capital, EMC, Ericsson, KT Corporation, MasterCard, the National Health Service (U.K.), Netflix, Nokia Siemens, S-Kreditpartner GmbH, Sony, Staples, the Nielsen Company, TransUnion, and U.S. Cellular have turned to EDB."
       link: "https://www.enterprisedb.com/"
       imageUrl: "EnterpriseDB_corporate_logo.png"
+    -
+      name:
+        it: "Arcoda"
+        en: "Arcoda"
+      description:
+        it: "Arcoda è una società del mondo ICT che si occupa di piattaforme tecnologiche innovative nel settore del work force management. Il proprio know how fuori dal comune e la capacità di realizzare soluzioni anche molto personalizzate hanno destato l’interesse di aziende di spicco del panorama nazionale e internazionale."
+        en: "Arcoda is an ICT company that focuses on innovative platforms on work force management field. Its outstanding know-how and highly customized solutions represent an attractive for Italian and international big players."
+      link: "https://www.arcoda.it/"
+      imageUrl: "Arcoda.jpg"
 -
   group: "Silver Partners"
   elements:
