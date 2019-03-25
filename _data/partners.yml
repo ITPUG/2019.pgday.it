@@ -54,8 +54,8 @@
         it: "Arcoda"
         en: "Arcoda"
       description:
-        it: "Arcoda è una società del mondo ICT che si occupa di piattaforme tecnologiche innovative nel settore del work force management. Il proprio know how fuori dal comune e la capacità di realizzare soluzioni anche molto personalizzate hanno destato l’interesse di aziende di spicco del panorama nazionale e internazionale."
-        en: "Arcoda is an ICT company that focuses on innovative platforms on work force management field. Its outstanding know-how and highly customized solutions represent an attractive for Italian and international big players."
+        it: "Arcoda è una società del mondo ICT che da un decennio sviluppa con successo piattaforme tecnologiche innovative per lo smart work force management. PostgreSQL e PostGIS sono per noi strumenti di uso quotidiano, che ci permettono di realizzare applicazioni sempre innovative e performanti. La nostra scelta di adottare questa tecnologia è dovuta alle sue caratteristiche e, fattore non meno importante, alla vivace community che contribuisce al suo continuo sviluppo e miglioramento. Ritroviamo con piacere questa community al PGDay 2019, appuntamento al quale anche quest'anno parteciperemo attivamente."
+        en: "Arcoda is an ICT company that for a decade has successfully developed innovative technological platforms for smart work force management. PostgreSQL and PostGIS are everyday tools for us, which allow us to create innovative and high-performance applications. Our choice to adopt this technology is due to its characteristics and, no less important, to the lively community that contributes to its continuous development and improvement. We are pleased to see this community at PGDay 2019, an event that we will actively participate in this year too."
       link: "https://www.arcoda.it/"
       imageUrl: "Arcoda.jpg"
 -
