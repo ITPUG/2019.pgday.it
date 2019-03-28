@@ -105,13 +105,13 @@
   elements:
     -
       name:
-        it: ""
-        en: ""
+        it: "Postgres Women"
+        en: "Postgres Women"
       description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+        it: "Postgres Women is a non-profit organization created to encourage and support women to become active members of the PostgreSQL community and foster recognition of their contribution to PostgreSQL development. We firmly believe that by developing a community with a diverse field of contributors, PostgreSQL has an opportunity to truly become the most advanced open source database not only in technological standards, but also in terms of widespread and diverse community involvement. Be a Postgres Women ally by joining and supporting individuals who identify as women."
+        en: "Postgres Women is a non-profit organization created to encourage and support women to become active members of the PostgreSQL community and foster recognition of their contribution to PostgreSQL development. We firmly believe that by developing a community with a diverse field of contributors, PostgreSQL has an opportunity to truly become the most advanced open source database not only in technological standards, but also in terms of widespread and diverse community involvement. Be a Postgres Women ally by joining and supporting individuals who identify as women."
+      link: "https://twitter.com/PostgresWomen"
+      imageUrl: "postgres_women_final.png"
 -
   group: "Patrocinato da"
   elements:
