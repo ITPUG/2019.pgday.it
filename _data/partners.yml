@@ -112,6 +112,15 @@
         en: "Postgres Women is a non-profit organization created to encourage and support women to become active members of the PostgreSQL community and foster recognition of their contribution to PostgreSQL development. We firmly believe that by developing a community with a diverse field of contributors, PostgreSQL has an opportunity to truly become the most advanced open source database not only in technological standards, but also in terms of widespread and diverse community involvement. Be a Postgres Women ally by joining and supporting individuals who identify as women."
       link: "https://twitter.com/PostgresWomen"
       imageUrl: "postgres_women_final.png"
+    -
+      name:
+        it: ""
+        en: ""
+      description:
+        it: ""
+        en: ""
+      link: ""
+      imageUrl: ""
 -
   group: "Patrocinato da"
   elements:
@@ -142,4 +151,12 @@
         en: ""
       link: "https://www.regione.emilia-romagna.it/"
       imageUrl: "emilia-romagna.jpg"
--
+    -
+      name:
+        it: "ASTER - innovazione attiva"
+        en: "ASTER - innovazione attiva"
+      description:
+        it: "ASTER è la società consortile dell'Emilia-Romagna per l'innovazione e il trasferimento tecnologico al servizio delle imprese, delle università e del territorio. I suoi soci sono la Regione Emilia-Romagna, le Università, gli Enti di Ricerca CNR, ENEA, INFN operanti in regione e il sistema camerale. Promuove la ricerca industriale come motore principale di sviluppo economico sostenibile, in armonia con la crescita e il benessere sociale e collabora con le associazioni imprenditoriali per lo sviluppo di strategie e azioni congiunte tra ricerca e impresa. Da sempre laboratorio di innovazione a livello nazionale e internazionale, ASTER lavora per fare dell'Emilia-Romagna una regione dinamica, inclusiva e sostenibile."
+        en: "ASTER is the Consortium for innovation and technology transfer of Emilia-Romagna. Its partners are the Emilia-Romagna Regional Government, the six Universities and the National Research Centres located in the region (the National Research Council-CNR, the Italian National Agency for New Technologies, Energy and Sustainable Economic Development-ENEA, the National Institute for Nuclear Physics-INFN), the Regional Union of Chambers of Commerce, working in collaboration with regional Business Associations and Innovation Centres. ASTER works in collaboration with enterprises, universities, research centres and institutions for the development of the innovation ecosystem of the territory."
+      link: "https://www.aster.it/"
+      imageUrl: "aster.png"
