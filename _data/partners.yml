@@ -10,18 +10,18 @@
         en: "2ndQuadrant is a team of diligent PostgreSQL experts. Their support engineers have over 100 years of combined code contributions to the PostgreSQL project, making them the only company to contribute enterprise features to all of the last 13 releases. This is paired with 17+ years of hands-on experience through client engagements to allow them to integrate customized solutions with their customers - making 2ndQuadrant the Gold Standard for PostgreSQL products & services."
       link: "https://www.2ndquadrant.com/"
       imageUrl: "2ndQuadrant.png"
--
-  group: "Platinum Partners"
-  elements:
-    -
-      name:
-        it: ""
-        en: ""
-      description:
-        it: ""
-        en: ""
-      link: ""
-      imageUrl: ""
+#-
+#  group: "Platinum Partners"
+#  elements:
+#    -
+#      name:
+#        it: ""
+#        en: ""
+#      description:
+#        it: ""
+#        en: ""
+#      link: ""
+#      imageUrl: ""
 -
   group: "Gold Partners"
   elements:
