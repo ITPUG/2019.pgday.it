@@ -97,9 +97,27 @@
              internet/intranet per Aziende sanitarie e altre PA, database
              multimediali per archivi di beni culturali, soluzioni di e-commerce e
              molte altre applicazioni di vario genere."
-        en: ""
+        en: "Forma, fin dalla sua nascita nel 1995, ha adottato PostgreSQL per lo
+             sviluppo di applicazioni. Può vantare pertanto una più che ventennale
+             esperienza con PostsgreSQL.
+             Forma srl, con sede a Vicenza, è composta da un team di programmatori
+             qualificati e specializzati nella realizzazione di portali e
+             applicazioni web per grandi aziende, PMI e Pubblica Amministrazione.
+             Con PostgreSQL Forma ha realizzato centinaia di applicazioni: portali
+             internet/intranet per Aziende sanitarie e altre PA, database
+             multimediali per archivi di beni culturali, soluzioni di e-commerce e
+             molte altre applicazioni di vario genere."
       link: "https://www.webforma.it/"
       imageUrl: "forma.png"
+    -
+      name:
+        it: "R3 GIS Srl - GmbH"
+        en: "R3 GIS Srl - GmbH"
+      description:
+        it: "Dal 2003 R3 GIS realizza soluzioni web per la gestione dei dati territoriali. L’esperienza maturata negli anni grazie al contatto diretto con gli utilizzatori finali degli applicativi, la continua formazione del personale e la partecipazione ad eventi internazionali del settore GIS ci hanno permesso di ideare prodotti flessibili, semplici ed estremamente efficaci. R3 GIS si è così affermata come fornitore affidabile e competente. L’impostazione multilingue delle soluzioni permette ad R3 GIS di essere presente anche sul mercato estero."
+        en: "R3 GIS works in the field of GIS and develops Web-GIS applications to manage and update different types of geographic information. Products and services are mainly targeted at central and local public administrations with webGIS software applications, which integrate the spatial component (topographic map, ortophoto, physical plans, cadastral maps, etc.) and databases used by municipalities and public administrations in general."
+      link: "http://www.r3-gis.com/"
+      imageUrl: "logo_r3gis.jpg"      
 -
   group: "Media Partners"
   elements:
