@@ -475,7 +475,7 @@ aboutPgbeerDescription:
        Among the many tasty dishes offered, you should not miss the famous crescentine and homemade tigelle by grandma Bibi, whose recipe is handed down from generation to generation and is secretly kept as a precious treasure.<br/>"
 
 pgbeerDetailsCards:
- - {lang: "it", title: "Tris di Primi", information: 'Tagliatelle al ragù, Gramigna ala salsiccia e Tortelloni burro e salvia'}
+ - {lang: "it", title: "Tris di Primi", information: 'Tagliatelle al ragù, Gramigna alla salsiccia e Tortelloni burro e salvia'}
  - {lang: "en", title: "Tris of first plates", information: 'Tagliatelle with ragu souce, Gramigna (tipical pasta) with sausage souce and Tortelloni with butter and sage souce'}
 
  - {lang: "it", title: "Tigelle e Crescentine", information: 'Tigelle e Crescentine con affettati, Squacquerone, Sottolio, Cipolle rosse di Tropea sotto aceto, Pesto montanaro bolognese, Friggione'}
