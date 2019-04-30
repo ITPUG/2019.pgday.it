@@ -165,7 +165,7 @@
         it: "PyConIT è l'evento ufficiale italiano su Python, al giorno d'oggi è uno degli eventi pythonic più importanti in tutta Europa. Più di 700 persone si radunano da tutto il mondo per partecipare, imparare, programmare, parlare, sostenere e incontrare altri pitonisti a Firenze. La nostra attenzione per la qualità di ogni aspetto di PyCon IT si traduce in un meraviglioso incontro per crescere insieme. Quest'anno, PyCon Italia è alla sua decima edizione e cercheremo di renderlo un'esperienza indimenticabile e ancora più grande per tutti"
         en: "PyConIT is the official italian event about Python, nowadays it's one of the most important pythonic events in all Europe. More than 700 people gather from all over the world to attend, learn, code, speak, support and meet other fellow pythonistas in Florence. Our care for the quality of every aspect of PyCon IT results in a wonderful gathering for growing together. This year, PyCon Italia is at its 10th edition and we’ll try to make it an unforgettable and even more great experience for everyone"
       link: "https://www.pycon.it/it/" 
-      imageUrl: "PyConX.png"
+      imageUrl: "PyconX.png"
 -
   group: "Patrocinato da"
   elements:
