@@ -136,7 +136,7 @@
         en: "Django Girls"
       description:
         it: "Django Girls è una community internazionale nata a Berlino nel 2014 impegnata nell’offrire alle donne l’opportunità di inserirsi nel settore IT attraverso l’organizzazione di workshop di alfabetizzazione digitale di una giornata, in cui le ragazze che partecipano imparano facendo. Le ragazze, affiancate da un coach, metteranno  direttamente mano al codice - usando Python e Django - con l’obiettivo finale di creare un loro blog personale su cui potranno lavorare anche una volta terminato il corso. Django Girls oltre ad essere un progetto per la divulgazione tecnologica, è una community nata nel contesto della conferenza EuroPython e che si è poi diffusa a macchia d’olio. I workshop vengono organizzati in tutto il mondo e Django Girls Italia è la community che agisce in Italia. A sostegno del progetto esiste una Fondazione, nata nel 2016 con sede a Londra, che coordina i gruppi locali, fornendo risorse e supporto per l’organizzazione di nuove iniziative ed eventi. In Italia, il debutto è stato nel dicembre 2015 con il workshop Django Girls Roma."
-        en: "Django Girls è una community internazionale nata a Berlino nel 2014 impegnata nell’offrire alle donne l’opportunità di inserirsi nel settore IT attraverso l’organizzazione di workshop di alfabetizzazione digitale di una giornata, in cui le ragazze che partecipano imparano facendo. Le ragazze, affiancate da un coach, metteranno  direttamente mano al codice - usando Python e Django - con l’obiettivo finale di creare un loro blog personale su cui potranno lavorare anche una volta terminato il corso. Django Girls oltre ad essere un progetto per la divulgazione tecnologica, è una community nata nel contesto della conferenza EuroPython e che si è poi diffusa a macchia d’olio. I workshop vengono organizzati in tutto il mondo e Django Girls Italia è la community che agisce in Italia. A sostegno del progetto esiste una Fondazione, nata nel 2016 con sede a Londra, che coordina i gruppi locali, fornendo risorse e supporto per l’organizzazione di nuove iniziative ed eventi. In Italia, il debutto è stato nel dicembre 2015 con il workshop Django Girls Roma."
+        en: "Django Girls is an international community born in Berlin in 2014, committed to offering women the opportunity to enter the IT sector through the organization of one-day digital literacy workshops, in which the participating girls learn by doing. , supported by a coach, they will directly implement the code - using Python and Django - with the ultimate goal of creating their own personal blog where they can work even after completing the course Django Girls as well as being a project for technological dissemination , is a community born in the context of the EuroPython conference and that spread like wildfire.The workshops are organized all over the world and Django Girls Italia is the community that acts in Italy.A Foundation exists to support the project, established in 2016 based in London, which coordinates local groups, providing resources and support for the organization of new initiatives and events. alia, the debut was in December 2015 with the Django Girls Rome workshop."
       link: "https://www.facebook.com/djangogirlsIT/"
       imageUrl: "logo-bigger.png"
     -
@@ -145,9 +145,43 @@
         en: "Grusp"
       description:
         it: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web. Organizziamo eventi, conferenze ed incontri informali coinvolgendo professionisti italiani ed internazionali. Puntiamo a rendere l'ecosistema del mondo italiano dello sviluppo web migliore sia sotto l'aspetto delle competenze che delle opportunità creando maggiore consapevolezza."
-        en: "Nata nel 2003 come associazione dedicata al solo mondo del PHP il GrUSP è diventata il punto di riferimento in Italia per le buone pratiche nel mondo dello sviluppo web. Organizziamo eventi, conferenze ed incontri informali coinvolgendo professionisti italiani ed internazionali. Puntiamo a rendere l'ecosistema del mondo italiano dello sviluppo web migliore sia sotto l'aspetto delle competenze che delle opportunità creando maggiore consapevolezza."
+        en: "Founded in 2003 as an association dedicated only to the world of PHP, GrUSP has become the reference point in Italy for good practices in the world of web development. We organize events, conferences and informal meetings involving Italian and international professionals. We aim to make the ecosystem of the Italian world of web development better, both in terms of skills and opportunities, creating greater awareness."
       link: "https://www.grusp.org/it/"
       imageUrl: "grusp-logo.png"
+    -
+      name:
+        it: "Informatici Senza Frontiere"
+        en: "Informatici Senza Frontiere"
+      description:
+        it: "In un mondo che cambia Informatici Senza Frontiere propone un nuovo uso della tecnologia più intelligente, sostenibile e solidale. Offre il proprio tempo, le proprie competenze, esperienze e passioni informatiche per realizzare progetti no profit, privilegiando contesti di emarginazione e difficoltà e situazioni di emergenza, in Italia e nei Paesi in via di sviluppo. Lavora per colmare il divario digitale e per favorire un processo di crescita, individuale o di gruppo, che porti ciascuno ad appropriarsi consapevolmente delle proprie potenzialità attraverso le conoscenze e le tecnologie informatiche.Si fonda sui valori del rispetto della dignità umana e della solidarietà e fa delle parole inclusione e sviluppo il proprio credo. Nata nel 2005 Informatici Senza Frontiere è una ONLUS che ha oggi 12 sezioni regionali, oltre 300 soci, centinaia di progetti al suo attivo ed un’importante presenza al Vertice Mondiale 2013 ITU dell’ONU come rappresentante a livello europeo di ciò che l’IT può fare nel settore della disabilità." 
+        en: "In a changing world Informatici Senza Frontiere proposes a new use of the most intelligent, sustainable and supportive technology. It offers its time, its skills, experiences and IT passions to carry out non-profit projects, favoring contexts of marginalization and difficulties and emergency situations, in Italy and in developing countries. It works to bridge the digital divide and to foster a process of growth, individual or group, which leads each to consciously appropriate their potential through knowledge and information technology. It is based on the values ​​of respect for human dignity and solidarity and makes of the words inclusion and development of one's belief. Born in 2005, Informatici Senza Frontiere is an NGO that has 12 regional sections today, over 300 members, hundreds of projects to its credit and an important presence at the 2013 ITU World Summit as a European representative of what IT can do in the disability sector." 
+      link: "https://www.informaticisenzafrontiere.org" 
+      imageUrl: "isf.png"
+    -
+      name:
+        it: "PyConIT"
+        en: "PyConIT"
+      description:
+        it: "PyConIT è l'evento ufficiale italiano su Python, al giorno d'oggi è uno degli eventi pythonic più importanti in tutta Europa. Più di 700 persone si radunano da tutto il mondo per partecipare, imparare, programmare, parlare, sostenere e incontrare altri pitonisti a Firenze. La nostra attenzione per la qualità di ogni aspetto di PyCon IT si traduce in un meraviglioso incontro per crescere insieme. Quest'anno, PyCon Italia è alla sua decima edizione e cercheremo di renderlo un'esperienza indimenticabile e ancora più grande per tutti"
+        en: "PyConIT is the official italian event about Python, nowadays it's one of the most important pythonic events in all Europe. More than 700 people gather from all over the world to attend, learn, code, speak, support and meet other fellow pythonistas in Florence. Our care for the quality of every aspect of PyCon IT results in a wonderful gathering for growing together. This year, PyCon Italia is at its 10th edition and we’ll try to make it an unforgettable and even more great experience for everyone"
+      link: "https://www.pycon.it/it/" 
+      imageUrl: "PyConX.png"
+-
+  group: "Patrocinato da"
+  elements:
+    -
+      name:
+        it: "Città Metropolitana di Bologna"
+        en: "Città Metropolitana di Bologna"
+      description:
+-
+  group: "Patrocinato da"
+  elements:
+    -
+      name:
+        it: "Città Metropolitana di Bologna"
+        en: "Città Metropolitana di Bologna"
+      description:
 -
   group: "Patrocinato da"
   elements:
