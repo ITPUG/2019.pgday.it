@@ -123,16 +123,15 @@
     - {name: "linkedin", link: "https://it.linkedin.com/in/mnencia"}
 -
   id: 1
-  name: "Matteo"
-  surname: "Beccati"
+  name: "Andrej"
+  surname: "Sossi"
   title: "Vice-Presidente Associazione ITPUG"
-  thumbnailUrl: matteo.jpg
+  thumbnailUrl: andrejVP.jpg
   team: true
   social:
-    - {name: "google-plus", link: "https://plus.google.com/107891917634409052504"}
-    - {name: "twitter", link: "https://twitter.com/mbeccati"}
-    - {name: "github", link: "https://github.com/mbeccati"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/beccati"}
+    - {name: "google-plus", link: ""}
+    - {name: "twitter", link: ""}
+    - {name: "linkedin", link: ""}
 -
   id: 2
   name: "Patrizia"
@@ -158,10 +157,10 @@
     - {name: "linkedin", link: "https://it.linkedin.com/in/bam965"}
 -
   id: 4
-  name: "Giuseppe"
-  surname: "Broccolo"
+  name: "FLorin"
+  surname: "Irion"
   title: "Consigliere Associazione ITPUG"
-  thumbnailUrl: giuseppe.jpg
+  thumbnailUrl: florinC.jpg
   team: true
   social:
     - {name: "twitter", link: "https://twitter.com/giubro"}
