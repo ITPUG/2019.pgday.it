@@ -163,9 +163,9 @@
   thumbnailUrl: florinC.jpg
   team: true
   social:
-    - {name: "twitter", link: "https://twitter.com/giubro"}
-    - {name: "github", link: "https://github.com/gbroccolo"}
-    - {name: "linkedin", link: "https://it.linkedin.com/in/gbroccolo7"}
+    - {name: "twitter", link: ""}
+    - {name: "github", link: ""}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/florin-razvan-irion/"}
 #-
 #  id: 0
 #  name: "Marco"
