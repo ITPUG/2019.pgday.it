@@ -468,7 +468,7 @@ In questo talk parleremo di quali strumenti sono a disposizione per effettuare u
 -
   id: 061
   title:
-    it: "Un po' di pratica con Barman"
+    it: "Barman in action"
     en: "Barman in action"
   description:
     it: "Barman ha recentemente aggiunto funzionalità interessanti per la gestione dei backup e della recovery di istanze PostgreSQL. Vediamo alcuni modi più comuni per configurare Barman con PostgreSQL e mettere in sicurezza i tuoi dati, fino a raggiungere perdita dati zero."
