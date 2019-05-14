@@ -653,7 +653,7 @@ workshopsRows:
      speakerId: 58
    subtitle:
      it: 16 maggio 2019 - ore 14,00
-     en: May 16th, 2019 - time 14pm
+     en: May 16th, 2019 - time 2pm
    details:
      it: |
        Rust è un di programmazione ad alta efficienza pensato per scrivere software di sistema. Dopo una introduzione alle caratteristiche più interessanti del linguaggio ed un confronto con i linguaggi più famosi, vedremo come utilizzare PostgreSQL nei programmi Rust. Dopo aver parlato del sistema di macro di Rust, lo useremo con Diesel: un ORM che ci permette di controllare la correttezza delle query durante la compilazione e quindi di trovare subito i problemi. Se rimane un po' di tempo costruiremo insieme una estensione di PostgreSQL usando Rust.
