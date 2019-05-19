@@ -175,7 +175,7 @@ I partecipanti impareranno come configurare in maniera semplice una replica da M
   speakers: [46]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://2019.pgday.it/assets/pg_cham_pgday_ita_handout.pdf"
 #  video: ""
 -
   id: 048
@@ -203,7 +203,7 @@ Foreign data wrappers which are their own whole class"
   speakers: [48]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://2019.pgday.it/assets/aroundtheworldwithextensions-181029185250.pdf"
 #  video: ""
 -
   id: 049
@@ -323,7 +323,7 @@ Leaflet is the leading open source JavaScript library for interactive web maps o
   speakers: [55]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://2019.pgday.it/assets/Maps with GeoDjango, PostGIS and Leaflet.pdf"
 #  video: ""
 -
   id: 056
@@ -433,7 +433,7 @@ possono ora essere aggregate per facilitare l'analisi."
   speakers: [58]
   language: IT
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://2019.pgday.it/assets/postgresql-clickhouse-it.pdf"
 #  video: ""
 -
   id: 059
@@ -477,7 +477,7 @@ In questo talk parleremo di quali strumenti sono a disposizione per effettuare u
   speakers: [61]
   language: EN
   complexity: "Intermediate"
-#  presentation: ""
+  presentation: "http://2019.pgday.it/assets/Barman in action.pdf"
 #  video: ""
 -
   id: 325
